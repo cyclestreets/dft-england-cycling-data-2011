@@ -1,0 +1,2061 @@
+{ "type": "FeatureCollection", "features": [
+
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Cambridge",
+		"popupContent": "<a href='#/projects/1/api/'>Cambridge</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.036189, 52.257591],
+            [0.211712, 52.257591],
+            [0.211712, 52.125986],
+            [0.036189, 52.125986],
+            [0.036189, 52.257591]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "CUBA (County that Used to Be Avon)",
+		"popupContent": "<a href='#/projects/2/api/'>CUBA (County that Used to Be Avon)</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.99024, 51.655351],
+            [-2.255386, 51.655351],
+            [-2.255386, 51.275516],
+            [-2.99024, 51.275516],
+            [-2.99024, 51.655351]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Devon",
+		"popupContent": "<a href='#/projects/3/api/'>Devon</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-4.372911, 51.229552],
+            [-2.97209, 51.229552],
+            [-2.97209, 50.221073],
+            [-4.372911, 50.221073],
+            [-4.372911, 51.229552]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Mendip",
+		"popupContent": "<a href='#/projects/4/api/'>Mendip</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.756234, 51.287754],
+            [-2.317007, 51.287754],
+            [-2.317007, 51.115342],
+            [-2.756234, 51.115342],
+            [-2.756234, 51.287754]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Nottingham",
+		"popupContent": "<a href='#/projects/5/api/'>Nottingham</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.276359, 53.021062],
+            [-1.060084, 53.021062],
+            [-1.060084, 52.891787],
+            [-1.276359, 52.891787],
+            [-1.276359, 53.021062]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SouthSomerset",
+		"popupContent": "<a href='#/projects/6/api/'>SouthSomerset</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.97167, 51.101364],
+            [-2.405676, 51.101364],
+            [-2.405676, 50.86804],
+            [-2.97167, 50.86804],
+            [-2.97167, 51.101364]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "TauntonSedgemoor",
+		"popupContent": "<a href='#/projects/7/api/'>TauntonSedgemoor</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-3.261668, 51.287922],
+            [-2.756437, 51.287922],
+            [-2.756437, 50.94047],
+            [-3.261668, 50.94047],
+            [-3.261668, 51.287922]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Barnsley",
+		"popupContent": "<a href='#/projects/8/api/'>Barnsley</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.794391, 53.590712],
+            [-1.282918, 53.590712],
+            [-1.282918, 53.446118],
+            [-1.794391, 53.446118],
+            [-1.794391, 53.590712]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Bedford",
+		"popupContent": "<a href='#/projects/9/api/'>Bedford</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.486037, 52.170628],
+            [-0.324354, 52.170628],
+            [-0.324354, 52.140648],
+            [-0.486037, 52.140648],
+            [-0.486037, 52.170628]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": " Birmingham",
+		"popupContent": "<a href='#/projects/10/api/'> Birmingham</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.034545, 52.606734],
+            [-1.735104, 52.606734],
+            [-1.735104, 52.383446],
+            [-2.034545, 52.383446],
+            [-2.034545, 52.606734]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Bradford",
+		"popupContent": "<a href='#/projects/11/api/'>Bradford</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.997005, 53.944941],
+            [-1.720317, 53.944941],
+            [-1.720317, 53.760933],
+            [-1.997005, 53.760933],
+            [-1.997005, 53.944941]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Calderdale",
+		"popupContent": "<a href='#/projects/12/api/'>Calderdale</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.104245, 53.755482],
+            [-1.920416, 53.755482],
+            [-1.920416, 53.677657],
+            [-2.104245, 53.677657],
+            [-2.104245, 53.755482]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "CentralLondon",
+		"popupContent": "<a href='#/projects/13/api/'>CentralLondon</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.291607, 51.551658],
+            [0.01889, 51.551658],
+            [0.01889, 51.454425],
+            [-0.291607, 51.454425],
+            [-0.291607, 51.551658]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "County Durham",
+		"popupContent": "<a href='#/projects/14/api/'>County Durham</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.846782, 54.924351],
+            [-1.324143, 54.924351],
+            [-1.324143, 54.798062],
+            [-1.846782, 54.798062],
+            [-1.846782, 54.924351]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Coventry",
+		"popupContent": "<a href='#/projects/15/api/'>Coventry</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.593274, 52.459229],
+            [-1.43839, 52.459229],
+            [-1.43839, 52.373939],
+            [-1.593274, 52.373939],
+            [-1.593274, 52.459229]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Doncaster",
+		"popupContent": "<a href='#/projects/16/api/'>Doncaster</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.278989, 53.648722],
+            [-0.951668, 53.648722],
+            [-0.951668, 53.47027],
+            [-1.278989, 53.47027],
+            [-1.278989, 53.648722]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Dudley",
+		"popupContent": "<a href='#/projects/17/api/'>Dudley</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.177923, 52.543983],
+            [-2.038285, 52.543983],
+            [-2.038285, 52.42796],
+            [-2.177923, 52.42796],
+            [-2.177923, 52.543983]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Gateshead",
+		"popupContent": "<a href='#/projects/18/api/'>Gateshead</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.81668, 54.984752],
+            [-1.532404, 54.984752],
+            [-1.532404, 54.914545],
+            [-1.81668, 54.914545],
+            [-1.81668, 54.984752]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Kirklees",
+		"popupContent": "<a href='#/projects/19/api/'>Kirklees</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.929925, 53.761882],
+            [-1.599262, 53.761882],
+            [-1.599262, 53.593145],
+            [-1.929925, 53.593145],
+            [-1.929925, 53.761882]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Leeds",
+		"popupContent": "<a href='#/projects/20/api/'>Leeds</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.762176, 53.951616],
+            [-1.324629, 53.951616],
+            [-1.324629, 53.724236],
+            [-1.762176, 53.724236],
+            [-1.762176, 53.951616]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Luton",
+		"popupContent": "<a href='#/projects/21/api/'>Luton</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.600175, 52.146263],
+            [-0.233692, 52.146263],
+            [-0.233692, 51.849335],
+            [-0.600175, 51.849335],
+            [-0.600175, 52.146263]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Manchester",
+		"popupContent": "<a href='#/projects/22/api/'>Manchester</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.617177, 53.680782],
+            [-1.979456, 53.680782],
+            [-1.979456, 53.344588],
+            [-2.617177, 53.344588],
+            [-2.617177, 53.680782]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Merseyside",
+		"popupContent": "<a href='#/projects/23/api/'>Merseyside</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-3.183551, 53.676653],
+            [-2.599684, 53.676653],
+            [-2.599684, 53.302379],
+            [-3.183551, 53.302379],
+            [-3.183551, 53.676653]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "MiltonKeynes",
+		"popupContent": "<a href='#/projects/24/api/'>MiltonKeynes</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.837634, 52.084268],
+            [-0.668895, 52.084268],
+            [-0.668895, 51.983152],
+            [-0.837634, 51.983152],
+            [-0.837634, 52.084268]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "NorthTyneside",
+		"popupContent": "<a href='#/projects/25/api/'>NorthTyneside</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.639232, 55.079658],
+            [-1.41816, 55.079658],
+            [-1.41816, 54.983124],
+            [-1.639232, 54.983124],
+            [-1.639232, 55.079658]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Northumberland",
+		"popupContent": "<a href='#/projects/26/api/'>Northumberland</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.866967, 55.257402],
+            [-1.462074, 55.257402],
+            [-1.462074, 54.965754],
+            [-1.866967, 54.965754],
+            [-1.866967, 55.257402]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Portsmouth",
+		"popupContent": "<a href='#/projects/27/api/'>Portsmouth</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.268316, 50.913139],
+            [-0.937667, 50.913139],
+            [-0.937667, 50.777121],
+            [-1.268316, 50.777121],
+            [-1.268316, 50.913139]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Rotherham",
+		"popupContent": "<a href='#/projects/28/api/'>Rotherham</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.323335, 53.516332],
+            [-1.165985, 53.516332],
+            [-1.165985, 53.327417],
+            [-1.323335, 53.327417],
+            [-1.323335, 53.516332]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Rural County Durham",
+		"popupContent": "<a href='#/projects/29/api/'>Rural County Durham</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.118336, 54.839559],
+            [-1.303465, 54.839559],
+            [-1.303465, 54.487903],
+            [-2.118336, 54.487903],
+            [-2.118336, 54.839559]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Rural Northumberland",
+		"popupContent": "<a href='#/projects/30/api/'>Rural Northumberland</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.588127, 55.77881],
+            [-1.550149, 55.77881],
+            [-1.550149, 54.8575],
+            [-2.588127, 54.8575],
+            [-2.588127, 55.77881]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Sandwell",
+		"popupContent": "<a href='#/projects/31/api/'>Sandwell</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.094604, 52.565524],
+            [-2.02934, 52.565524],
+            [-2.02934, 52.464708],
+            [-2.094604, 52.464708],
+            [-2.094604, 52.565524]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Solihull",
+		"popupContent": "<a href='#/projects/32/api/'>Solihull</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.834044, 52.515066],
+            [-1.620207, 52.515066],
+            [-1.620207, 52.348046],
+            [-1.834044, 52.348046],
+            [-1.834044, 52.515066]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Southampton",
+		"popupContent": "<a href='#/projects/33/api/'>Southampton</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.471079, 50.999357],
+            [-1.26796, 50.999357],
+            [-1.26796, 50.850552],
+            [-1.471079, 50.850552],
+            [-1.471079, 50.999357]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SouthTyneside",
+		"popupContent": "<a href='#/projects/34/api/'>SouthTyneside</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.537437, 55.005285],
+            [-1.356727, 55.005285],
+            [-1.356727, 54.944498],
+            [-1.537437, 54.944498],
+            [-1.537437, 55.005285]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Sunderland",
+		"popupContent": "<a href='#/projects/35/api/'>Sunderland</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.565195, 54.947258],
+            [-1.36232, 54.947258],
+            [-1.36232, 54.915275],
+            [-1.565195, 54.915275],
+            [-1.565195, 54.947258]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SuperLondonBorough1",
+		"popupContent": "<a href='#/projects/36/api/'>SuperLondonBorough1</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.504796, 51.625241],
+            [-0.281526, 51.625241],
+            [-0.281526, 51.430128],
+            [-0.504796, 51.430128],
+            [-0.504796, 51.625241]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SuperLondonBorough2+3",
+		"popupContent": "<a href='#/projects/37/api/'>SuperLondonBorough2+3</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.304933, 51.684693],
+            [-0.011618, 51.684693],
+            [-0.011618, 51.542623],
+            [-0.304933, 51.542623],
+            [-0.304933, 51.684693]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SuperLondonBorough4",
+		"popupContent": "<a href='#/projects/38/api/'>SuperLondonBorough4</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.016346, 51.633308],
+            [0.299047, 51.633308],
+            [0.299047, 51.498151],
+            [-0.016346, 51.498151],
+            [-0.016346, 51.633308]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SuperLondonBorough5",
+		"popupContent": "<a href='#/projects/39/api/'>SuperLondonBorough5</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.406307, 51.482102],
+            [-0.141699, 51.482102],
+            [-0.141699, 51.324782],
+            [-0.406307, 51.324782],
+            [-0.406307, 51.482102]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SuperLondonBorough6",
+		"popupContent": "<a href='#/projects/40/api/'>SuperLondonBorough6</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.15026, 51.45707],
+            [0.033523, 51.45707],
+            [0.033523, 51.41122],
+            [-0.15026, 51.41122],
+            [-0.15026, 51.45707]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SuperLondonBorough7",
+		"popupContent": "<a href='#/projects/41/api/'>SuperLondonBorough7</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.145914, 51.433614],
+            [0.14803, 51.433614],
+            [0.14803, 51.300949],
+            [-0.145914, 51.300949],
+            [-0.145914, 51.433614]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SuperLondonBorough8",
+		"popupContent": "<a href='#/projects/42/api/'>SuperLondonBorough8</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.011745, 51.515881],
+            [0.216144, 51.515881],
+            [0.216144, 51.416891],
+            [0.011745, 51.416891],
+            [0.011745, 51.515881]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Teesside",
+		"popupContent": "<a href='#/projects/43/api/'>Teesside</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.31239, 54.731017],
+            [-0.793508, 54.731017],
+            [-0.793508, 54.493279],
+            [-1.31239, 54.493279],
+            [-1.31239, 54.731017]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Wakefield",
+		"popupContent": "<a href='#/projects/44/api/'>Wakefield</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.592231, 53.725402],
+            [-1.235727, 53.725402],
+            [-1.235727, 53.590332],
+            [-1.592231, 53.590332],
+            [-1.592231, 53.725402]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Walsall",
+		"popupContent": "<a href='#/projects/45/api/'>Walsall</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.072235, 52.661926],
+            [-1.915902, 52.661926],
+            [-1.915902, 52.554233],
+            [-2.072235, 52.554233],
+            [-2.072235, 52.661926]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Wolverhampton",
+		"popupContent": "<a href='#/projects/46/api/'>Wolverhampton</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.197404, 52.634329],
+            [-2.070909, 52.634329],
+            [-2.070909, 52.542617],
+            [-2.197404, 52.542617],
+            [-2.197404, 52.634329]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Basildon",
+		"popupContent": "<a href='#/projects/47/api/'>Basildon</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.392732, 51.641474],
+            [0.543087, 51.641474],
+            [0.543087, 51.54997],
+            [0.392732, 51.54997],
+            [0.392732, 51.641474]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Blackburn",
+		"popupContent": "<a href='#/projects/48/api/'>Blackburn</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.531371, 53.790452],
+            [-2.385581, 53.790452],
+            [-2.385581, 53.689774],
+            [-2.531371, 53.689774],
+            [-2.531371, 53.790452]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Blackpool",
+		"popupContent": "<a href='#/projects/49/api/'>Blackpool</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-3.058934, 53.926572],
+            [-2.925009, 53.926572],
+            [-2.925009, 53.747281],
+            [-3.058934, 53.747281],
+            [-3.058934, 53.926572]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Bracknell",
+		"popupContent": "<a href='#/projects/50/api/'>Bracknell</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.802348, 51.402861],
+            [-0.700303, 51.402861],
+            [-0.700303, 51.337252],
+            [-0.802348, 51.337252],
+            [-0.802348, 51.402861]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Braintree",
+		"popupContent": "<a href='#/projects/51/api/'>Braintree</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.630325, 51.816062],
+            [0.707562, 51.816062],
+            [0.707562, 51.717835],
+            [0.630325, 51.717835],
+            [0.630325, 51.816062]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Buckinghamshire",
+		"popupContent": "<a href='#/projects/52/api/'>Buckinghamshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.87715, 51.988611],
+            [-0.582498, 51.988611],
+            [-0.582498, 51.573487],
+            [-0.87715, 51.573487],
+            [-0.87715, 51.988611]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "CastlePoint",
+		"popupContent": "<a href='#/projects/53/api/'>CastlePoint</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.541991, 51.610015],
+            [0.701174, 51.610015],
+            [0.701174, 51.521521],
+            [0.541991, 51.521521],
+            [0.541991, 51.610015]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "CheshireWest",
+		"popupContent": "<a href='#/projects/54/api/'>CheshireWest</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-3.082175, 53.304304],
+            [-2.711351, 53.304304],
+            [-2.711351, 53.170316],
+            [-3.082175, 53.170316],
+            [-3.082175, 53.304304]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Chester",
+		"popupContent": "<a href='#/projects/55/api/'>Chester</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.916618, 53.171443],
+            [-2.699506, 53.171443],
+            [-2.699506, 53.015728],
+            [-2.916618, 53.015728],
+            [-2.916618, 53.171443]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Colchester",
+		"popupContent": "<a href='#/projects/56/api/'>Colchester</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.737557, 51.925685],
+            [0.962856, 51.925685],
+            [0.962856, 51.784124],
+            [0.737557, 51.784124],
+            [0.737557, 51.925685]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Cornwall",
+		"popupContent": "<a href='#/projects/57/api/'>Cornwall</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-5.702921, 50.827203],
+            [-4.533691, 50.827203],
+            [-4.533691, 50.06273],
+            [-5.702921, 50.06273],
+            [-5.702921, 50.827203]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Cumbria",
+		"popupContent": "<a href='#/projects/58/api/'>Cumbria</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-3.601022, 55.09527],
+            [-2.120812, 55.09527],
+            [-2.120812, 54.100127],
+            [-3.601022, 54.100127],
+            [-3.601022, 55.09527]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EastRiding",
+		"popupContent": "<a href='#/projects/59/api/'>EastRiding</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.42035, 54.101425],
+            [-0.161186, 54.101425],
+            [-0.161186, 53.72392],
+            [-0.42035, 53.72392],
+            [-0.42035, 54.101425]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Erewash",
+		"popupContent": "<a href='#/projects/60/api/'>Erewash</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.321588, 52.950583],
+            [-1.237924, 52.950583],
+            [-1.237924, 52.875268],
+            [-1.321588, 52.875268],
+            [-1.321588, 52.950583]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Herefordshire",
+		"popupContent": "<a href='#/projects/61/api/'>Herefordshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.783641, 52.079985],
+            [-2.417159, 52.079985],
+            [-2.417159, 51.99325],
+            [-2.783641, 51.99325],
+            [-2.783641, 52.079985]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "IsleOfWight",
+		"popupContent": "<a href='#/projects/62/api/'>IsleOfWight</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.5078, 50.763353],
+            [-1.128605, 50.763353],
+            [-1.128605, 50.618969],
+            [-1.5078, 50.618969],
+            [-1.5078, 50.763353]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Kettering",
+		"popupContent": "<a href='#/projects/63/api/'>Kettering</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.793493, 52.44019],
+            [-0.665057, 52.44019],
+            [-0.665057, 52.365311],
+            [-0.793493, 52.365311],
+            [-0.793493, 52.44019]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Lancaster",
+		"popupContent": "<a href='#/projects/64/api/'>Lancaster</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.901501, 54.106337],
+            [-2.504526, 54.106337],
+            [-2.504526, 53.965804],
+            [-2.901501, 53.965804],
+            [-2.901501, 54.106337]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Lincolnshire",
+		"popupContent": "<a href='#/projects/65/api/'>Lincolnshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.838035, 53.512575],
+            [0.032603, 53.512575],
+            [0.032603, 52.640761],
+            [-0.838035, 52.640761],
+            [-0.838035, 53.512575]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Norfolk",
+		"popupContent": "<a href='#/projects/66/api/'>Norfolk</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.36688, 52.972442],
+            [1.739489, 52.972442],
+            [1.739489, 52.373858],
+            [0.36688, 52.373858],
+            [0.36688, 52.972442]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Northampton",
+		"popupContent": "<a href='#/projects/67/api/'>Northampton</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.283094, 52.447871],
+            [-0.802152, 52.447871],
+            [-0.802152, 52.07177],
+            [-1.283094, 52.07177],
+            [-1.283094, 52.447871]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "NorthEastLincolnshire",
+		"popupContent": "<a href='#/projects/68/api/'>NorthEastLincolnshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.140099, 53.583785],
+            [0.007957, 53.583785],
+            [0.007957, 53.531172],
+            [-0.140099, 53.531172],
+            [-0.140099, 53.583785]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "NorthLincolnshire",
+		"popupContent": "<a href='#/projects/69/api/'>NorthLincolnshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.694346, 53.656847],
+            [-0.332514, 53.656847],
+            [-0.332514, 53.545162],
+            [-0.694346, 53.545162],
+            [-0.694346, 53.656847]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "NorthYorkshire",
+		"popupContent": "<a href='#/projects/70/api/'>NorthYorkshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.395658, 54.491325],
+            [-0.392336, 54.491325],
+            [-0.392336, 53.657506],
+            [-2.395658, 53.657506],
+            [-2.395658, 54.491325]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Oxfordshire",
+		"popupContent": "<a href='#/projects/71/api/'>Oxfordshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.545243, 52.081901],
+            [-0.864014, 52.081901],
+            [-0.864014, 51.488218],
+            [-1.545243, 51.488218],
+            [-1.545243, 52.081901]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Preston",
+		"popupContent": "<a href='#/projects/72/api/'>Preston</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.803709, 53.806004],
+            [-2.526018, 53.806004],
+            [-2.526018, 53.65602],
+            [-2.803709, 53.65602],
+            [-2.803709, 53.806004]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "ReadingNewbury",
+		"popupContent": "<a href='#/projects/73/api/'>ReadingNewbury</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.392417, 51.49768],
+            [-0.830842, 51.49768],
+            [-0.830842, 51.358247],
+            [-1.392417, 51.358247],
+            [-1.392417, 51.49768]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "RibbleValley",
+		"popupContent": "<a href='#/projects/74/api/'>RibbleValley</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.455408, 54.025405],
+            [-2.372998, 54.025405],
+            [-2.372998, 53.865896],
+            [-2.455408, 53.865896],
+            [-2.455408, 54.025405]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Rushmoor",
+		"popupContent": "<a href='#/projects/75/api/'>Rushmoor</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.864751, 51.313907],
+            [-0.72917, 51.313907],
+            [-0.72917, 51.230724],
+            [-0.864751, 51.230724],
+            [-0.864751, 51.313907]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "SloughWindsor",
+		"popupContent": "<a href='#/projects/76/api/'>SloughWindsor</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.822409, 51.550751],
+            [-0.501688, 51.550751],
+            [-0.501688, 51.398287],
+            [-0.822409, 51.398287],
+            [-0.822409, 51.550751]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Southend",
+		"popupContent": "<a href='#/projects/77/api/'>Southend</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.699339, 51.560704],
+            [0.776859, 51.560704],
+            [0.776859, 51.523684],
+            [0.699339, 51.523684],
+            [0.699339, 51.560704]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Tendring",
+		"popupContent": "<a href='#/projects/78/api/'>Tendring</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [1.119176, 51.948238],
+            [1.290766, 51.948238],
+            [1.290766, 51.77548],
+            [1.119176, 51.77548],
+            [1.119176, 51.948238]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "WestLancashire",
+		"popupContent": "<a href='#/projects/79/api/'>WestLancashire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-3.025456, 53.783442],
+            [-2.796945, 53.783442],
+            [-2.796945, 53.672074],
+            [-3.025456, 53.672074],
+            [-3.025456, 53.783442]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Wiltshire",
+		"popupContent": "<a href='#/projects/80/api/'>Wiltshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.320002, 51.641143],
+            [-1.705513, 51.641143],
+            [-1.705513, 51.047633],
+            [-2.320002, 51.047633],
+            [-2.320002, 51.641143]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Ashford",
+		"popupContent": "<a href='#/projects/81/api/'>Ashford</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.83269, 51.321664],
+            [1.404691, 51.321664],
+            [1.404691, 50.940424],
+            [0.83269, 50.940424],
+            [0.83269, 51.321664]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Basingstoke",
+		"popupContent": "<a href='#/projects/82/api/'>Basingstoke</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.354502, 51.299982],
+            [-1.049083, 51.299982],
+            [-1.049083, 50.986652],
+            [-1.354502, 50.986652],
+            [-1.354502, 51.299982]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Brighton",
+		"popupContent": "<a href='#/projects/83/api/'>Brighton</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.239247, 50.897275],
+            [-0.014567, 50.897275],
+            [-0.014567, 50.800152],
+            [-0.239247, 50.800152],
+            [-0.239247, 50.897275]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Cambridgeshire",
+		"popupContent": "<a href='#/projects/84/api/'>Cambridgeshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.308721, 52.676491],
+            [0.312222, 52.676491],
+            [0.312222, 52.208715],
+            [-0.308721, 52.208715],
+            [-0.308721, 52.676491]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Canterbury",
+		"popupContent": "<a href='#/projects/85/api/'>Canterbury</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [1.001012, 51.392646],
+            [1.446076, 51.392646],
+            [1.446076, 51.238247],
+            [1.001012, 51.238247],
+            [1.001012, 51.392646]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "CheshireEast",
+		"popupContent": "<a href='#/projects/86/api/'>CheshireEast</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.713369, 53.349835],
+            [-2.078971, 53.349835],
+            [-2.078971, 53.054523],
+            [-2.713369, 53.054523],
+            [-2.713369, 53.349835]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Chichester",
+		"popupContent": "<a href='#/projects/87/api/'>Chichester</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.932308, 50.966272],
+            [-0.54238, 50.966272],
+            [-0.54238, 50.763305],
+            [-0.932308, 50.763305],
+            [-0.932308, 50.966272]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Dartford",
+		"popupContent": "<a href='#/projects/88/api/'>Dartford</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.213799, 51.472056],
+            [0.44945, 51.472056],
+            [0.44945, 51.398562],
+            [0.213799, 51.398562],
+            [0.213799, 51.472056]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Derbyshire",
+		"popupContent": "<a href='#/projects/89/api/'>Derbyshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.002706, 53.496244],
+            [-1.305285, 53.496244],
+            [-1.305285, 52.742075],
+            [-2.002706, 52.742075],
+            [-2.002706, 53.496244]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EastDorset",
+		"popupContent": "<a href='#/projects/90/api/'>EastDorset</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.183037, 50.96279],
+            [-1.686494, 50.96279],
+            [-1.686494, 50.64681],
+            [-2.183037, 50.64681],
+            [-2.183037, 50.96279]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EastHerts",
+		"popupContent": "<a href='#/projects/91/api/'>EastHerts</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.170119, 51.81902],
+            [-0.00962, 51.81902],
+            [-0.00962, 51.685084],
+            [-0.170119, 51.685084],
+            [-0.170119, 51.81902]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EastSurrey",
+		"popupContent": "<a href='#/projects/92/api/'>EastSurrey</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.285436, 51.327688],
+            [-0.013578, 51.327688],
+            [-0.013578, 51.166116],
+            [-0.285436, 51.166116],
+            [-0.285436, 51.327688]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EastSussex",
+		"popupContent": "<a href='#/projects/93/api/'>EastSussex</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.039957, 51.142656],
+            [0.883013, 51.142656],
+            [0.883013, 50.765483],
+            [-0.039957, 50.765483],
+            [-0.039957, 51.142656]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EHants",
+		"popupContent": "<a href='#/projects/94/api/'>EHants</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.052595, 51.154287],
+            [-0.90882, 51.154287],
+            [-0.90882, 50.962982],
+            [-1.052595, 50.962982],
+            [-1.052595, 51.154287]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Elmbridge",
+		"popupContent": "<a href='#/projects/95/api/'>Elmbridge</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.476154, 51.413132],
+            [-0.282353, 51.413132],
+            [-0.282353, 51.218917],
+            [-0.476154, 51.218917],
+            [-0.476154, 51.413132]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EppingUttlesfordBrentwood",
+		"popupContent": "<a href='#/projects/96/api/'>EppingUttlesfordBrentwood</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.014657, 51.869976],
+            [0.352357, 51.869976],
+            [0.352357, 51.610945],
+            [-0.014657, 51.610945],
+            [-0.014657, 51.869976]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "EssexStanstead",
+		"popupContent": "<a href='#/projects/97/api/'>EssexStanstead</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.195884, 52.025137],
+            [0.634571, 52.025137],
+            [0.634571, 51.638396],
+            [0.195884, 51.638396],
+            [0.195884, 52.025137]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Gloucestershire",
+		"popupContent": "<a href='#/projects/98/api/'>Gloucestershire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.436993, 52.00819],
+            [-1.700163, 52.00819],
+            [-1.700163, 51.642806],
+            [-2.436993, 51.642806],
+            [-2.436993, 52.00819]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Guildford",
+		"popupContent": "<a href='#/projects/99/api/'>Guildford</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.808009, 51.272623],
+            [-0.437567, 51.272623],
+            [-0.437567, 51.110329],
+            [-0.808009, 51.110329],
+            [-0.808009, 51.272623]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Horsham",
+		"popupContent": "<a href='#/projects/100/api/'>Horsham</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.539695, 51.168964],
+            [-7.3e-05, 51.168964],
+            [-7.3e-05, 50.861742],
+            [-0.539695, 50.861742],
+            [-0.539695, 51.168964]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Leicestershire",
+		"popupContent": "<a href='#/projects/101/api/'>Leicestershire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.554648, 52.849394],
+            [-0.608627, 52.849394],
+            [-0.608627, 52.444445],
+            [-1.554648, 52.444445],
+            [-1.554648, 52.849394]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Maidstone",
+		"popupContent": "<a href='#/projects/102/api/'>Maidstone</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.210558, 51.331865],
+            [0.566956, 51.331865],
+            [0.566956, 51.13875],
+            [0.210558, 51.13875],
+            [0.210558, 51.331865]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Medway",
+		"popupContent": "<a href='#/projects/103/api/'>Medway</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.443515, 51.445561],
+            [0.618529, 51.445561],
+            [0.618529, 51.330588],
+            [0.443515, 51.330588],
+            [0.443515, 51.445561]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "NewForest",
+		"popupContent": "<a href='#/projects/104/api/'>NewForest</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.792102, 51.232139],
+            [-1.451126, 51.232139],
+            [-1.451126, 50.740176],
+            [-1.792102, 50.740176],
+            [-1.792102, 51.232139]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Peterborough",
+		"popupContent": "<a href='#/projects/105/api/'>Peterborough</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.458389, 52.648264],
+            [-0.294948, 52.648264],
+            [-0.294948, 52.523756],
+            [-0.458389, 52.523756],
+            [-0.458389, 52.648264]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Runnymede",
+		"popupContent": "<a href='#/projects/106/api/'>Runnymede</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.775071, 51.431018],
+            [-0.409252, 51.431018],
+            [-0.409252, 51.285245],
+            [-0.775071, 51.285245],
+            [-0.775071, 51.431018]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Shropshire",
+		"popupContent": "<a href='#/projects/107/api/'>Shropshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-3.068614, 52.993481],
+            [-2.295784, 52.993481],
+            [-2.295784, 52.364079],
+            [-3.068614, 52.364079],
+            [-3.068614, 52.993481]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "StaffordshireA",
+		"popupContent": "<a href='#/projects/108/api/'>StaffordshireA</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.472979, 53.079972],
+            [-1.635816, 53.079972],
+            [-1.635816, 52.596566],
+            [-2.472979, 52.596566],
+            [-2.472979, 53.079972]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "StaffordshireB",
+		"popupContent": "<a href='#/projects/109/api/'>StaffordshireB</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.082383, 53.13505],
+            [-2.010771, 53.13505],
+            [-2.010771, 53.093597],
+            [-2.082383, 53.093597],
+            [-2.082383, 53.13505]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "StaffordshireC",
+		"popupContent": "<a href='#/projects/110/api/'>StaffordshireC</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.253664, 52.594551],
+            [-2.187337, 52.594551],
+            [-2.187337, 52.436587],
+            [-2.253664, 52.436587],
+            [-2.253664, 52.594551]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "StAlbans",
+		"popupContent": "<a href='#/projects/111/api/'>StAlbans</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.588563, 51.841369],
+            [-0.167882, 51.841369],
+            [-0.167882, 51.706044],
+            [-0.588563, 51.706044],
+            [-0.588563, 51.841369]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Stevenage",
+		"popupContent": "<a href='#/projects/112/api/'>Stevenage</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.23502, 52.06039],
+            [-0.007233, 52.06039],
+            [-0.007233, 51.874249],
+            [-0.23502, 51.874249],
+            [-0.23502, 52.06039]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Suffolk",
+		"popupContent": "<a href='#/projects/113/api/'>Suffolk</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.385866, 52.507066],
+            [1.762585, 52.507066],
+            [1.762585, 51.962201],
+            [0.385866, 51.962201],
+            [0.385866, 52.507066]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Swale",
+		"popupContent": "<a href='#/projects/114/api/'>Swale</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.640029, 51.442633],
+            [0.91975, 51.442633],
+            [0.91975, 51.306289],
+            [0.640029, 51.306289],
+            [0.640029, 51.442633]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Thurrock",
+		"popupContent": "<a href='#/projects/115/api/'>Thurrock</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [0.228164, 51.521961],
+            [0.452639, 51.521961],
+            [0.452639, 51.468941],
+            [0.228164, 51.468941],
+            [0.228164, 51.521961]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Warwickshire",
+		"popupContent": "<a href='#/projects/116/api/'>Warwickshire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-1.88414, 52.559212],
+            [-1.272669, 52.559212],
+            [-1.272669, 52.121983],
+            [-1.88414, 52.121983],
+            [-1.88414, 52.559212]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Watford",
+		"popupContent": "<a href='#/projects/117/api/'>Watford</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.519981, 51.706259],
+            [-0.193598, 51.706259],
+            [-0.193598, 51.624431],
+            [-0.519981, 51.624431],
+            [-0.519981, 51.706259]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Wellingborough",
+		"popupContent": "<a href='#/projects/118/api/'>Wellingborough</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.737539, 52.501604],
+            [-0.45519, 52.501604],
+            [-0.45519, 52.282086],
+            [-0.737539, 52.282086],
+            [-0.737539, 52.501604]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "WesternDorset",
+		"popupContent": "<a href='#/projects/119/api/'>WesternDorset</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.895576, 51.050249],
+            [-2.166855, 51.050249],
+            [-2.166855, 50.531573],
+            [-2.895576, 50.531573],
+            [-2.895576, 51.050249]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Worcestershire",
+		"popupContent": "<a href='#/projects/120/api/'>Worcestershire</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-2.330603, 52.410054],
+            [-1.884669, 52.410054],
+            [-1.884669, 52.053981],
+            [-2.330603, 52.053981],
+            [-2.330603, 52.410054]
+        ]]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+		"name": "Worthing",
+		"popupContent": "<a href='#/projects/121/api/'>Worthing</a>"
+	},
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [-0.544546, 50.880555],
+            [-0.240393, 50.880555],
+            [-0.240393, 50.802373],
+            [-0.544546, 50.802373],
+            [-0.544546, 50.880555]
+        ]]
+    }
+}
+
+]}

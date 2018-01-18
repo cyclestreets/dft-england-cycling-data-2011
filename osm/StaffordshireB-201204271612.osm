@@ -1,0 +1,1110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Cycle City Guides'>
+  <node id='-694' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104934' lon='-2.029223' />
+  <node id='-692' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114178' lon='-2.060106' />
+  <node id='-690' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114361' lon='-2.060289' />
+  <node id='-688' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.120203' lon='-2.07253' />
+  <node id='-686' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.122447' lon='-2.072557' />
+  <node id='-684' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118668' lon='-2.068289' />
+  <node id='-682' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112392' lon='-2.059784' />
+  <node id='-680' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118294' lon='-2.067863' />
+  <node id='-678' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10562' lon='-2.033837' />
+  <node id='-676' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116239' lon='-2.010895' />
+  <node id='-674' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112602' lon='-2.053333' />
+  <node id='-672' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107968' lon='-2.025482' />
+  <node id='-670' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105436' lon='-2.033739' />
+  <node id='-668' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10602' lon='-2.036116' />
+  <node id='-666' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112134' lon='-2.014264' />
+  <node id='-664' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104899' lon='-2.029396' />
+  <node id='-662' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118722' lon='-2.068672' />
+  <node id='-660' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102308' lon='-2.014588' />
+  <node id='-658' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105696' lon='-2.026663' />
+  <node id='-656' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116191' lon='-2.010938' />
+  <node id='-654' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114632' lon='-2.060985' />
+  <node id='-652' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107275' lon='-2.042941' />
+  <node id='-650' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103904' lon='-2.017106' />
+  <node id='-648' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11545' lon='-2.069043' />
+  <node id='-646' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.125838' lon='-2.07527' />
+  <node id='-644' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109104' lon='-2.02632' />
+  <node id='-642' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107263' lon='-2.04182' />
+  <node id='-640' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103211' lon='-2.016005' />
+  <node id='-638' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106394' lon='-2.039211' />
+  <node id='-636' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105995' lon='-2.026756' />
+  <node id='-634' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105741' lon='-2.034396' />
+  <node id='-632' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115825' lon='-2.011562' />
+  <node id='-630' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114709' lon='-2.012584' />
+  <node id='-628' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107832' lon='-2.025139' />
+  <node id='-626' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106661' lon='-2.03904' />
+  <node id='-624' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10593' lon='-2.035913' />
+  <node id='-622' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107121' lon='-2.041605' />
+  <node id='-620' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106643' lon='-2.039118' />
+  <node id='-618' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103425' lon='-2.016611' />
+  <node id='-616' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118013' lon='-2.070191' />
+  <node id='-614' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.101587' lon='-2.012654' />
+  <node id='-612' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.13033' lon='-2.077708' />
+  <node id='-610' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117266' lon='-2.066486' />
+  <node id='-608' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10631' lon='-2.037872' />
+  <node id='-606' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.098729' lon='-2.034928' />
+  <node id='-604' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106542' lon='-2.038048' />
+  <node id='-602' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103247' lon='-2.016129' />
+  <node id='-600' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112078' lon='-2.013795' />
+  <node id='-598' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109157' lon='-2.026537' />
+  <node id='-596' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106558' lon='-2.040764' />
+  <node id='-594' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102633' lon='-2.015268' />
+  <node id='-592' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108813' lon='-2.023776' />
+  <node id='-590' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114826' lon='-2.012547' />
+  <node id='-588' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115219' lon='-2.06355' />
+  <node id='-586' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105236' lon='-2.030775' />
+  <node id='-584' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102691' lon='-2.015385' />
+  <node id='-582' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108' lon='-2.044078' />
+  <node id='-580' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.120299' lon='-2.070549' />
+  <node id='-578' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114916' lon='-2.061887' />
+  <node id='-576' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102347' lon='-2.014682' />
+  <node id='-574' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111255' lon='-2.012783' />
+  <node id='-572' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103101' lon='-2.015865' />
+  <node id='-570' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108935' lon='-2.024447' />
+  <node id='-568' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117307' lon='-2.066593' />
+  <node id='-566' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117195' lon='-2.066267' />
+  <node id='-564' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118773' lon='-2.07091' />
+  <node id='-562' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.113329' lon='-2.013917' />
+  <node id='-560' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.129412' lon='-2.077198' />
+  <node id='-558' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.094127' lon='-2.031052' />
+  <node id='-556' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103558' lon='-2.016825' />
+  <node id='-554' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108808' lon='-2.045319' />
+  <node id='-552' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105936' lon='-2.026741' />
+  <node id='-550' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105332' lon='-2.026459' />
+  <node id='-548' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118374' lon='-2.070373' />
+  <node id='-546' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102037' lon='-2.01379' />
+  <node id='-544' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117917' lon='-2.070062' />
+  <node id='-542' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106186' lon='-2.025315' />
+  <node id='-540' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114945' lon='-2.060616' />
+  <node id='-538' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102736' lon='-2.01544' />
+  <node id='-536' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106713' lon='-2.040588' />
+  <node id='-534' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.09372' lon='-2.033005' />
+  <node id='-532' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118191' lon='-2.067921' />
+  <node id='-530' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116619' lon='-2.069451' />
+  <node id='-528' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116114' lon='-2.011287' />
+  <node id='-526' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.12178' lon='-2.073946' />
+  <node id='-524' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.101451' lon='-2.01239' />
+  <node id='-522' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109905' lon='-2.014889' />
+  <node id='-520' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105285' lon='-2.026441' />
+  <node id='-518' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106656' lon='-2.03899' />
+  <node id='-516' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115727' lon='-2.069193' />
+  <node id='-514' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108785' lon='-2.02206' />
+  <node id='-512' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10903' lon='-2.024863' />
+  <node id='-510' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112216' lon='-2.015013' />
+  <node id='-508' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10706' lon='-2.041605' />
+  <node id='-506' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.098678' lon='-2.034997' />
+  <node id='-504' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111966' lon='-2.012837' />
+  <node id='-502' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114418' lon='-2.012867' />
+  <node id='-500' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103166' lon='-2.015922' />
+  <node id='-498' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.131729' lon='-2.078629' />
+  <node id='-496' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106176' lon='-2.036504' />
+  <node id='-494' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118103' lon='-2.070195' />
+  <node id='-492' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.113636' lon='-2.059865' />
+  <node id='-490' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108335' lon='-2.026419' />
+  <node id='-488' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107551' lon='-2.043374' />
+  <node id='-486' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10669' lon='-2.040301' />
+  <node id='-484' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109046' lon='-2.026094' />
+  <node id='-482' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105278' lon='-2.034067' />
+  <node id='-480' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11606' lon='-2.011053' />
+  <node id='-478' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.13077' lon='-2.077943' />
+  <node id='-476' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108785' lon='-2.023116' />
+  <node id='-474' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107304' lon='-2.042112' />
+  <node id='-472' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108853' lon='-2.021711' />
+  <node id='-470' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106272' lon='-2.038184' />
+  <node id='-468' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.132828' lon='-2.079716' />
+  <node id='-466' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102224' lon='-2.014274' />
+  <node id='-464' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111414' lon='-2.012765' />
+  <node id='-462' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110181' lon='-2.01294' />
+  <node id='-460' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105386' lon='-2.033779' />
+  <node id='-458' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.120473' lon='-2.072991' />
+  <node id='-456' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106497' lon='-2.040701' />
+  <node id='-454' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.113236' lon='-2.014005' />
+  <node id='-452' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115172' lon='-2.012248' />
+  <node id='-450' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.09849' lon='-2.031361' />
+  <node id='-448' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.127132' lon='-2.076082' />
+  <node id='-446' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.122249' lon='-2.073275' />
+  <node id='-444' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108038' lon='-2.025875' />
+  <node id='-442' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.121915' lon='-2.073742' />
+  <node id='-440' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.123587' lon='-2.07361' />
+  <node id='-438' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.12075' lon='-2.073195' />
+  <node id='-436' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115045' lon='-2.012113' />
+  <node id='-434' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118605' lon='-2.068514' />
+  <node id='-432' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115682' lon='-2.062783' />
+  <node id='-430' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106391' lon='-2.039848' />
+  <node id='-428' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107025' lon='-2.04219' />
+  <node id='-426' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106969' lon='-2.042037' />
+  <node id='-424' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108663' lon='-2.02632' />
+  <node id='-422' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.101738' lon='-2.013049' />
+  <node id='-420' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11311' lon='-2.014126' />
+  <node id='-418' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115322' lon='-2.06664' />
+  <node id='-416' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11382' lon='-2.059901' />
+  <node id='-414' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115529' lon='-2.011577' />
+  <node id='-412' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.13505' lon='-2.082383' />
+  <node id='-410' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.113441' lon='-2.055907' />
+  <node id='-408' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107187' lon='-2.04249' />
+  <node id='-406' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.132201' lon='-2.079066' />
+  <node id='-404' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110754' lon='-2.060092' />
+  <node id='-402' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107107' lon='-2.042347' />
+  <node id='-400' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103488' lon='-2.01674' />
+  <node id='-398' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.122083' lon='-2.073495' />
+  <node id='-396' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.124963' lon='-2.07467' />
+  <node id='-394' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106394' lon='-2.039379' />
+  <node id='-392' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106279' lon='-2.038049' />
+  <node id='-390' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.1216' lon='-2.073785' />
+  <node id='-388' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.093597' lon='-2.032984' />
+  <node id='-386' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106416' lon='-2.040448' />
+  <node id='-384' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.100805' lon='-2.029039' />
+  <node id='-382' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.094162' lon='-2.030853' />
+  <node id='-380' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118165' lon='-2.067982' />
+  <node id='-378' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109979' lon='-2.014492' />
+  <node id='-376' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114745' lon='-2.061212' />
+  <node id='-374' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.1064' lon='-2.037581' />
+  <node id='-372' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104821' lon='-2.029971' />
+  <node id='-370' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106382' lon='-2.037537' />
+  <node id='-368' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117543' lon='-2.069536' />
+  <node id='-366' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114278' lon='-2.013009' />
+  <node id='-364' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118412' lon='-2.067948' />
+  <node id='-362' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114435' lon='-2.060438' />
+  <node id='-360' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111553' lon='-2.050503' />
+  <node id='-358' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11486' lon='-2.012337' />
+  <node id='-356' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114826' lon='-2.012386' />
+  <node id='-354' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116391' lon='-2.069526' />
+  <node id='-352' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108837' lon='-2.021796' />
+  <node id='-350' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104798' lon='-2.030132' />
+  <node id='-348' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106343' lon='-2.037327' />
+  <node id='-346' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109195' lon='-2.026732' />
+  <node id='-344' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.12104' lon='-2.073452' />
+  <node id='-342' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103057' lon='-2.015817' />
+  <node id='-340' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114885' lon='-2.060783' />
+  <node id='-338' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107212' lon='-2.041677' />
+  <node id='-336' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109182' lon='-2.026942' />
+  <node id='-334' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104107' lon='-2.017164' />
+  <node id='-332' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.122121' lon='-2.073388' />
+  <node id='-330' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114801' lon='-2.061349' />
+  <node id='-328' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112601' lon='-2.014613' />
+  <node id='-326' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107169' lon='-2.042569' />
+  <node id='-324' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11824' lon='-2.06788' />
+  <node id='-322' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106685' lon='-2.040078' />
+  <node id='-320' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110131' lon='-2.013473' />
+  <node id='-318' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114303' lon='-2.060204' />
+  <node id='-316' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103298' lon='-2.016273' />
+  <node id='-314' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109654' lon='-2.015836' />
+  <node id='-312' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105744' lon='-2.035407' />
+  <node id='-310' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110759' lon='-2.012866' />
+  <node id='-308' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102844' lon='-2.015535' />
+  <node id='-306' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114951' lon='-2.012207' />
+  <node id='-304' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106992' lon='-2.041635' />
+  <node id='-302' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.119546' lon='-2.071822' />
+  <node id='-300' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107331' lon='-2.043028' />
+  <node id='-298' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105515' lon='-2.026558' />
+  <node id='-296' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104842' lon='-2.029819' />
+  <node id='-294' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.09922' lon='-2.034518' />
+  <node id='-292' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10541' lon='-2.033748' />
+  <node id='-290' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106577' lon='-2.038247' />
+  <node id='-288' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.128856' lon='-2.076928' />
+  <node id='-286' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116579' lon='-2.069462' />
+  <node id='-284' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.120685' lon='-2.070885' />
+  <node id='-282' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108891' lon='-2.024244' />
+  <node id='-280' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10669' lon='-2.039766' />
+  <node id='-278' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107178' lon='-2.042532' />
+  <node id='-276' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117234' lon='-2.069451' />
+  <node id='-274' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114578' lon='-2.060784' />
+  <node id='-272' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.099903' lon='-2.034036' />
+  <node id='-270' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103752' lon='-2.017005' />
+  <node id='-268' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116287' lon='-2.011136' />
+  <node id='-266' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.121349' lon='-2.073646' />
+  <node id='-264' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109478' lon='-2.046329' />
+  <node id='-262' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11399' lon='-2.05757' />
+  <node id='-260' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116348' lon='-2.010771' />
+  <node id='-258' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.119954' lon='-2.070183' />
+  <node id='-256' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104716' lon='-2.030413' />
+  <node id='-254' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.119207' lon='-2.069299' />
+  <node id='-252' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10817' lon='-2.044342' />
+  <node id='-250' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115086' lon='-2.012064' />
+  <node id='-248' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109763' lon='-2.015455' />
+  <node id='-246' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115284' lon='-2.011832' />
+  <node id='-244' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.113474' lon='-2.059848' />
+  <node id='-242' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106654' lon='-2.039079' />
+  <node id='-240' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114718' lon='-2.061001' />
+  <node id='-238' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11459' lon='-2.059414' />
+  <node id='-236' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107244' lon='-2.042681' />
+  <node id='-234' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106709' lon='-2.04072' />
+  <node id='-232' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.093808' lon='-2.032899' />
+  <node id='-230' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104632' lon='-2.03367' />
+  <node id='-228' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106356' lon='-2.037522' />
+  <node id='-226' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107243' lon='-2.041749' />
+  <node id='-224' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11527' lon='-2.065384' />
+  <node id='-222' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105602' lon='-2.03501' />
+  <node id='-220' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108229' lon='-2.026325' />
+  <node id='-218' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118477' lon='-2.068338' />
+  <node id='-216' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.113982' lon='-2.059974' />
+  <node id='-214' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116583' lon='-2.064927' />
+  <node id='-212' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102389' lon='-2.014747' />
+  <node id='-210' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102603' lon='-2.015171' />
+  <node id='-208' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104859' lon='-2.032473' />
+  <node id='-206' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.11195' lon='-2.012705' />
+  <node id='-204' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10881' lon='-2.023621' />
+  <node id='-202' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102996' lon='-2.015721' />
+  <node id='-200' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114262' lon='-2.060166' />
+  <node id='-198' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.101284' lon='-2.028294' />
+  <node id='-196' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106676' lon='-2.039492' />
+  <node id='-194' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115049' lon='-2.012389' />
+  <node id='-192' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110066' lon='-2.013984' />
+  <node id='-190' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10631' lon='-2.03859' />
+  <node id='-188' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107903' lon='-2.04393' />
+  <node id='-186' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105685' lon='-2.034698' />
+  <node id='-184' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105026' lon='-2.02872' />
+  <node id='-182' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102468' lon='-2.014854' />
+  <node id='-180' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106495' lon='-2.037883' />
+  <node id='-178' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.131308' lon='-2.078267' />
+  <node id='-176' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106794' lon='-2.041415' />
+  <node id='-174' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106371' lon='-2.039025' />
+  <node id='-172' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.099962' lon='-2.034051' />
+  <node id='-170' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116006' lon='-2.063606' />
+  <node id='-168' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115389' lon='-2.012' />
+  <node id='-166' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106896' lon='-2.04182' />
+  <node id='-164' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.103366' lon='-2.016417' />
+  <node id='-162' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10665' lon='-2.039184' />
+  <node id='-160' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.101029' lon='-2.028153' />
+  <node id='-158' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105838' lon='-2.026714' />
+  <node id='-156' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115386' lon='-2.068496' />
+  <node id='-154' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102926' lon='-2.015624' />
+  <node id='-152' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10793' lon='-2.025296' />
+  <node id='-150' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117033' lon='-2.065906' />
+  <node id='-148' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115013' lon='-2.062348' />
+  <node id='-146' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105044' lon='-2.031623' />
+  <node id='-144' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105011' lon='-2.028844' />
+  <node id='-142' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106754' lon='-2.041178' />
+  <node id='-140' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.101419' lon='-2.01231' />
+  <node id='-138' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116263' lon='-2.011157' />
+  <node id='-136' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114967' lon='-2.012483' />
+  <node id='-134' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106632' lon='-2.04079' />
+  <node id='-132' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102523' lon='-2.014949' />
+  <node id='-130' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108755' lon='-2.02237' />
+  <node id='-128' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106715' lon='-2.040668' />
+  <node id='-126' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114973' lon='-2.060689' />
+  <node id='-124' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111483' lon='-2.050341' />
+  <node id='-122' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110361' lon='-2.047818' />
+  <node id='-120' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10633' lon='-2.037741' />
+  <node id='-118' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.113965' lon='-2.013308' />
+  <node id='-116' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104002' lon='-2.017149' />
+  <node id='-114' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111825' lon='-2.059806' />
+  <node id='-112' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107865' lon='-2.02518' />
+  <node id='-110' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.117984' lon='-2.067749' />
+  <node id='-108' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.133659' lon='-2.0807' />
+  <node id='-106' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106426' lon='-2.037702' />
+  <node id='-104' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111815' lon='-2.01272' />
+  <node id='-102' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118259' lon='-2.068033' />
+  <node id='-100' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114488' lon='-2.060558' />
+  <node id='-98' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102281' lon='-2.014466' />
+  <node id='-96' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104245' lon='-2.017157' />
+  <node id='-94' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.128013' lon='-2.076508' />
+  <node id='-92' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.125299' lon='-2.074941' />
+  <node id='-90' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106312' lon='-2.037074' />
+  <node id='-88' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115309' lon='-2.067455' />
+  <node id='-86' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115413' lon='-2.061995' />
+  <node id='-84' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.098516' lon='-2.031375' />
+  <node id='-82' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110875' lon='-2.048924' />
+  <node id='-80' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.126282' lon='-2.075559' />
+  <node id='-78' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.134493' lon='-2.081732' />
+  <node id='-76' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116964' lon='-2.069397' />
+  <node id='-74' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10851' lon='-2.026399' />
+  <node id='-72' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114501' lon='-2.012781' />
+  <node id='-70' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.102567' lon='-2.015051' />
+  <node id='-68' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108435' lon='-2.026423' />
+  <node id='-66' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.115045' lon='-2.060878' />
+  <node id='-64' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108362' lon='-2.044621' />
+  <node id='-62' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105938' lon='-2.025348' />
+  <node id='-60' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114917' lon='-2.012505' />
+  <node id='-58' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105123' lon='-2.02794' />
+  <node id='-56' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112205' lon='-2.014886' />
+  <node id='-54' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10876' lon='-2.022639' />
+  <node id='-52' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106244' lon='-2.036744' />
+  <node id='-50' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.116152' lon='-2.069408' />
+  <node id='-48' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114777' lon='-2.012462' />
+  <node id='-46' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105473' lon='-2.033748' />
+  <node id='-44' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106731' lon='-2.041005' />
+  <node id='-42' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.118343' lon='-2.067884' />
+  <node id='-40' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.112806' lon='-2.014417' />
+  <node id='-38' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.114675' lon='-2.061072' />
+  <node id='-36' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10672' lon='-2.040794' />
+  <node id='-34' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107201' lon='-2.042622' />
+  <node id='-32' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106868' lon='-2.041706' />
+  <node id='-30' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105825' lon='-2.033907' />
+  <node id='-28' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107174' lon='-2.04163' />
+  <node id='-26' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.105686' lon='-2.03525' />
+  <node id='-24' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.124036' lon='-2.074017' />
+  <node id='-22' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.10725' lon='-2.04282' />
+  <node id='-20' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.110729' lon='-2.048602' />
+  <node id='-18' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106282' lon='-2.038349' />
+  <node id='-16' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.111266' lon='-2.049836' />
+  <node id='-14' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.106449' lon='-2.040625' />
+  <node id='-12' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.108134' lon='-2.026186' />
+  <node id='-10' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.109908' lon='-2.047033' />
+  <node id='-8' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.107259' lon='-2.04288' />
+  <node id='-6' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.104978' lon='-2.03388' />
+  <node id='-4' version='1' timestamp='2012-04-27T16:12:00Z' visible='true' lat='53.1121' lon='-2.051771' />
+  <way id='-818' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-494' />
+    <nd ref='-548' />
+    <nd ref='-564' />
+    <nd ref='-302' />
+    <nd ref='-688' />
+    <nd ref='-458' />
+    <nd ref='-438' />
+    <nd ref='-344' />
+    <nd ref='-266' />
+    <nd ref='-390' />
+    <nd ref='-526' />
+    <nd ref='-442' />
+    <nd ref='-398' />
+    <nd ref='-332' />
+    <nd ref='-446' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lcn' v='yes' />
+    <tag k='ccg_lcn_name' v='Caldon Canal' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-816' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-330' />
+    <nd ref='-376' />
+    <nd ref='-38' />
+    <nd ref='-654' />
+    <nd ref='-274' />
+    <nd ref='-100' />
+    <nd ref='-362' />
+    <nd ref='-690' />
+    <nd ref='-318' />
+    <nd ref='-200' />
+    <nd ref='-692' />
+    <nd ref='-216' />
+    <nd ref='-416' />
+    <nd ref='-492' />
+    <nd ref='-244' />
+    <nd ref='-682' />
+    <nd ref='-114' />
+    <nd ref='-404' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lcn' v='yes' />
+    <tag k='ccg_lcn_name' v='Caldon Canal' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-814' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-340' />
+    <nd ref='-240' />
+    <nd ref='-38' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lcn' v='yes' />
+    <tag k='ccg_lcn_name' v='Caldon Canal' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-812' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-126' />
+    <nd ref='-340' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-810' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-686' />
+    <nd ref='-446' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lcn' v='yes' />
+    <tag k='ccg_lcn_name' v='Caldon Canal' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-808' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-166' />
+    <nd ref='-426' />
+    <nd ref='-428' />
+    <nd ref='-402' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-806' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-218' />
+    <nd ref='-434' />
+    <nd ref='-662' />
+    <tag k='ccg_bridge' v='yes' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_layer' v='1' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-804' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-540' />
+    <nd ref='-126' />
+    <nd ref='-66' />
+    <tag k='ccg_bridge' v='yes' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_layer' v='1' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-802' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-16' />
+    <nd ref='-124' />
+    <nd ref='-360' />
+    <tag k='ccg_bridge' v='yes' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_layer' v='1' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-800' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-684' />
+    <nd ref='-364' />
+    <nd ref='-42' />
+    <nd ref='-680' />
+    <nd ref='-324' />
+    <nd ref='-532' />
+    <nd ref='-380' />
+    <tag k='ccg_bicycle' v='yes' />
+    <tag k='ccg_date' v='20120425' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-798' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-294' />
+    <nd ref='-606' />
+    <nd ref='-506' />
+    <tag k='ccg_bicycle' v='yes' />
+    <tag k='ccg_date' v='20120425' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-796' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-284' />
+    <nd ref='-686' />
+    <nd ref='-440' />
+    <nd ref='-24' />
+    <nd ref='-396' />
+    <nd ref='-92' />
+    <nd ref='-646' />
+    <nd ref='-80' />
+    <nd ref='-448' />
+    <nd ref='-94' />
+    <nd ref='-288' />
+    <nd ref='-560' />
+    <nd ref='-612' />
+    <nd ref='-478' />
+    <nd ref='-178' />
+    <nd ref='-498' />
+    <nd ref='-406' />
+    <nd ref='-468' />
+    <nd ref='-108' />
+    <nd ref='-78' />
+    <nd ref='-412' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-794' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-662' />
+    <nd ref='-254' />
+    <nd ref='-258' />
+    <nd ref='-580' />
+    <nd ref='-284' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-792' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-484' />
+    <nd ref='-644' />
+    <nd ref='-598' />
+    <nd ref='-346' />
+    <nd ref='-336' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-790' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-628' />
+    <nd ref='-112' />
+    <nd ref='-152' />
+    <nd ref='-672' />
+    <nd ref='-444' />
+    <nd ref='-12' />
+    <nd ref='-220' />
+    <nd ref='-490' />
+    <nd ref='-68' />
+    <nd ref='-74' />
+    <nd ref='-424' />
+    <nd ref='-484' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-788' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-402' />
+    <nd ref='-408' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-786' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-472' />
+    <nd ref='-352' />
+    <nd ref='-514' />
+    <nd ref='-130' />
+    <nd ref='-54' />
+    <nd ref='-476' />
+    <nd ref='-204' />
+    <nd ref='-592' />
+    <nd ref='-282' />
+    <nd ref='-570' />
+    <nd ref='-512' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-784' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-342' />
+    <nd ref='-572' />
+    <nd ref='-500' />
+    <nd ref='-640' />
+    <nd ref='-602' />
+    <nd ref='-316' />
+    <nd ref='-164' />
+    <nd ref='-618' />
+    <nd ref='-400' />
+    <nd ref='-556' />
+    <nd ref='-270' />
+    <nd ref='-650' />
+    <nd ref='-116' />
+    <nd ref='-334' />
+    <nd ref='-96' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-782' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-140' />
+    <nd ref='-524' />
+    <nd ref='-614' />
+    <nd ref='-422' />
+    <nd ref='-546' />
+    <nd ref='-466' />
+    <nd ref='-98' />
+    <nd ref='-660' />
+    <nd ref='-576' />
+    <nd ref='-212' />
+    <nd ref='-182' />
+    <nd ref='-132' />
+    <nd ref='-70' />
+    <nd ref='-210' />
+    <nd ref='-594' />
+    <nd ref='-584' />
+    <nd ref='-538' />
+    <nd ref='-308' />
+    <nd ref='-154' />
+    <nd ref='-202' />
+    <nd ref='-342' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-780' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-160' />
+    <nd ref='-198' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-778' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-160' />
+    <nd ref='-384' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-776' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-450' />
+    <nd ref='-84' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-774' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-294' />
+    <nd ref='-272' />
+    <nd ref='-172' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-772' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-568' />
+    <nd ref='-110' />
+    <nd ref='-380' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-770' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-380' />
+    <nd ref='-102' />
+    <nd ref='-218' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-768' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-66' />
+    <nd ref='-86' />
+    <nd ref='-432' />
+    <nd ref='-170' />
+    <nd ref='-214' />
+    <nd ref='-150' />
+    <nd ref='-566' />
+    <nd ref='-610' />
+    <nd ref='-568' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-766' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-382' />
+    <nd ref='-558' />
+    <nd ref='-232' />
+    <nd ref='-534' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-764' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-360' />
+    <nd ref='-4' />
+    <nd ref='-674' />
+    <nd ref='-410' />
+    <nd ref='-262' />
+    <nd ref='-238' />
+    <nd ref='-540' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-762' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-82' />
+    <nd ref='-16' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-760' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-22' />
+    <nd ref='-8' />
+    <nd ref='-652' />
+    <nd ref='-300' />
+    <nd ref='-488' />
+    <nd ref='-188' />
+    <nd ref='-582' />
+    <nd ref='-252' />
+    <nd ref='-64' />
+    <nd ref='-554' />
+    <nd ref='-264' />
+    <nd ref='-10' />
+    <nd ref='-122' />
+    <nd ref='-20' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-758' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-236' />
+    <nd ref='-22' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-756' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-408' />
+    <nd ref='-278' />
+    <nd ref='-326' />
+    <nd ref='-34' />
+    <nd ref='-236' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-754' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-20' />
+    <nd ref='-82' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-752' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-162' />
+    <nd ref='-196' />
+    <nd ref='-280' />
+    <nd ref='-322' />
+    <nd ref='-486' />
+    <nd ref='-536' />
+    <nd ref='-128' />
+    <nd ref='-234' />
+    <nd ref='-36' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-750' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-228' />
+    <nd ref='-370' />
+    <nd ref='-374' />
+    <nd ref='-106' />
+    <nd ref='-180' />
+    <nd ref='-604' />
+    <nd ref='-290' />
+    <nd ref='-518' />
+    <nd ref='-626' />
+    <nd ref='-242' />
+    <nd ref='-620' />
+    <nd ref='-162' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='cycleway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-748' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-542' />
+    <nd ref='-62' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-746' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-330' />
+    <nd ref='-578' />
+    <nd ref='-148' />
+    <nd ref='-588' />
+    <nd ref='-224' />
+    <nd ref='-418' />
+    <nd ref='-88' />
+    <nd ref='-156' />
+    <nd ref='-648' />
+    <nd ref='-516' />
+    <nd ref='-50' />
+    <nd ref='-354' />
+    <nd ref='-286' />
+    <nd ref='-530' />
+    <nd ref='-76' />
+    <nd ref='-276' />
+    <nd ref='-368' />
+    <nd ref='-544' />
+    <nd ref='-616' />
+    <nd ref='-494' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lcn' v='yes' />
+    <tag k='ccg_lcn_name' v='Caldon Canal' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-744' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-388' />
+    <nd ref='-534' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='footway' />
+    <tag k='ccg_lit' v='no' />
+  </way>
+  <way id='-742' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-520' />
+    <nd ref='-550' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='trunk' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_name' v='St Edward Street' />
+    <tag k='ccg_ref' v='A520' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-740' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-292' />
+    <nd ref='-670' />
+    <nd ref='-46' />
+    <nd ref='-678' />
+    <nd ref='-30' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-738' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-208' />
+    <nd ref='-230' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-736' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-146' />
+    <nd ref='-208' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-734' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-586' />
+    <nd ref='-146' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-732' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-36' />
+    <nd ref='-44' />
+    <nd ref='-142' />
+    <nd ref='-176' />
+    <nd ref='-32' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-730' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-32' />
+    <nd ref='-166' />
+    <tag k='ccg_date' v='20120425' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lcn' v='yes' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-728' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-474' />
+    <nd ref='-642' />
+    <nd ref='-226' />
+    <nd ref='-338' />
+    <nd ref='-28' />
+    <nd ref='-622' />
+    <nd ref='-508' />
+    <nd ref='-304' />
+    <nd ref='-32' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-726' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-228' />
+    <nd ref='-120' />
+    <nd ref='-608' />
+    <nd ref='-392' />
+    <nd ref='-470' />
+    <nd ref='-18' />
+    <nd ref='-190' />
+    <nd ref='-174' />
+    <nd ref='-638' />
+    <nd ref='-394' />
+    <nd ref='-430' />
+    <nd ref='-386' />
+    <nd ref='-14' />
+    <nd ref='-456' />
+    <nd ref='-596' />
+    <nd ref='-134' />
+    <nd ref='-36' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-724' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-550' />
+    <nd ref='-298' />
+    <nd ref='-658' />
+    <nd ref='-158' />
+    <nd ref='-552' />
+    <nd ref='-636' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='trunk' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_name' v='St Edward Street' />
+    <tag k='ccg_ref' v='A520' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-722' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-292' />
+    <nd ref='-460' />
+    <nd ref='-482' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-720' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-230' />
+    <nd ref='-6' />
+    <nd ref='-482' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-718' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-256' />
+    <nd ref='-586' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-716' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-30' />
+    <nd ref='-634' />
+    <nd ref='-186' />
+    <nd ref='-222' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='tertiary' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_name' v='Westwood Road' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-714' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-222' />
+    <nd ref='-26' />
+    <nd ref='-312' />
+    <nd ref='-624' />
+    <nd ref='-668' />
+    <nd ref='-496' />
+    <nd ref='-52' />
+    <nd ref='-90' />
+    <nd ref='-348' />
+    <nd ref='-228' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-712' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-206' />
+    <nd ref='-504' />
+    <nd ref='-600' />
+    <nd ref='-666' />
+    <nd ref='-56' />
+    <nd ref='-510' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-710' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-260' />
+    <nd ref='-268' />
+    <nd ref='-138' />
+    <nd ref='-528' />
+    <nd ref='-632' />
+    <nd ref='-168' />
+    <nd ref='-452' />
+    <nd ref='-194' />
+    <nd ref='-136' />
+    <nd ref='-60' />
+    <nd ref='-590' />
+    <nd ref='-630' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-708' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-260' />
+    <nd ref='-676' />
+    <nd ref='-656' />
+    <nd ref='-480' />
+    <nd ref='-414' />
+    <nd ref='-246' />
+    <nd ref='-250' />
+    <nd ref='-436' />
+    <nd ref='-306' />
+    <nd ref='-358' />
+    <nd ref='-356' />
+    <nd ref='-48' />
+    <nd ref='-630' />
+    <nd ref='-72' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-706' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-462' />
+    <nd ref='-320' />
+    <nd ref='-192' />
+    <nd ref='-378' />
+    <nd ref='-522' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lcn' v='yes' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-704' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-522' />
+    <nd ref='-248' />
+    <nd ref='-314' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-702' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-206' />
+    <nd ref='-104' />
+    <nd ref='-464' />
+    <nd ref='-574' />
+    <nd ref='-310' />
+    <nd ref='-462' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-700' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-72' />
+    <nd ref='-502' />
+    <nd ref='-366' />
+    <nd ref='-118' />
+    <nd ref='-562' />
+    <nd ref='-454' />
+    <nd ref='-420' />
+    <nd ref='-40' />
+    <nd ref='-328' />
+    <nd ref='-510' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-698' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-520' />
+    <nd ref='-58' />
+    <nd ref='-184' />
+    <nd ref='-144' />
+    <nd ref='-694' />
+    <nd ref='-664' />
+    <nd ref='-296' />
+    <tag k='ccg_date' v='20120404' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+  <way id='-696' version='1' timestamp='2012-04-27T16:12:00Z' visible='true'>
+    <nd ref='-296' />
+    <nd ref='-372' />
+    <nd ref='-350' />
+    <nd ref='-256' />
+    <tag k='ccg_date' v='20120425' />
+    <tag k='ccg_highway' v='residential' />
+    <tag k='ccg_lit' v='yes' />
+    <tag k='ccg_surface' v='asphalt' />
+  </way>
+</osm>

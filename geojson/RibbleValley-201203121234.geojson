@@ -1,0 +1,1990 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/-576",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120308",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-576"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.400413,
+        53.86645
+      ],
+      [
+        -2.400695,
+        53.866528
+      ],
+      [
+        -2.401274,
+        53.866658
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-574",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120308",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-574"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.401274,
+        53.866658
+      ],
+      [
+        -2.401534,
+        53.866427
+      ],
+      [
+        -2.401862,
+        53.866113
+      ],
+      [
+        -2.402063,
+        53.865919
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-572",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120308",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-572"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.402063,
+        53.865919
+      ],
+      [
+        -2.402091,
+        53.865896
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-570",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120308",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-570"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.400143,
+        53.866421
+      ],
+      [
+        -2.400413,
+        53.86645
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-568",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "steps",
+    "ccg_lit": "yes",
+    "ccg_surface": "concrete",
+    "id": "way/-568"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.394237,
+        53.868534
+      ],
+      [
+        -2.394363,
+        53.868561
+      ],
+      [
+        -2.39447,
+        53.868584
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-566",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-566"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.395742,
+        53.870794
+      ],
+      [
+        -2.395989,
+        53.870665
+      ],
+      [
+        -2.396273,
+        53.87051
+      ],
+      [
+        -2.396863,
+        53.869833
+      ],
+      [
+        -2.397399,
+        53.869146
+      ],
+      [
+        -2.397383,
+        53.868802
+      ],
+      [
+        -2.397473,
+        53.868636
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-564",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-564"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.395565,
+        53.868979
+      ],
+      [
+        -2.396058,
+        53.868957
+      ],
+      [
+        -2.396799,
+        53.868941
+      ],
+      [
+        -2.397115,
+        53.86889
+      ],
+      [
+        -2.397383,
+        53.868802
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-562",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "footway",
+    "ccg_lit": "no",
+    "id": "way/-562"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.414205,
+        53.872826
+      ],
+      [
+        -2.414554,
+        53.872856
+      ],
+      [
+        -2.415043,
+        53.872897
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-560",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120308",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "track",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-560"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.395545,
+        53.870902
+      ],
+      [
+        -2.395566,
+        53.87089
+      ],
+      [
+        -2.395742,
+        53.870794
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-558",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120308",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "track",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-558"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.395545,
+        53.870902
+      ],
+      [
+        -2.395695,
+        53.871014
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-556",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120308",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "paved",
+    "id": "way/-556"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.392975,
+        53.872581
+      ],
+      [
+        -2.393442,
+        53.872273
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-554",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "footway",
+    "ccg_lit": "no",
+    "id": "way/-554"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.413991,
+        53.872808
+      ],
+      [
+        -2.414205,
+        53.872826
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-552",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-552"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.392046,
+        53.868023
+      ],
+      [
+        -2.392226,
+        53.868013
+      ],
+      [
+        -2.392686,
+        53.867945
+      ],
+      [
+        -2.393002,
+        53.867834
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-550",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Branch Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-550"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.414155,
+        53.891265
+      ],
+      [
+        -2.414326,
+        53.891088
+      ],
+      [
+        -2.414396,
+        53.890913
+      ],
+      [
+        -2.414299,
+        53.890518
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-548",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Twitter Lane",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-548"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.416109,
+        53.888063
+      ],
+      [
+        -2.416964,
+        53.887792
+      ],
+      [
+        -2.418092,
+        53.887201
+      ],
+      [
+        -2.419197,
+        53.886666
+      ],
+      [
+        -2.419433,
+        53.886531
+      ],
+      [
+        -2.419678,
+        53.886285
+      ],
+      [
+        -2.419954,
+        53.886052
+      ],
+      [
+        -2.42027,
+        53.885852
+      ],
+      [
+        -2.420743,
+        53.885713
+      ],
+      [
+        -2.422084,
+        53.885536
+      ],
+      [
+        -2.422574,
+        53.885457
+      ],
+      [
+        -2.42307,
+        53.885299
+      ],
+      [
+        -2.423718,
+        53.885039
+      ],
+      [
+        -2.423946,
+        53.884829
+      ],
+      [
+        -2.424025,
+        53.88449
+      ],
+      [
+        -2.423986,
+        53.884081
+      ],
+      [
+        -2.423915,
+        53.883848
+      ],
+      [
+        -2.423907,
+        53.883676
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-546",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Twitter Lane",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-546"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.415326,
+        53.888373
+      ],
+      [
+        -2.41541,
+        53.888373
+      ],
+      [
+        -2.416109,
+        53.888063
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-544",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Edisford Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-544"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.415259,
+        53.889768
+      ],
+      [
+        -2.415339,
+        53.889558
+      ],
+      [
+        -2.415307,
+        53.889386
+      ],
+      [
+        -2.415147,
+        53.889081
+      ],
+      [
+        -2.415165,
+        53.888628
+      ],
+      [
+        -2.415326,
+        53.888373
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-542",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Belle Vue Lane",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-542"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.415259,
+        53.889768
+      ],
+      [
+        -2.415165,
+        53.889851
+      ],
+      [
+        -2.414901,
+        53.889925
+      ],
+      [
+        -2.414731,
+        53.889972
+      ],
+      [
+        -2.414439,
+        53.890126
+      ],
+      [
+        -2.414297,
+        53.890298
+      ],
+      [
+        -2.414299,
+        53.890518
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-540",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-540"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.443828,
+        53.872514
+      ],
+      [
+        -2.443951,
+        53.872632
+      ],
+      [
+        -2.444055,
+        53.873059
+      ],
+      [
+        -2.444172,
+        53.873482
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-538",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-538"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.443828,
+        53.872514
+      ],
+      [
+        -2.444005,
+        53.872336
+      ],
+      [
+        -2.444763,
+        53.871898
+      ],
+      [
+        -2.446655,
+        53.870738
+      ],
+      [
+        -2.447299,
+        53.870239
+      ],
+      [
+        -2.44938,
+        53.868904
+      ],
+      [
+        -2.449577,
+        53.868826
+      ],
+      [
+        -2.45026,
+        53.868556
+      ],
+      [
+        -2.451719,
+        53.868309
+      ],
+      [
+        -2.453801,
+        53.868069
+      ],
+      [
+        -2.45467,
+        53.867961
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-536",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-536"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.43847,
+        53.971283
+      ],
+      [
+        -2.440211,
+        53.975854
+      ],
+      [
+        -2.439495,
+        53.97756
+      ],
+      [
+        -2.439341,
+        53.978686
+      ],
+      [
+        -2.440017,
+        53.980982
+      ],
+      [
+        -2.441294,
+        53.982858
+      ],
+      [
+        -2.443904,
+        53.987338
+      ],
+      [
+        -2.442763,
+        53.988963
+      ],
+      [
+        -2.442744,
+        53.989418
+      ],
+      [
+        -2.443091,
+        53.98993
+      ],
+      [
+        -2.445586,
+        53.996147
+      ],
+      [
+        -2.446688,
+        53.997579
+      ],
+      [
+        -2.447558,
+        53.998909
+      ],
+      [
+        -2.448099,
+        53.999227
+      ],
+      [
+        -2.448157,
+        53.999454
+      ],
+      [
+        -2.446437,
+        54.00125
+      ],
+      [
+        -2.446204,
+        54.001932
+      ],
+      [
+        -2.446185,
+        54.00508
+      ],
+      [
+        -2.44576,
+        54.006159
+      ],
+      [
+        -2.445605,
+        54.006739
+      ],
+      [
+        -2.44516,
+        54.00728
+      ],
+      [
+        -2.444503,
+        54.008079
+      ],
+      [
+        -2.442744,
+        54.008898
+      ],
+      [
+        -2.442434,
+        54.009227
+      ],
+      [
+        -2.442376,
+        54.009591
+      ],
+      [
+        -2.442608,
+        54.00992
+      ],
+      [
+        -2.44429,
+        54.010704
+      ],
+      [
+        -2.444329,
+        54.010966
+      ],
+      [
+        -2.443382,
+        54.011818
+      ],
+      [
+        -2.443447,
+        54.012087
+      ],
+      [
+        -2.445105,
+        54.013408
+      ],
+      [
+        -2.445876,
+        54.014305
+      ],
+      [
+        -2.445893,
+        54.014864
+      ],
+      [
+        -2.446664,
+        54.016368
+      ],
+      [
+        -2.44732,
+        54.016966
+      ],
+      [
+        -2.447466,
+        54.017221
+      ],
+      [
+        -2.447813,
+        54.018702
+      ],
+      [
+        -2.448256,
+        54.019406
+      ],
+      [
+        -2.4486,
+        54.020081
+      ],
+      [
+        -2.449421,
+        54.020833
+      ],
+      [
+        -2.449864,
+        54.021981
+      ],
+      [
+        -2.45034,
+        54.022762
+      ],
+      [
+        -2.451456,
+        54.023648
+      ],
+      [
+        -2.452638,
+        54.024227
+      ],
+      [
+        -2.45377,
+        54.024584
+      ],
+      [
+        -2.454164,
+        54.024632
+      ],
+      [
+        -2.454788,
+        54.024526
+      ],
+      [
+        -2.4551,
+        54.024584
+      ],
+      [
+        -2.45528,
+        54.025104
+      ],
+      [
+        -2.455408,
+        54.025405
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-534",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "secondary",
+    "ccg_lit": "no",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_ref": "B6478",
+    "ccg_surface": "asphalt",
+    "id": "way/-534"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.414192,
+        53.965099
+      ],
+      [
+        -2.415372,
+        53.964872
+      ],
+      [
+        -2.416415,
+        53.964737
+      ],
+      [
+        -2.418215,
+        53.964562
+      ],
+      [
+        -2.419325,
+        53.964409
+      ],
+      [
+        -2.420608,
+        53.964315
+      ],
+      [
+        -2.423273,
+        53.964121
+      ],
+      [
+        -2.424432,
+        53.96404
+      ],
+      [
+        -2.425157,
+        53.96402
+      ],
+      [
+        -2.425692,
+        53.964108
+      ],
+      [
+        -2.426819,
+        53.964342
+      ],
+      [
+        -2.430036,
+        53.965237
+      ],
+      [
+        -2.431847,
+        53.96555
+      ],
+      [
+        -2.433658,
+        53.965419
+      ],
+      [
+        -2.43486,
+        53.965005
+      ],
+      [
+        -2.435781,
+        53.964529
+      ],
+      [
+        -2.435993,
+        53.964485
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-532",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "secondary",
+    "ccg_lit": "yes",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_ref": "B6478",
+    "ccg_surface": "asphalt",
+    "id": "way/-532"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.435993,
+        53.964485
+      ],
+      [
+        -2.436062,
+        53.964581
+      ],
+      [
+        -2.435847,
+        53.965404
+      ],
+      [
+        -2.435958,
+        53.96559
+      ],
+      [
+        -2.436788,
+        53.966274
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-530",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "secondary",
+    "ccg_lit": "yes",
+    "ccg_name": "Chapel Street",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_ref": "B6478",
+    "ccg_surface": "asphalt",
+    "id": "way/-530"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.43722,
+        53.966429
+      ],
+      [
+        -2.437751,
+        53.966299
+      ],
+      [
+        -2.43819,
+        53.966191
+      ],
+      [
+        -2.438808,
+        53.966136
+      ],
+      [
+        -2.439323,
+        53.966277
+      ],
+      [
+        -2.439932,
+        53.966641
+      ],
+      [
+        -2.440542,
+        53.966843
+      ],
+      [
+        -2.440791,
+        53.966878
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-528",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "secondary",
+    "ccg_lit": "yes",
+    "ccg_name": "Chapel Street",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_ref": "B6478",
+    "ccg_surface": "asphalt",
+    "id": "way/-528"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.436994,
+        53.966395
+      ],
+      [
+        -2.43722,
+        53.966429
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-526",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "The Skaithe",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-526"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.440367,
+        53.967642
+      ],
+      [
+        -2.440675,
+        53.967943
+      ],
+      [
+        -2.440945,
+        53.968326
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-524",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "The Skaithe",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-524"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.43847,
+        53.971283
+      ],
+      [
+        -2.43878,
+        53.97035
+      ],
+      [
+        -2.439766,
+        53.969395
+      ],
+      [
+        -2.44031,
+        53.969014
+      ],
+      [
+        -2.440895,
+        53.968532
+      ],
+      [
+        -2.440945,
+        53.968326
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-522",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "The Skaithe",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-522"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.440256,
+        53.967506
+      ],
+      [
+        -2.440593,
+        53.96706
+      ],
+      [
+        -2.440791,
+        53.966878
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-520",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "The Skaithe",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-520"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.440542,
+        53.966843
+      ],
+      [
+        -2.440593,
+        53.96706
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-518",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "secondary",
+    "ccg_lit": "yes",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_ref": "B6478",
+    "ccg_surface": "asphalt",
+    "id": "way/-518"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.436788,
+        53.966274
+      ],
+      [
+        -2.436994,
+        53.966395
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-516",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "The Skaithe",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-516"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.440256,
+        53.967506
+      ],
+      [
+        -2.440367,
+        53.967642
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-514",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Tinklers Lane",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-514"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.372998,
+        53.9664
+      ],
+      [
+        -2.37462,
+        53.966814
+      ],
+      [
+        -2.375916,
+        53.96688
+      ],
+      [
+        -2.376903,
+        53.966381
+      ],
+      [
+        -2.378995,
+        53.966766
+      ],
+      [
+        -2.380057,
+        53.96688
+      ],
+      [
+        -2.385348,
+        53.966385
+      ],
+      [
+        -2.386773,
+        53.966394
+      ],
+      [
+        -2.387889,
+        53.966577
+      ],
+      [
+        -2.388866,
+        53.966886
+      ],
+      [
+        -2.391451,
+        53.966937
+      ],
+      [
+        -2.394305,
+        53.967612
+      ],
+      [
+        -2.396623,
+        53.967764
+      ],
+      [
+        -2.399873,
+        53.967884
+      ],
+      [
+        -2.401815,
+        53.967688
+      ],
+      [
+        -2.405796,
+        53.967133
+      ],
+      [
+        -2.406493,
+        53.967025
+      ],
+      [
+        -2.407949,
+        53.96647
+      ],
+      [
+        -2.40974,
+        53.965856
+      ],
+      [
+        -2.411612,
+        53.965369
+      ],
+      [
+        -2.412422,
+        53.965162
+      ],
+      [
+        -2.413155,
+        53.96507
+      ],
+      [
+        -2.414192,
+        53.965099
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-512",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "West Bradford Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-512"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.405523,
+        53.8916
+      ],
+      [
+        -2.406532,
+        53.891534
+      ],
+      [
+        -2.40818,
+        53.891605
+      ],
+      [
+        -2.409774,
+        53.89166
+      ],
+      [
+        -2.411141,
+        53.891723
+      ],
+      [
+        -2.411864,
+        53.891628
+      ],
+      [
+        -2.413151,
+        53.891439
+      ],
+      [
+        -2.414155,
+        53.891265
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-510",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-510"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.43953,
+        53.875112
+      ],
+      [
+        -2.440637,
+        53.874369
+      ],
+      [
+        -2.440937,
+        53.874199
+      ],
+      [
+        -2.441711,
+        53.874005
+      ],
+      [
+        -2.442709,
+        53.873856
+      ],
+      [
+        -2.443091,
+        53.873766
+      ],
+      [
+        -2.444172,
+        53.873482
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-508",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Twitter Lane",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-508"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.424048,
+        53.883494
+      ],
+      [
+        -2.424451,
+        53.883174
+      ],
+      [
+        -2.425215,
+        53.882419
+      ],
+      [
+        -2.425476,
+        53.882137
+      ],
+      [
+        -2.425794,
+        53.882003
+      ],
+      [
+        -2.426271,
+        53.881896
+      ],
+      [
+        -2.426544,
+        53.881856
+      ],
+      [
+        -2.426805,
+        53.881762
+      ],
+      [
+        -2.427078,
+        53.881481
+      ],
+      [
+        -2.427271,
+        53.881267
+      ],
+      [
+        -2.427476,
+        53.881153
+      ],
+      [
+        -2.42876,
+        53.880718
+      ],
+      [
+        -2.429384,
+        53.88055
+      ],
+      [
+        -2.429714,
+        53.880309
+      ],
+      [
+        -2.431054,
+        53.879405
+      ],
+      [
+        -2.432361,
+        53.878641
+      ],
+      [
+        -2.434134,
+        53.87759
+      ],
+      [
+        -2.437008,
+        53.87625
+      ],
+      [
+        -2.437408,
+        53.87607
+      ],
+      [
+        -2.43953,
+        53.875112
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-506",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Twitter Lane",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-506"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.423907,
+        53.883676
+      ],
+      [
+        -2.424048,
+        53.883494
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-504",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Waddington Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-504"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.393545,
+        53.895367
+      ],
+      [
+        -2.393752,
+        53.895355
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-502",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "West Bradford Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-502"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.405314,
+        53.891629
+      ],
+      [
+        -2.405523,
+        53.8916
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-500",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "West Bradford Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-500"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.403104,
+        53.892845
+      ],
+      [
+        -2.403665,
+        53.892292
+      ],
+      [
+        -2.404167,
+        53.891965
+      ],
+      [
+        -2.404308,
+        53.891873
+      ],
+      [
+        -2.405099,
+        53.891668
+      ],
+      [
+        -2.405314,
+        53.891629
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-498",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Waddington Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-498"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.393752,
+        53.895355
+      ],
+      [
+        -2.393997,
+        53.895342
+      ],
+      [
+        -2.394046,
+        53.895339
+      ],
+      [
+        -2.395131,
+        53.895307
+      ],
+      [
+        -2.395868,
+        53.895402
+      ],
+      [
+        -2.396364,
+        53.895639
+      ],
+      [
+        -2.396806,
+        53.895805
+      ],
+      [
+        -2.397141,
+        53.89571
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-496",
+  "properties": {
+    "timestamp": "2012-03-12T12:34:00Z",
+    "version": "1",
+    "ccg_date": "20120308",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Waddington Road",
+    "ccg_rcn": "yes",
+    "ccg_rcn_name": "Lancashire Cycleway",
+    "ccg_rcn_ref": "90",
+    "ccg_surface": "asphalt",
+    "id": "way/-496"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -2.397141,
+        53.89571
+      ],
+      [
+        -2.398119,
+        53.895292
+      ],
+      [
+        -2.399057,
+        53.894905
+      ],
+      [
+        -2.399927,
+        53.894707
+      ],
+      [
+        -2.401495,
+        53.893957
+      ],
+      [
+        -2.402727,
+        53.893215
+      ],
+      [
+        -2.403104,
+        53.892845
+      ]
+    ]
+  }
+}
+]
+}

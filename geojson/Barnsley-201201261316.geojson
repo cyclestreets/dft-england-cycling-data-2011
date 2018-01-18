@@ -1,0 +1,10678 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/-3362",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120125",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3362"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.546558,
+        53.58854
+      ],
+      [
+        -1.547631,
+        53.588535
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3360",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120125",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3360"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.54766,
+        53.588388
+      ],
+      [
+        -1.549245,
+        53.588396
+      ],
+      [
+        -1.549377,
+        53.588444
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3358",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "bridleway",
+    "ccg_lit": "no",
+    "ccg_surface": "ground",
+    "id": "way/-3358"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.421762,
+        53.531296
+      ],
+      [
+        -1.42184,
+        53.531064
+      ],
+      [
+        -1.422938,
+        53.529806
+      ],
+      [
+        -1.423428,
+        53.52875
+      ],
+      [
+        -1.42338,
+        53.527183
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3356",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "bridleway",
+    "ccg_lit": "no",
+    "ccg_surface": "ground",
+    "id": "way/-3356"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.367984,
+        53.522989
+      ],
+      [
+        -1.368143,
+        53.523066
+      ],
+      [
+        -1.369092,
+        53.523223
+      ],
+      [
+        -1.369995,
+        53.523289
+      ],
+      [
+        -1.370458,
+        53.523376
+      ],
+      [
+        -1.370732,
+        53.523486
+      ],
+      [
+        -1.370899,
+        53.523621
+      ],
+      [
+        -1.371467,
+        53.524061
+      ],
+      [
+        -1.372846,
+        53.525191
+      ],
+      [
+        -1.37399,
+        53.526158
+      ],
+      [
+        -1.3748,
+        53.526306
+      ],
+      [
+        -1.375018,
+        53.526454
+      ],
+      [
+        -1.375384,
+        53.526528
+      ],
+      [
+        -1.377876,
+        53.527001
+      ],
+      [
+        -1.378795,
+        53.52722
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3354",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3354"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.760748,
+        53.517997
+      ],
+      [
+        -1.761221,
+        53.517754
+      ],
+      [
+        -1.762812,
+        53.51758
+      ],
+      [
+        -1.763046,
+        53.517479
+      ],
+      [
+        -1.763448,
+        53.517371
+      ],
+      [
+        -1.763799,
+        53.517388
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3352",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "bridleway",
+    "ccg_lit": "no",
+    "ccg_surface": "concrete",
+    "id": "way/-3352"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.67716,
+        53.520516
+      ],
+      [
+        -1.677236,
+        53.520491
+      ],
+      [
+        -1.677966,
+        53.52014
+      ],
+      [
+        -1.678124,
+        53.520166
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3350",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "ground",
+    "id": "way/-3350"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.664217,
+        53.520669
+      ],
+      [
+        -1.66568,
+        53.520343
+      ],
+      [
+        -1.667383,
+        53.520059
+      ],
+      [
+        -1.669011,
+        53.51988
+      ],
+      [
+        -1.670446,
+        53.51985
+      ],
+      [
+        -1.671562,
+        53.519963
+      ],
+      [
+        -1.672934,
+        53.520056
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3348",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3348"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.632355,
+        53.526987
+      ],
+      [
+        -1.633047,
+        53.526987
+      ],
+      [
+        -1.634988,
+        53.526766
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3346",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3346"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.600651,
+        53.517386
+      ],
+      [
+        -1.600752,
+        53.517419
+      ],
+      [
+        -1.601438,
+        53.517149
+      ],
+      [
+        -1.602279,
+        53.517252
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3344",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3344"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.602279,
+        53.517252
+      ],
+      [
+        -1.603223,
+        53.517798
+      ],
+      [
+        -1.604597,
+        53.518497
+      ],
+      [
+        -1.606596,
+        53.519211
+      ],
+      [
+        -1.608253,
+        53.519558
+      ],
+      [
+        -1.609515,
+        53.519941
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3342",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3342"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.585552,
+        53.519905
+      ],
+      [
+        -1.585628,
+        53.520012
+      ],
+      [
+        -1.586103,
+        53.520253
+      ],
+      [
+        -1.587443,
+        53.520822
+      ],
+      [
+        -1.588331,
+        53.521262
+      ],
+      [
+        -1.588423,
+        53.521346
+      ],
+      [
+        -1.590595,
+        53.522264
+      ],
+      [
+        -1.59076,
+        53.522129
+      ],
+      [
+        -1.592009,
+        53.522638
+      ],
+      [
+        -1.592468,
+        53.522795
+      ],
+      [
+        -1.593146,
+        53.522907
+      ],
+      [
+        -1.593194,
+        53.522967
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3340",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "6",
+    "ccg_surface": "asphalt",
+    "id": "way/-3340"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.571812,
+        53.500521
+      ],
+      [
+        -1.576556,
+        53.502379
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3338",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3338"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.327495,
+        53.505903
+      ],
+      [
+        -1.327798,
+        53.506104
+      ],
+      [
+        -1.328415,
+        53.506294
+      ],
+      [
+        -1.329555,
+        53.506608
+      ],
+      [
+        -1.33088,
+        53.506949
+      ],
+      [
+        -1.331532,
+        53.50711
+      ],
+      [
+        -1.331762,
+        53.507149
+      ],
+      [
+        -1.331985,
+        53.507117
+      ],
+      [
+        -1.332084,
+        53.507123
+      ],
+      [
+        -1.332202,
+        53.507146
+      ],
+      [
+        -1.332304,
+        53.507195
+      ],
+      [
+        -1.332382,
+        53.50726
+      ],
+      [
+        -1.332481,
+        53.507311
+      ],
+      [
+        -1.332594,
+        53.50735
+      ],
+      [
+        -1.332942,
+        53.507379
+      ],
+      [
+        -1.333981,
+        53.5076
+      ],
+      [
+        -1.334445,
+        53.507707
+      ],
+      [
+        -1.334673,
+        53.507726
+      ],
+      [
+        -1.334914,
+        53.507779
+      ],
+      [
+        -1.335367,
+        53.507934
+      ],
+      [
+        -1.335732,
+        53.508012
+      ],
+      [
+        -1.335928,
+        53.508034
+      ],
+      [
+        -1.3361,
+        53.508001
+      ],
+      [
+        -1.336204,
+        53.507943
+      ],
+      [
+        -1.336405,
+        53.507828
+      ],
+      [
+        -1.336502,
+        53.507776
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3336",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "ground",
+    "id": "way/-3336"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.568899,
+        53.530196
+      ],
+      [
+        -1.569758,
+        53.529788
+      ],
+      [
+        -1.571045,
+        53.529201
+      ],
+      [
+        -1.571904,
+        53.528946
+      ],
+      [
+        -1.573105,
+        53.528691
+      ],
+      [
+        -1.574436,
+        53.528538
+      ],
+      [
+        -1.575509,
+        53.528589
+      ],
+      [
+        -1.576066,
+        53.528538
+      ],
+      [
+        -1.576453,
+        53.528538
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3334",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3334"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.560022,
+        53.498967
+      ],
+      [
+        -1.560069,
+        53.499135
+      ],
+      [
+        -1.560534,
+        53.499209
+      ],
+      [
+        -1.561075,
+        53.499272
+      ],
+      [
+        -1.561336,
+        53.499323
+      ],
+      [
+        -1.561506,
+        53.499371
+      ],
+      [
+        -1.561693,
+        53.499369
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3332",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "6",
+    "ccg_surface": "ground",
+    "id": "way/-3332"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.560022,
+        53.498967
+      ],
+      [
+        -1.561393,
+        53.499243
+      ],
+      [
+        -1.561677,
+        53.499258
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3330",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3330"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.437943,
+        53.545678
+      ],
+      [
+        -1.438199,
+        53.545875
+      ],
+      [
+        -1.438226,
+        53.545945
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3328",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3328"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.437943,
+        53.545678
+      ],
+      [
+        -1.437954,
+        53.545479
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3326",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3326"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.432841,
+        53.552443
+      ],
+      [
+        -1.433176,
+        53.552578
+      ],
+      [
+        -1.433281,
+        53.552747
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3324",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_segregated": "no",
+    "ccg_surface": "dirt",
+    "id": "way/-3324"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.389488,
+        53.509354
+      ],
+      [
+        -1.3897,
+        53.509268
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3322",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_segregated": "no",
+    "ccg_surface": "dirt",
+    "id": "way/-3322"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.365709,
+        53.514488
+      ],
+      [
+        -1.365893,
+        53.51439
+      ],
+      [
+        -1.366175,
+        53.514327
+      ],
+      [
+        -1.3666,
+        53.514308
+      ],
+      [
+        -1.366989,
+        53.514342
+      ],
+      [
+        -1.367063,
+        53.514413
+      ],
+      [
+        -1.367286,
+        53.514461
+      ],
+      [
+        -1.367302,
+        53.514506
+      ],
+      [
+        -1.367318,
+        53.514619
+      ],
+      [
+        -1.367425,
+        53.514761
+      ],
+      [
+        -1.367584,
+        53.514877
+      ],
+      [
+        -1.367903,
+        53.514949
+      ],
+      [
+        -1.368226,
+        53.515036
+      ],
+      [
+        -1.368418,
+        53.515107
+      ],
+      [
+        -1.368551,
+        53.515137
+      ],
+      [
+        -1.368656,
+        53.515156
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3320",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3320"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.368656,
+        53.515156
+      ],
+      [
+        -1.368753,
+        53.515157
+      ],
+      [
+        -1.368862,
+        53.515193
+      ],
+      [
+        -1.369717,
+        53.515493
+      ],
+      [
+        -1.369965,
+        53.515547
+      ],
+      [
+        -1.370358,
+        53.515633
+      ],
+      [
+        -1.370545,
+        53.51564
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3318",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3318"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.336636,
+        53.507837
+      ],
+      [
+        -1.336869,
+        53.507476
+      ],
+      [
+        -1.336914,
+        53.507449
+      ],
+      [
+        -1.336996,
+        53.507324
+      ],
+      [
+        -1.337177,
+        53.506996
+      ],
+      [
+        -1.337325,
+        53.506737
+      ],
+      [
+        -1.337426,
+        53.506558
+      ],
+      [
+        -1.337492,
+        53.506541
+      ],
+      [
+        -1.337533,
+        53.50654
+      ],
+      [
+        -1.33754,
+        53.506519
+      ],
+      [
+        -1.337583,
+        53.506436
+      ],
+      [
+        -1.337556,
+        53.506401
+      ],
+      [
+        -1.337605,
+        53.506246
+      ],
+      [
+        -1.3377,
+        53.50607
+      ],
+      [
+        -1.337837,
+        53.505735
+      ],
+      [
+        -1.33792,
+        53.505505
+      ],
+      [
+        -1.338062,
+        53.505139
+      ],
+      [
+        -1.33817,
+        53.504896
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3316",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3316"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.438133,
+        53.545638
+      ],
+      [
+        -1.438698,
+        53.54582
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3314",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3314"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.337018,
+        53.508098
+      ],
+      [
+        -1.337062,
+        53.508153
+      ],
+      [
+        -1.337112,
+        53.508345
+      ],
+      [
+        -1.336602,
+        53.508482
+      ],
+      [
+        -1.336013,
+        53.50893
+      ],
+      [
+        -1.335855,
+        53.508885
+      ],
+      [
+        -1.335795,
+        53.508863
+      ],
+      [
+        -1.335932,
+        53.508565
+      ],
+      [
+        -1.335843,
+        53.508403
+      ],
+      [
+        -1.335595,
+        53.508271
+      ],
+      [
+        -1.335515,
+        53.508133
+      ],
+      [
+        -1.335539,
+        53.508086
+      ],
+      [
+        -1.335598,
+        53.507986
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3312",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3312"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.336532,
+        53.507817
+      ],
+      [
+        -1.336636,
+        53.507837
+      ],
+      [
+        -1.336597,
+        53.507913
+      ],
+      [
+        -1.336598,
+        53.508002
+      ],
+      [
+        -1.336649,
+        53.508039
+      ],
+      [
+        -1.336825,
+        53.508101
+      ],
+      [
+        -1.337018,
+        53.508098
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3310",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3310"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.358703,
+        53.51008
+      ],
+      [
+        -1.358894,
+        53.510309
+      ],
+      [
+        -1.359012,
+        53.510397
+      ],
+      [
+        -1.360639,
+        53.511592
+      ],
+      [
+        -1.361519,
+        53.512328
+      ],
+      [
+        -1.362214,
+        53.512887
+      ],
+      [
+        -1.362381,
+        53.512888
+      ],
+      [
+        -1.362509,
+        53.512926
+      ],
+      [
+        -1.362618,
+        53.512971
+      ],
+      [
+        -1.362693,
+        53.513128
+      ],
+      [
+        -1.362633,
+        53.513231
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3308",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3308"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.357779,
+        53.50976
+      ],
+      [
+        -1.358128,
+        53.509824
+      ],
+      [
+        -1.358233,
+        53.509796
+      ],
+      [
+        -1.358386,
+        53.509813
+      ],
+      [
+        -1.358571,
+        53.509882
+      ],
+      [
+        -1.358619,
+        53.51
+      ],
+      [
+        -1.358703,
+        53.51008
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3306",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3306"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.358015,
+        53.510253
+      ],
+      [
+        -1.35807,
+        53.510303
+      ],
+      [
+        -1.358231,
+        53.510234
+      ],
+      [
+        -1.358359,
+        53.510242
+      ],
+      [
+        -1.358494,
+        53.510149
+      ],
+      [
+        -1.358703,
+        53.51008
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3304",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3304"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.337018,
+        53.508098
+      ],
+      [
+        -1.337214,
+        53.508072
+      ],
+      [
+        -1.337747,
+        53.508009
+      ],
+      [
+        -1.339266,
+        53.507826
+      ],
+      [
+        -1.340753,
+        53.507657
+      ],
+      [
+        -1.341364,
+        53.507636
+      ],
+      [
+        -1.341937,
+        53.507609
+      ],
+      [
+        -1.342797,
+        53.507599
+      ],
+      [
+        -1.343393,
+        53.507597
+      ],
+      [
+        -1.343432,
+        53.507595
+      ],
+      [
+        -1.343755,
+        53.507602
+      ],
+      [
+        -1.34453,
+        53.507609
+      ],
+      [
+        -1.345231,
+        53.507653
+      ],
+      [
+        -1.345885,
+        53.507694
+      ],
+      [
+        -1.346882,
+        53.507778
+      ],
+      [
+        -1.347404,
+        53.507824
+      ],
+      [
+        -1.347715,
+        53.507866
+      ],
+      [
+        -1.34887,
+        53.508042
+      ],
+      [
+        -1.349862,
+        53.508228
+      ],
+      [
+        -1.350808,
+        53.508344
+      ],
+      [
+        -1.35108,
+        53.508287
+      ],
+      [
+        -1.351178,
+        53.508245
+      ],
+      [
+        -1.351278,
+        53.508316
+      ],
+      [
+        -1.351903,
+        53.508514
+      ],
+      [
+        -1.353116,
+        53.50866
+      ],
+      [
+        -1.354074,
+        53.508804
+      ],
+      [
+        -1.355038,
+        53.508972
+      ],
+      [
+        -1.35599,
+        53.509204
+      ],
+      [
+        -1.357423,
+        53.509603
+      ],
+      [
+        -1.357762,
+        53.509753
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3302",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "no",
+    "ccg_surface": "dirt",
+    "id": "way/-3302"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.362633,
+        53.513231
+      ],
+      [
+        -1.36255,
+        53.513289
+      ],
+      [
+        -1.362528,
+        53.51336
+      ],
+      [
+        -1.362549,
+        53.513443
+      ],
+      [
+        -1.362641,
+        53.513493
+      ],
+      [
+        -1.363285,
+        53.513781
+      ],
+      [
+        -1.363365,
+        53.513879
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3300",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "no",
+    "ccg_surface": "concrete",
+    "id": "way/-3300"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.364458,
+        53.514266
+      ],
+      [
+        -1.36429,
+        53.514439
+      ],
+      [
+        -1.364369,
+        53.514549
+      ],
+      [
+        -1.364487,
+        53.514784
+      ],
+      [
+        -1.364359,
+        53.514854
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3298",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_segregated": "no",
+    "ccg_surface": "dirt",
+    "id": "way/-3298"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.362041,
+        53.513476
+      ],
+      [
+        -1.362302,
+        53.513546
+      ],
+      [
+        -1.362489,
+        53.513583
+      ],
+      [
+        -1.362691,
+        53.513632
+      ],
+      [
+        -1.362925,
+        53.513708
+      ],
+      [
+        -1.36326,
+        53.513838
+      ],
+      [
+        -1.363365,
+        53.513879
+      ],
+      [
+        -1.364458,
+        53.514266
+      ],
+      [
+        -1.364884,
+        53.514416
+      ],
+      [
+        -1.365458,
+        53.514596
+      ],
+      [
+        -1.365709,
+        53.514488
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3296",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3296"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.361048,
+        53.513093
+      ],
+      [
+        -1.361192,
+        53.513101
+      ],
+      [
+        -1.361469,
+        53.513127
+      ],
+      [
+        -1.361636,
+        53.513155
+      ],
+      [
+        -1.361842,
+        53.513213
+      ],
+      [
+        -1.361936,
+        53.513235
+      ],
+      [
+        -1.362069,
+        53.513266
+      ],
+      [
+        -1.362181,
+        53.513293
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3294",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_segregated": "no",
+    "ccg_surface": "dirt",
+    "id": "way/-3294"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.362041,
+        53.513476
+      ],
+      [
+        -1.361952,
+        53.513453
+      ],
+      [
+        -1.361889,
+        53.513423
+      ],
+      [
+        -1.361698,
+        53.513324
+      ],
+      [
+        -1.361508,
+        53.513254
+      ],
+      [
+        -1.361048,
+        53.513093
+      ],
+      [
+        -1.360927,
+        53.513074
+      ],
+      [
+        -1.360779,
+        53.513011
+      ],
+      [
+        -1.360156,
+        53.512872
+      ],
+      [
+        -1.359661,
+        53.512855
+      ],
+      [
+        -1.359222,
+        53.512761
+      ],
+      [
+        -1.357844,
+        53.512452
+      ],
+      [
+        -1.357618,
+        53.512465
+      ],
+      [
+        -1.356938,
+        53.512435
+      ],
+      [
+        -1.356512,
+        53.512678
+      ],
+      [
+        -1.356153,
+        53.5129
+      ],
+      [
+        -1.355703,
+        53.513038
+      ],
+      [
+        -1.355297,
+        53.513076
+      ],
+      [
+        -1.353474,
+        53.513354
+      ],
+      [
+        -1.352432,
+        53.513469
+      ],
+      [
+        -1.351512,
+        53.513502
+      ],
+      [
+        -1.350266,
+        53.513437
+      ],
+      [
+        -1.349581,
+        53.513372
+      ],
+      [
+        -1.348691,
+        53.51341
+      ],
+      [
+        -1.347767,
+        53.513487
+      ],
+      [
+        -1.347095,
+        53.513579
+      ],
+      [
+        -1.346394,
+        53.513634
+      ],
+      [
+        -1.345001,
+        53.513808
+      ],
+      [
+        -1.344007,
+        53.513931
+      ],
+      [
+        -1.34354,
+        53.514068
+      ],
+      [
+        -1.34251,
+        53.514497
+      ],
+      [
+        -1.342198,
+        53.51453
+      ],
+      [
+        -1.341201,
+        53.514734
+      ],
+      [
+        -1.339098,
+        53.514632
+      ],
+      [
+        -1.337914,
+        53.514558
+      ],
+      [
+        -1.337409,
+        53.514432
+      ],
+      [
+        -1.336715,
+        53.514372
+      ],
+      [
+        -1.335859,
+        53.514243
+      ],
+      [
+        -1.335282,
+        53.514215
+      ],
+      [
+        -1.334893,
+        53.514243
+      ],
+      [
+        -1.333927,
+        53.514243
+      ],
+      [
+        -1.333273,
+        53.514335
+      ],
+      [
+        -1.33117,
+        53.514548
+      ],
+      [
+        -1.330843,
+        53.514502
+      ],
+      [
+        -1.33036,
+        53.514437
+      ],
+      [
+        -1.330191,
+        53.51444
+      ],
+      [
+        -1.329862,
+        53.514298
+      ],
+      [
+        -1.3296,
+        53.51415
+      ],
+      [
+        -1.329269,
+        53.514029
+      ],
+      [
+        -1.329088,
+        53.513886
+      ],
+      [
+        -1.328886,
+        53.513608
+      ],
+      [
+        -1.32869,
+        53.513432
+      ],
+      [
+        -1.328476,
+        53.513419
+      ],
+      [
+        -1.328304,
+        53.513298
+      ],
+      [
+        -1.328201,
+        53.513197
+      ],
+      [
+        -1.32751,
+        53.513011
+      ],
+      [
+        -1.326842,
+        53.512762
+      ],
+      [
+        -1.326768,
+        53.512666
+      ],
+      [
+        -1.326804,
+        53.512567
+      ],
+      [
+        -1.326893,
+        53.512465
+      ],
+      [
+        -1.327072,
+        53.512359
+      ],
+      [
+        -1.326996,
+        53.512296
+      ],
+      [
+        -1.326887,
+        53.512233
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3292",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3292"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.316844,
+        53.501342
+      ],
+      [
+        -1.317055,
+        53.501449
+      ],
+      [
+        -1.3173,
+        53.50146
+      ],
+      [
+        -1.317696,
+        53.501354
+      ],
+      [
+        -1.317762,
+        53.501429
+      ],
+      [
+        -1.317821,
+        53.5015
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3290",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3290"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.31614,
+        53.501833
+      ],
+      [
+        -1.316235,
+        53.502022
+      ],
+      [
+        -1.316362,
+        53.502144
+      ],
+      [
+        -1.316396,
+        53.502196
+      ],
+      [
+        -1.316585,
+        53.502289
+      ],
+      [
+        -1.316661,
+        53.502459
+      ],
+      [
+        -1.316868,
+        53.502414
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3288",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3288"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.31614,
+        53.501833
+      ],
+      [
+        -1.316249,
+        53.501764
+      ],
+      [
+        -1.316465,
+        53.50161
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3286",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3286"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.316449,
+        53.500701
+      ],
+      [
+        -1.316521,
+        53.500754
+      ],
+      [
+        -1.316844,
+        53.501342
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3284",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3284"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.316465,
+        53.50161
+      ],
+      [
+        -1.31656,
+        53.501572
+      ],
+      [
+        -1.316598,
+        53.501389
+      ],
+      [
+        -1.316844,
+        53.501342
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3282",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3282"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.31684,
+        53.50241
+      ],
+      [
+        -1.317035,
+        53.502435
+      ],
+      [
+        -1.31715,
+        53.502307
+      ],
+      [
+        -1.317389,
+        53.502278
+      ],
+      [
+        -1.317586,
+        53.50236
+      ],
+      [
+        -1.317695,
+        53.502281
+      ],
+      [
+        -1.317906,
+        53.502164
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3280",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3280"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.31614,
+        53.501833
+      ],
+      [
+        -1.315929,
+        53.501666
+      ],
+      [
+        -1.315566,
+        53.501446
+      ],
+      [
+        -1.315741,
+        53.501315
+      ],
+      [
+        -1.316128,
+        53.501562
+      ],
+      [
+        -1.316465,
+        53.50161
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3278",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3278"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.315937,
+        53.499463
+      ],
+      [
+        -1.316046,
+        53.499505
+      ],
+      [
+        -1.316391,
+        53.499413
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3276",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3276"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.316459,
+        53.499454
+      ],
+      [
+        -1.316221,
+        53.499629
+      ],
+      [
+        -1.316142,
+        53.499732
+      ],
+      [
+        -1.316083,
+        53.499812
+      ],
+      [
+        -1.316062,
+        53.499941
+      ],
+      [
+        -1.316064,
+        53.500033
+      ],
+      [
+        -1.316237,
+        53.500336
+      ],
+      [
+        -1.316393,
+        53.500618
+      ],
+      [
+        -1.316424,
+        53.500665
+      ],
+      [
+        -1.316449,
+        53.500701
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3274",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Pennine Cycleway",
+    "ccg_ncn_ref": "68",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3274"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.766663,
+        53.526294
+      ],
+      [
+        -1.766893,
+        53.526103
+      ],
+      [
+        -1.766926,
+        53.52602
+      ],
+      [
+        -1.766985,
+        53.525341
+      ],
+      [
+        -1.767072,
+        53.525025
+      ],
+      [
+        -1.767213,
+        53.524714
+      ],
+      [
+        -1.76726,
+        53.524535
+      ],
+      [
+        -1.767321,
+        53.523909
+      ],
+      [
+        -1.767482,
+        53.523266
+      ],
+      [
+        -1.767444,
+        53.522937
+      ],
+      [
+        -1.767446,
+        53.522608
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3272",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3272"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.414619,
+        53.534799
+      ],
+      [
+        -1.417451,
+        53.535641
+      ],
+      [
+        -1.418627,
+        53.536124
+      ],
+      [
+        -1.426292,
+        53.539263
+      ],
+      [
+        -1.427665,
+        53.540053
+      ],
+      [
+        -1.428404,
+        53.541302
+      ],
+      [
+        -1.428392,
+        53.541422
+      ],
+      [
+        -1.428709,
+        53.541771
+      ],
+      [
+        -1.428921,
+        53.541814
+      ],
+      [
+        -1.429335,
+        53.541802
+      ],
+      [
+        -1.429581,
+        53.541712
+      ],
+      [
+        -1.42983,
+        53.541541
+      ],
+      [
+        -1.430067,
+        53.541465
+      ],
+      [
+        -1.430297,
+        53.541418
+      ],
+      [
+        -1.43142,
+        53.541943
+      ],
+      [
+        -1.431524,
+        53.541906
+      ],
+      [
+        -1.431626,
+        53.54187
+      ],
+      [
+        -1.432643,
+        53.54217
+      ],
+      [
+        -1.432814,
+        53.542151
+      ],
+      [
+        -1.433293,
+        53.542321
+      ],
+      [
+        -1.433954,
+        53.542747
+      ],
+      [
+        -1.435519,
+        53.543675
+      ],
+      [
+        -1.435525,
+        53.543801
+      ],
+      [
+        -1.43708,
+        53.544972
+      ],
+      [
+        -1.43753,
+        53.545207
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3270",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Pennine Cycleway",
+    "ccg_ncn_ref": "68",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3270"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.767446,
+        53.522608
+      ],
+      [
+        -1.767677,
+        53.522218
+      ],
+      [
+        -1.76811,
+        53.521715
+      ],
+      [
+        -1.768182,
+        53.521575
+      ],
+      [
+        -1.768205,
+        53.521436
+      ],
+      [
+        -1.768191,
+        53.52123
+      ],
+      [
+        -1.768032,
+        53.520618
+      ],
+      [
+        -1.767883,
+        53.520488
+      ],
+      [
+        -1.767573,
+        53.520347
+      ],
+      [
+        -1.767502,
+        53.520287
+      ],
+      [
+        -1.767472,
+        53.520208
+      ],
+      [
+        -1.767484,
+        53.52005
+      ],
+      [
+        -1.767719,
+        53.519752
+      ],
+      [
+        -1.767933,
+        53.519526
+      ],
+      [
+        -1.768462,
+        53.519066
+      ],
+      [
+        -1.768928,
+        53.518731
+      ],
+      [
+        -1.770225,
+        53.517953
+      ],
+      [
+        -1.77066,
+        53.517607
+      ],
+      [
+        -1.771099,
+        53.517339
+      ],
+      [
+        -1.771726,
+        53.5169
+      ],
+      [
+        -1.771823,
+        53.516822
+      ],
+      [
+        -1.771849,
+        53.51674
+      ],
+      [
+        -1.771794,
+        53.516661
+      ],
+      [
+        -1.771619,
+        53.516501
+      ],
+      [
+        -1.771444,
+        53.516215
+      ],
+      [
+        -1.771381,
+        53.515999
+      ],
+      [
+        -1.771335,
+        53.515557
+      ],
+      [
+        -1.771282,
+        53.515448
+      ],
+      [
+        -1.770943,
+        53.515144
+      ],
+      [
+        -1.770805,
+        53.514913
+      ],
+      [
+        -1.770745,
+        53.514689
+      ],
+      [
+        -1.770808,
+        53.514259
+      ],
+      [
+        -1.77079,
+        53.514129
+      ],
+      [
+        -1.770721,
+        53.514003
+      ],
+      [
+        -1.770286,
+        53.513524
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3268",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3268"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.5091,
+        53.551868
+      ],
+      [
+        -1.50921,
+        53.551982
+      ],
+      [
+        -1.509535,
+        53.552373
+      ],
+      [
+        -1.509692,
+        53.552637
+      ],
+      [
+        -1.509847,
+        53.5529
+      ],
+      [
+        -1.5099,
+        53.552991
+      ],
+      [
+        -1.509959,
+        53.553317
+      ],
+      [
+        -1.510006,
+        53.55353
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3266",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3266"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.501677,
+        53.546243
+      ],
+      [
+        -1.502328,
+        53.546606
+      ],
+      [
+        -1.503513,
+        53.547306
+      ],
+      [
+        -1.504493,
+        53.547851
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3264",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "ground",
+    "id": "way/-3264"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.439587,
+        53.586201
+      ],
+      [
+        -1.43973,
+        53.586231
+      ],
+      [
+        -1.439494,
+        53.586788
+      ],
+      [
+        -1.439429,
+        53.587006
+      ],
+      [
+        -1.439452,
+        53.587389
+      ],
+      [
+        -1.439638,
+        53.587614
+      ],
+      [
+        -1.44014,
+        53.587908
+      ],
+      [
+        -1.441623,
+        53.588332
+      ],
+      [
+        -1.441923,
+        53.588557
+      ],
+      [
+        -1.442223,
+        53.588869
+      ],
+      [
+        -1.442504,
+        53.589433
+      ],
+      [
+        -1.442614,
+        53.589881
+      ],
+      [
+        -1.442667,
+        53.590242
+      ],
+      [
+        -1.442665,
+        53.590712
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3262",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "concrete",
+    "id": "way/-3262"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.429878,
+        53.586713
+      ],
+      [
+        -1.429787,
+        53.586504
+      ],
+      [
+        -1.429687,
+        53.586034
+      ],
+      [
+        -1.429488,
+        53.585545
+      ],
+      [
+        -1.429512,
+        53.583835
+      ],
+      [
+        -1.429827,
+        53.582641
+      ],
+      [
+        -1.429599,
+        53.580885
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3260",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "bridleway",
+    "ccg_lit": "no",
+    "ccg_surface": "ground",
+    "id": "way/-3260"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.420831,
+        53.580031
+      ],
+      [
+        -1.421314,
+        53.580069
+      ],
+      [
+        -1.421952,
+        53.579987
+      ],
+      [
+        -1.422592,
+        53.579942
+      ],
+      [
+        -1.423005,
+        53.579949
+      ],
+      [
+        -1.423442,
+        53.579958
+      ],
+      [
+        -1.423855,
+        53.579996
+      ],
+      [
+        -1.424078,
+        53.580018
+      ],
+      [
+        -1.424511,
+        53.580062
+      ],
+      [
+        -1.424784,
+        53.580087
+      ],
+      [
+        -1.427313,
+        53.58033
+      ],
+      [
+        -1.428821,
+        53.580749
+      ],
+      [
+        -1.429599,
+        53.580885
+      ],
+      [
+        -1.430517,
+        53.580703
+      ],
+      [
+        -1.431098,
+        53.580544
+      ],
+      [
+        -1.431477,
+        53.580528
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3258",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "concrete",
+    "id": "way/-3258"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.427057,
+        53.573767
+      ],
+      [
+        -1.427816,
+        53.574992
+      ],
+      [
+        -1.42835,
+        53.576022
+      ],
+      [
+        -1.429395,
+        53.578227
+      ],
+      [
+        -1.429202,
+        53.578267
+      ],
+      [
+        -1.429085,
+        53.57835
+      ],
+      [
+        -1.429599,
+        53.580885
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3256",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3256"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.428804,
+        53.572919
+      ],
+      [
+        -1.429214,
+        53.573489
+      ],
+      [
+        -1.430344,
+        53.574478
+      ],
+      [
+        -1.43167,
+        53.575213
+      ],
+      [
+        -1.432378,
+        53.575527
+      ],
+      [
+        -1.433556,
+        53.57596
+      ],
+      [
+        -1.434215,
+        53.576142
+      ],
+      [
+        -1.435542,
+        53.57645
+      ],
+      [
+        -1.436948,
+        53.576702
+      ],
+      [
+        -1.437388,
+        53.576737
+      ],
+      [
+        -1.437676,
+        53.576713
+      ],
+      [
+        -1.43801,
+        53.576694
+      ],
+      [
+        -1.438198,
+        53.576753
+      ],
+      [
+        -1.438287,
+        53.576926
+      ],
+      [
+        -1.43862,
+        53.577028
+      ],
+      [
+        -1.439092,
+        53.577061
+      ],
+      [
+        -1.44001,
+        53.577205
+      ],
+      [
+        -1.44089,
+        53.577317
+      ],
+      [
+        -1.442193,
+        53.577583
+      ],
+      [
+        -1.443088,
+        53.577839
+      ],
+      [
+        -1.443544,
+        53.577988
+      ],
+      [
+        -1.444054,
+        53.578119
+      ],
+      [
+        -1.444451,
+        53.578129
+      ],
+      [
+        -1.44456,
+        53.578111
+      ],
+      [
+        -1.444765,
+        53.578047
+      ],
+      [
+        -1.444792,
+        53.57824
+      ],
+      [
+        -1.444947,
+        53.578257
+      ],
+      [
+        -1.445067,
+        53.578168
+      ],
+      [
+        -1.444996,
+        53.577839
+      ],
+      [
+        -1.444627,
+        53.575972
+      ],
+      [
+        -1.444517,
+        53.575732
+      ],
+      [
+        -1.44427,
+        53.575641
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3254",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "ground",
+    "id": "way/-3254"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.436838,
+        53.577035
+      ],
+      [
+        -1.436547,
+        53.576909
+      ],
+      [
+        -1.436014,
+        53.576792
+      ],
+      [
+        -1.435805,
+        53.576799
+      ],
+      [
+        -1.435613,
+        53.576629
+      ],
+      [
+        -1.435739,
+        53.576503
+      ],
+      [
+        -1.435794,
+        53.576443
+      ],
+      [
+        -1.436037,
+        53.576401
+      ],
+      [
+        -1.43643,
+        53.576396
+      ],
+      [
+        -1.436678,
+        53.576418
+      ],
+      [
+        -1.437004,
+        53.576369
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3252",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "ground",
+    "id": "way/-3252"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.432893,
+        53.580197
+      ],
+      [
+        -1.433579,
+        53.579687
+      ],
+      [
+        -1.435382,
+        53.579305
+      ],
+      [
+        -1.436154,
+        53.578872
+      ],
+      [
+        -1.436455,
+        53.578108
+      ],
+      [
+        -1.436838,
+        53.577035
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3250",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_surface": "asphalt",
+    "id": "way/-3250"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.435519,
+        53.543675
+      ],
+      [
+        -1.435741,
+        53.543539
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3248",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3248"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.413556,
+        53.588482
+      ],
+      [
+        -1.413693,
+        53.588491
+      ],
+      [
+        -1.413842,
+        53.588402
+      ],
+      [
+        -1.413939,
+        53.588316
+      ],
+      [
+        -1.413943,
+        53.588241
+      ],
+      [
+        -1.414089,
+        53.588133
+      ],
+      [
+        -1.414381,
+        53.588052
+      ],
+      [
+        -1.414711,
+        53.587913
+      ],
+      [
+        -1.414993,
+        53.587749
+      ],
+      [
+        -1.415763,
+        53.58719
+      ],
+      [
+        -1.416564,
+        53.586542
+      ],
+      [
+        -1.416729,
+        53.586193
+      ],
+      [
+        -1.417147,
+        53.585651
+      ],
+      [
+        -1.417687,
+        53.584794
+      ],
+      [
+        -1.41826,
+        53.583764
+      ],
+      [
+        -1.418959,
+        53.582701
+      ],
+      [
+        -1.419367,
+        53.582123
+      ],
+      [
+        -1.420019,
+        53.581233
+      ],
+      [
+        -1.420681,
+        53.580168
+      ],
+      [
+        -1.420831,
+        53.580031
+      ],
+      [
+        -1.421006,
+        53.579844
+      ],
+      [
+        -1.421118,
+        53.579604
+      ],
+      [
+        -1.421526,
+        53.578935
+      ],
+      [
+        -1.421778,
+        53.578485
+      ],
+      [
+        -1.42212,
+        53.577952
+      ],
+      [
+        -1.422043,
+        53.577753
+      ],
+      [
+        -1.422111,
+        53.577547
+      ],
+      [
+        -1.422186,
+        53.57752
+      ],
+      [
+        -1.422429,
+        53.577375
+      ],
+      [
+        -1.422641,
+        53.577189
+      ],
+      [
+        -1.42292,
+        53.576697
+      ],
+      [
+        -1.423016,
+        53.576518
+      ],
+      [
+        -1.42311,
+        53.576343
+      ],
+      [
+        -1.42321,
+        53.576163
+      ],
+      [
+        -1.42334,
+        53.575998
+      ],
+      [
+        -1.423453,
+        53.575827
+      ],
+      [
+        -1.423929,
+        53.575301
+      ],
+      [
+        -1.424714,
+        53.574713
+      ],
+      [
+        -1.424903,
+        53.574559
+      ],
+      [
+        -1.425366,
+        53.57434
+      ],
+      [
+        -1.426057,
+        53.57393
+      ],
+      [
+        -1.426348,
+        53.573725
+      ],
+      [
+        -1.426827,
+        53.573501
+      ],
+      [
+        -1.42736,
+        53.573263
+      ],
+      [
+        -1.427839,
+        53.573053
+      ],
+      [
+        -1.427942,
+        53.572955
+      ],
+      [
+        -1.427949,
+        53.572839
+      ],
+      [
+        -1.427688,
+        53.572727
+      ],
+      [
+        -1.427651,
+        53.572662
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3246",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "concrete",
+    "id": "way/-3246"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.416201,
+        53.562729
+      ],
+      [
+        -1.416587,
+        53.563514
+      ],
+      [
+        -1.416754,
+        53.56378
+      ],
+      [
+        -1.418056,
+        53.565155
+      ],
+      [
+        -1.418296,
+        53.56541
+      ],
+      [
+        -1.418739,
+        53.565692
+      ],
+      [
+        -1.419862,
+        53.566382
+      ],
+      [
+        -1.420325,
+        53.566661
+      ],
+      [
+        -1.420718,
+        53.567016
+      ],
+      [
+        -1.420791,
+        53.567104
+      ],
+      [
+        -1.420719,
+        53.567195
+      ],
+      [
+        -1.420743,
+        53.567287
+      ],
+      [
+        -1.422013,
+        53.568294
+      ],
+      [
+        -1.423458,
+        53.569427
+      ],
+      [
+        -1.423836,
+        53.569737
+      ],
+      [
+        -1.424039,
+        53.570019
+      ],
+      [
+        -1.424856,
+        53.57087
+      ],
+      [
+        -1.425465,
+        53.57149
+      ],
+      [
+        -1.425861,
+        53.572082
+      ],
+      [
+        -1.42634,
+        53.572749
+      ],
+      [
+        -1.426379,
+        53.572839
+      ],
+      [
+        -1.426746,
+        53.573382
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3244",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3244"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.414443,
+        53.565132
+      ],
+      [
+        -1.414518,
+        53.565105
+      ],
+      [
+        -1.414572,
+        53.56502
+      ],
+      [
+        -1.414664,
+        53.564871
+      ],
+      [
+        -1.414716,
+        53.564764
+      ],
+      [
+        -1.4148,
+        53.564558
+      ],
+      [
+        -1.41487,
+        53.564319
+      ],
+      [
+        -1.414913,
+        53.564177
+      ],
+      [
+        -1.41497,
+        53.564016
+      ],
+      [
+        -1.41519,
+        53.563811
+      ],
+      [
+        -1.415538,
+        53.56362
+      ],
+      [
+        -1.415632,
+        53.563371
+      ],
+      [
+        -1.415867,
+        53.562965
+      ],
+      [
+        -1.415994,
+        53.562746
+      ],
+      [
+        -1.416201,
+        53.562729
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3242",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "ground",
+    "id": "way/-3242"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.416201,
+        53.562729
+      ],
+      [
+        -1.416807,
+        53.56258
+      ],
+      [
+        -1.417403,
+        53.562355
+      ],
+      [
+        -1.41784,
+        53.562337
+      ],
+      [
+        -1.418139,
+        53.562283
+      ],
+      [
+        -1.419626,
+        53.562045
+      ],
+      [
+        -1.420161,
+        53.561932
+      ],
+      [
+        -1.420394,
+        53.561869
+      ],
+      [
+        -1.420707,
+        53.561745
+      ],
+      [
+        -1.420885,
+        53.561651
+      ],
+      [
+        -1.421113,
+        53.561514
+      ],
+      [
+        -1.421433,
+        53.561338
+      ],
+      [
+        -1.421818,
+        53.561089
+      ],
+      [
+        -1.422162,
+        53.560861
+      ],
+      [
+        -1.422482,
+        53.560653
+      ],
+      [
+        -1.422734,
+        53.560533
+      ],
+      [
+        -1.423045,
+        53.56043
+      ],
+      [
+        -1.423275,
+        53.56036
+      ],
+      [
+        -1.423641,
+        53.560308
+      ],
+      [
+        -1.423959,
+        53.560284
+      ],
+      [
+        -1.424942,
+        53.560263
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3240",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3240"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.416204,
+        53.562736
+      ],
+      [
+        -1.415975,
+        53.562232
+      ],
+      [
+        -1.415739,
+        53.561129
+      ],
+      [
+        -1.415834,
+        53.560327
+      ],
+      [
+        -1.415971,
+        53.559332
+      ],
+      [
+        -1.416839,
+        53.557771
+      ],
+      [
+        -1.418161,
+        53.556419
+      ],
+      [
+        -1.421142,
+        53.554693
+      ],
+      [
+        -1.424249,
+        53.553812
+      ],
+      [
+        -1.425677,
+        53.553532
+      ],
+      [
+        -1.427105,
+        53.553285
+      ],
+      [
+        -1.428139,
+        53.553107
+      ],
+      [
+        -1.429151,
+        53.553107
+      ],
+      [
+        -1.43091,
+        53.553125
+      ],
+      [
+        -1.431767,
+        53.552957
+      ],
+      [
+        -1.43282,
+        53.552454
+      ],
+      [
+        -1.433287,
+        53.552242
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3238",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_segregated": "no",
+    "ccg_surface": "dirt",
+    "id": "way/-3238"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.311591,
+        53.512548
+      ],
+      [
+        -1.311703,
+        53.51251
+      ],
+      [
+        -1.313757,
+        53.512315
+      ],
+      [
+        -1.315038,
+        53.512506
+      ],
+      [
+        -1.315988,
+        53.512548
+      ],
+      [
+        -1.316669,
+        53.512409
+      ],
+      [
+        -1.317481,
+        53.512558
+      ],
+      [
+        -1.318423,
+        53.512707
+      ],
+      [
+        -1.319252,
+        53.512928
+      ],
+      [
+        -1.319773,
+        53.512938
+      ],
+      [
+        -1.320515,
+        53.512781
+      ],
+      [
+        -1.321069,
+        53.512807
+      ],
+      [
+        -1.323472,
+        53.512457
+      ],
+      [
+        -1.323825,
+        53.512426
+      ],
+      [
+        -1.324764,
+        53.512514
+      ],
+      [
+        -1.325097,
+        53.512427
+      ],
+      [
+        -1.326029,
+        53.512156
+      ],
+      [
+        -1.326346,
+        53.51234
+      ],
+      [
+        -1.326849,
+        53.512193
+      ],
+      [
+        -1.326887,
+        53.512233
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3236",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3236"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.311591,
+        53.512548
+      ],
+      [
+        -1.31145,
+        53.512599
+      ],
+      [
+        -1.311034,
+        53.512259
+      ],
+      [
+        -1.311089,
+        53.51211
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3234",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3234"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.282918,
+        53.517039
+      ],
+      [
+        -1.284487,
+        53.515723
+      ],
+      [
+        -1.285184,
+        53.515362
+      ],
+      [
+        -1.285557,
+        53.515199
+      ],
+      [
+        -1.2864,
+        53.514819
+      ],
+      [
+        -1.286604,
+        53.514714
+      ],
+      [
+        -1.286876,
+        53.514576
+      ],
+      [
+        -1.287298,
+        53.514556
+      ],
+      [
+        -1.287784,
+        53.514808
+      ],
+      [
+        -1.288083,
+        53.514976
+      ],
+      [
+        -1.288522,
+        53.515256
+      ],
+      [
+        -1.289276,
+        53.515396
+      ],
+      [
+        -1.289936,
+        53.515322
+      ],
+      [
+        -1.291327,
+        53.515338
+      ],
+      [
+        -1.291632,
+        53.515228
+      ],
+      [
+        -1.292668,
+        53.515107
+      ],
+      [
+        -1.293045,
+        53.515116
+      ],
+      [
+        -1.29455,
+        53.514881
+      ],
+      [
+        -1.29488,
+        53.514811
+      ],
+      [
+        -1.295196,
+        53.514752
+      ],
+      [
+        -1.295517,
+        53.514685
+      ],
+      [
+        -1.295854,
+        53.514617
+      ],
+      [
+        -1.296658,
+        53.514539
+      ],
+      [
+        -1.296858,
+        53.514474
+      ],
+      [
+        -1.297047,
+        53.514334
+      ],
+      [
+        -1.297232,
+        53.514179
+      ],
+      [
+        -1.297422,
+        53.514007
+      ],
+      [
+        -1.297526,
+        53.513828
+      ],
+      [
+        -1.297748,
+        53.513606
+      ],
+      [
+        -1.298136,
+        53.513597
+      ],
+      [
+        -1.298558,
+        53.513708
+      ],
+      [
+        -1.298966,
+        53.513689
+      ],
+      [
+        -1.299475,
+        53.513625
+      ],
+      [
+        -1.299971,
+        53.513508
+      ],
+      [
+        -1.306331,
+        53.512746
+      ],
+      [
+        -1.308708,
+        53.512266
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3232",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "bridleway",
+    "ccg_lit": "no",
+    "ccg_surface": "ground",
+    "id": "way/-3232"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.282918,
+        53.517039
+      ],
+      [
+        -1.283229,
+        53.517134
+      ],
+      [
+        -1.283493,
+        53.517206
+      ],
+      [
+        -1.283723,
+        53.517237
+      ],
+      [
+        -1.284014,
+        53.517258
+      ],
+      [
+        -1.284378,
+        53.517325
+      ],
+      [
+        -1.284998,
+        53.517423
+      ],
+      [
+        -1.285415,
+        53.517487
+      ],
+      [
+        -1.285874,
+        53.517609
+      ],
+      [
+        -1.286482,
+        53.517748
+      ],
+      [
+        -1.286885,
+        53.517841
+      ],
+      [
+        -1.287327,
+        53.51798
+      ],
+      [
+        -1.287687,
+        53.518057
+      ],
+      [
+        -1.288147,
+        53.518155
+      ],
+      [
+        -1.288299,
+        53.518111
+      ],
+      [
+        -1.288399,
+        53.518029
+      ],
+      [
+        -1.288412,
+        53.517939
+      ],
+      [
+        -1.288563,
+        53.517786
+      ],
+      [
+        -1.288581,
+        53.517647
+      ],
+      [
+        -1.288724,
+        53.517552
+      ],
+      [
+        -1.289179,
+        53.517521
+      ],
+      [
+        -1.289613,
+        53.517521
+      ],
+      [
+        -1.289804,
+        53.517508
+      ],
+      [
+        -1.290715,
+        53.51732
+      ],
+      [
+        -1.290845,
+        53.517276
+      ],
+      [
+        -1.291018,
+        53.517248
+      ],
+      [
+        -1.291383,
+        53.517222
+      ],
+      [
+        -1.291868,
+        53.517191
+      ],
+      [
+        -1.292098,
+        53.517199
+      ],
+      [
+        -1.292272,
+        53.517173
+      ],
+      [
+        -1.292571,
+        53.517183
+      ],
+      [
+        -1.293044,
+        53.51715
+      ],
+      [
+        -1.293434,
+        53.517113
+      ],
+      [
+        -1.293699,
+        53.517106
+      ],
+      [
+        -1.294215,
+        53.517067
+      ],
+      [
+        -1.294354,
+        53.517039
+      ],
+      [
+        -1.294575,
+        53.517034
+      ],
+      [
+        -1.295195,
+        53.516966
+      ],
+      [
+        -1.295342,
+        53.516972
+      ],
+      [
+        -1.29552,
+        53.516938
+      ],
+      [
+        -1.295633,
+        53.516925
+      ],
+      [
+        -1.296527,
+        53.516879
+      ],
+      [
+        -1.296713,
+        53.516876
+      ],
+      [
+        -1.297502,
+        53.516799
+      ],
+      [
+        -1.297897,
+        53.516809
+      ],
+      [
+        -1.29837,
+        53.51685
+      ],
+      [
+        -1.298639,
+        53.516848
+      ],
+      [
+        -1.29912,
+        53.516812
+      ],
+      [
+        -1.299699,
+        53.516802
+      ],
+      [
+        -1.300557,
+        53.516884
+      ],
+      [
+        -1.301648,
+        53.516997
+      ],
+      [
+        -1.302294,
+        53.517085
+      ],
+      [
+        -1.302929,
+        53.517142
+      ],
+      [
+        -1.303429,
+        53.517153
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3230",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3230"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.327495,
+        53.505903
+      ],
+      [
+        -1.327798,
+        53.506104
+      ],
+      [
+        -1.328415,
+        53.506294
+      ],
+      [
+        -1.329555,
+        53.506608
+      ],
+      [
+        -1.33088,
+        53.506949
+      ],
+      [
+        -1.331532,
+        53.50711
+      ],
+      [
+        -1.331762,
+        53.507149
+      ],
+      [
+        -1.331985,
+        53.507117
+      ],
+      [
+        -1.332084,
+        53.507123
+      ],
+      [
+        -1.332202,
+        53.507146
+      ],
+      [
+        -1.332304,
+        53.507195
+      ],
+      [
+        -1.332382,
+        53.50726
+      ],
+      [
+        -1.332481,
+        53.507311
+      ],
+      [
+        -1.332594,
+        53.50735
+      ],
+      [
+        -1.332942,
+        53.507379
+      ],
+      [
+        -1.333981,
+        53.5076
+      ],
+      [
+        -1.334445,
+        53.507707
+      ],
+      [
+        -1.334673,
+        53.507726
+      ],
+      [
+        -1.334914,
+        53.507779
+      ],
+      [
+        -1.335367,
+        53.507934
+      ],
+      [
+        -1.335732,
+        53.508012
+      ],
+      [
+        -1.335928,
+        53.508034
+      ],
+      [
+        -1.3361,
+        53.508001
+      ],
+      [
+        -1.336204,
+        53.507943
+      ],
+      [
+        -1.336405,
+        53.507828
+      ],
+      [
+        -1.336502,
+        53.507776
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3228",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_surface": "asphalt",
+    "id": "way/-3228"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.433954,
+        53.542747
+      ],
+      [
+        -1.434173,
+        53.542615
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3226",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "dirt",
+    "id": "way/-3226"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.434348,
+        53.586881
+      ],
+      [
+        -1.43212,
+        53.582923
+      ],
+      [
+        -1.432507,
+        53.582388
+      ],
+      [
+        -1.432206,
+        53.582082
+      ],
+      [
+        -1.43212,
+        53.581726
+      ],
+      [
+        -1.432549,
+        53.580681
+      ],
+      [
+        -1.432893,
+        53.580197
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3224",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "bridleway",
+    "ccg_horse": "yes",
+    "ccg_lit": "no",
+    "ccg_surface": "concrete",
+    "id": "way/-3224"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.431477,
+        53.580528
+      ],
+      [
+        -1.432206,
+        53.580605
+      ],
+      [
+        -1.432893,
+        53.580197
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3222",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3222"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.435343,
+        53.57153
+      ],
+      [
+        -1.435296,
+        53.571075
+      ],
+      [
+        -1.43491,
+        53.570616
+      ],
+      [
+        -1.434352,
+        53.569648
+      ],
+      [
+        -1.43388,
+        53.567914
+      ],
+      [
+        -1.433665,
+        53.566513
+      ],
+      [
+        -1.433512,
+        53.56543
+      ],
+      [
+        -1.433365,
+        53.564397
+      ],
+      [
+        -1.433408,
+        53.559937
+      ],
+      [
+        -1.433394,
+        53.559448
+      ],
+      [
+        -1.433287,
+        53.555505
+      ],
+      [
+        -1.433287,
+        53.552242
+      ],
+      [
+        -1.433802,
+        53.550661
+      ],
+      [
+        -1.43436,
+        53.549998
+      ],
+      [
+        -1.435948,
+        53.549131
+      ],
+      [
+        -1.438222,
+        53.548086
+      ],
+      [
+        -1.438609,
+        53.547627
+      ],
+      [
+        -1.438602,
+        53.546773
+      ],
+      [
+        -1.438507,
+        53.546513
+      ],
+      [
+        -1.438151,
+        53.546084
+      ],
+      [
+        -1.438226,
+        53.545945
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3220",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "concrete",
+    "id": "way/-3220"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.439131,
+        53.546017
+      ],
+      [
+        -1.440111,
+        53.546454
+      ],
+      [
+        -1.441784,
+        53.547194
+      ],
+      [
+        -1.443329,
+        53.547907
+      ],
+      [
+        -1.445818,
+        53.548647
+      ],
+      [
+        -1.446575,
+        53.548767
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3218",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3218"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.446575,
+        53.548767
+      ],
+      [
+        -1.446959,
+        53.548828
+      ],
+      [
+        -1.44835,
+        53.549055
+      ],
+      [
+        -1.450711,
+        53.549233
+      ],
+      [
+        -1.454359,
+        53.549106
+      ],
+      [
+        -1.454831,
+        53.549539
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3216",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3216"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.454831,
+        53.549539
+      ],
+      [
+        -1.457448,
+        53.549055
+      ],
+      [
+        -1.459723,
+        53.549004
+      ],
+      [
+        -1.461826,
+        53.548927
+      ],
+      [
+        -1.464057,
+        53.548774
+      ],
+      [
+        -1.465903,
+        53.548749
+      ],
+      [
+        -1.467491,
+        53.548902
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3214",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3214"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.437852,
+        53.545388
+      ],
+      [
+        -1.437954,
+        53.545479
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3212",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3212"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.437954,
+        53.545479
+      ],
+      [
+        -1.438133,
+        53.545638
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3210",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3210"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.371369,
+        53.51588
+      ],
+      [
+        -1.375052,
+        53.516918
+      ],
+      [
+        -1.375233,
+        53.517073
+      ],
+      [
+        -1.375555,
+        53.517177
+      ],
+      [
+        -1.375916,
+        53.517242
+      ],
+      [
+        -1.376215,
+        53.517247
+      ],
+      [
+        -1.380716,
+        53.518523
+      ],
+      [
+        -1.382552,
+        53.519047
+      ],
+      [
+        -1.383018,
+        53.51918
+      ],
+      [
+        -1.384192,
+        53.519569
+      ],
+      [
+        -1.389642,
+        53.521356
+      ],
+      [
+        -1.393934,
+        53.523422
+      ],
+      [
+        -1.394535,
+        53.523473
+      ],
+      [
+        -1.394849,
+        53.52362
+      ],
+      [
+        -1.395135,
+        53.523754
+      ],
+      [
+        -1.399097,
+        53.526364
+      ],
+      [
+        -1.403461,
+        53.529239
+      ],
+      [
+        -1.406704,
+        53.531451
+      ],
+      [
+        -1.407237,
+        53.531815
+      ],
+      [
+        -1.410113,
+        53.533524
+      ],
+      [
+        -1.411057,
+        53.53383
+      ],
+      [
+        -1.414619,
+        53.534799
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3208",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3208"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.505217,
+        53.535669
+      ],
+      [
+        -1.50585,
+        53.535675
+      ],
+      [
+        -1.50826,
+        53.535667
+      ],
+      [
+        -1.509922,
+        53.535268
+      ],
+      [
+        -1.510492,
+        53.535131
+      ],
+      [
+        -1.513152,
+        53.534213
+      ],
+      [
+        -1.515856,
+        53.533167
+      ],
+      [
+        -1.518774,
+        53.5323
+      ],
+      [
+        -1.521006,
+        53.531994
+      ],
+      [
+        -1.523366,
+        53.532019
+      ],
+      [
+        -1.525254,
+        53.532172
+      ],
+      [
+        -1.527658,
+        53.532733
+      ],
+      [
+        -1.529675,
+        53.53309
+      ],
+      [
+        -1.532679,
+        53.533244
+      ],
+      [
+        -1.535597,
+        53.532988
+      ],
+      [
+        -1.538215,
+        53.533065
+      ],
+      [
+        -1.540404,
+        53.53309
+      ],
+      [
+        -1.542979,
+        53.532861
+      ],
+      [
+        -1.544523,
+        53.532555
+      ],
+      [
+        -1.55448,
+        53.532045
+      ],
+      [
+        -1.556154,
+        53.532325
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3206",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3206"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.456507,
+        53.527627
+      ],
+      [
+        -1.452599,
+        53.527351
+      ],
+      [
+        -1.450024,
+        53.527121
+      ],
+      [
+        -1.447192,
+        53.527198
+      ],
+      [
+        -1.446197,
+        53.527324
+      ],
+      [
+        -1.444574,
+        53.52753
+      ],
+      [
+        -1.441913,
+        53.528065
+      ],
+      [
+        -1.435004,
+        53.529647
+      ],
+      [
+        -1.433544,
+        53.529749
+      ],
+      [
+        -1.431055,
+        53.529443
+      ],
+      [
+        -1.429554,
+        53.529111
+      ],
+      [
+        -1.42818,
+        53.528882
+      ],
+      [
+        -1.426978,
+        53.528728
+      ],
+      [
+        -1.425477,
+        53.52878
+      ],
+      [
+        -1.42406,
+        53.529264
+      ],
+      [
+        -1.42303,
+        53.53008
+      ],
+      [
+        -1.421142,
+        53.531917
+      ],
+      [
+        -1.419211,
+        53.533065
+      ],
+      [
+        -1.417881,
+        53.533626
+      ],
+      [
+        -1.416507,
+        53.534009
+      ],
+      [
+        -1.416402,
+        53.534028
+      ],
+      [
+        -1.415563,
+        53.534187
+      ],
+      [
+        -1.414876,
+        53.534264
+      ],
+      [
+        -1.414576,
+        53.534493
+      ],
+      [
+        -1.414619,
+        53.534799
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3204",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3204"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.707535,
+        53.522492
+      ],
+      [
+        -1.709307,
+        53.522175
+      ],
+      [
+        -1.711366,
+        53.521781
+      ],
+      [
+        -1.711915,
+        53.521742
+      ],
+      [
+        -1.713618,
+        53.5215
+      ],
+      [
+        -1.715431,
+        53.521278
+      ],
+      [
+        -1.717791,
+        53.521265
+      ],
+      [
+        -1.718432,
+        53.521238
+      ],
+      [
+        -1.719546,
+        53.521191
+      ],
+      [
+        -1.720537,
+        53.521036
+      ],
+      [
+        -1.723156,
+        53.520574
+      ],
+      [
+        -1.725229,
+        53.520174
+      ],
+      [
+        -1.727002,
+        53.519821
+      ],
+      [
+        -1.729985,
+        53.519508
+      ],
+      [
+        -1.732406,
+        53.519345
+      ],
+      [
+        -1.735051,
+        53.519326
+      ],
+      [
+        -1.736875,
+        53.519414
+      ],
+      [
+        -1.739171,
+        53.519648
+      ],
+      [
+        -1.741246,
+        53.519735
+      ],
+      [
+        -1.743233,
+        53.519635
+      ],
+      [
+        -1.744464,
+        53.519498
+      ],
+      [
+        -1.747607,
+        53.519014
+      ],
+      [
+        -1.752936,
+        53.51802
+      ],
+      [
+        -1.754489,
+        53.517796
+      ],
+      [
+        -1.75557,
+        53.517759
+      ],
+      [
+        -1.756725,
+        53.517834
+      ],
+      [
+        -1.758502,
+        53.517946
+      ],
+      [
+        -1.760005,
+        53.517958
+      ],
+      [
+        -1.761695,
+        53.51802
+      ],
+      [
+        -1.762913,
+        53.518087
+      ],
+      [
+        -1.763591,
+        53.518039
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3202",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3202"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.625916,
+        53.526279
+      ],
+      [
+        -1.627585,
+        53.526642
+      ],
+      [
+        -1.630737,
+        53.526987
+      ],
+      [
+        -1.631503,
+        53.526987
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3200",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "6",
+    "ccg_surface": "asphalt",
+    "id": "way/-3200"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.576556,
+        53.502379
+      ],
+      [
+        -1.579275,
+        53.503803
+      ],
+      [
+        -1.582082,
+        53.505466
+      ],
+      [
+        -1.584801,
+        53.507128
+      ],
+      [
+        -1.587845,
+        53.508811
+      ],
+      [
+        -1.591428,
+        53.511035
+      ],
+      [
+        -1.594494,
+        53.51287
+      ],
+      [
+        -1.596901,
+        53.514248
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3198",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3198"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.672934,
+        53.520056
+      ],
+      [
+        -1.673052,
+        53.520064
+      ],
+      [
+        -1.673392,
+        53.520088
+      ],
+      [
+        -1.675254,
+        53.520356
+      ],
+      [
+        -1.676607,
+        53.520505
+      ],
+      [
+        -1.67716,
+        53.520516
+      ],
+      [
+        -1.67752,
+        53.520516
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3196",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3196"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.634988,
+        53.526766
+      ],
+      [
+        -1.635551,
+        53.526717
+      ],
+      [
+        -1.637518,
+        53.526577
+      ],
+      [
+        -1.639531,
+        53.526425
+      ],
+      [
+        -1.644984,
+        53.526016
+      ],
+      [
+        -1.646214,
+        53.525908
+      ],
+      [
+        -1.65038,
+        53.525713
+      ],
+      [
+        -1.650513,
+        53.525698
+      ],
+      [
+        -1.652283,
+        53.525486
+      ],
+      [
+        -1.652366,
+        53.525476
+      ],
+      [
+        -1.652625,
+        53.525402
+      ],
+      [
+        -1.654115,
+        53.524979
+      ],
+      [
+        -1.655619,
+        53.524424
+      ],
+      [
+        -1.656338,
+        53.524159
+      ],
+      [
+        -1.66158,
+        53.521736
+      ],
+      [
+        -1.664186,
+        53.520682
+      ],
+      [
+        -1.664217,
+        53.520669
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3194",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "6",
+    "ccg_surface": "dirt",
+    "id": "way/-3194"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.561677,
+        53.499258
+      ],
+      [
+        -1.563335,
+        53.499348
+      ],
+      [
+        -1.566367,
+        53.49962
+      ],
+      [
+        -1.569227,
+        53.500036
+      ],
+      [
+        -1.571812,
+        53.500521
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3192",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "concrete",
+    "id": "way/-3192"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.34515,
+        53.502429
+      ],
+      [
+        -1.34516,
+        53.502352
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3190",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "dirt",
+    "id": "way/-3190"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.467491,
+        53.548902
+      ],
+      [
+        -1.468023,
+        53.549709
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3188",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3188"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.690641,
+        53.519315
+      ],
+      [
+        -1.690666,
+        53.519271
+      ],
+      [
+        -1.690703,
+        53.519206
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3186",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "6",
+    "ccg_surface": "asphalt",
+    "id": "way/-3186"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.596901,
+        53.514248
+      ],
+      [
+        -1.596989,
+        53.514296
+      ],
+      [
+        -1.597868,
+        53.514771
+      ],
+      [
+        -1.598468,
+        53.515169
+      ],
+      [
+        -1.599413,
+        53.515639
+      ],
+      [
+        -1.600219,
+        53.516165
+      ],
+      [
+        -1.601361,
+        53.516777
+      ],
+      [
+        -1.601764,
+        53.51693
+      ],
+      [
+        -1.602279,
+        53.517252
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3184",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3184"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.456507,
+        53.527627
+      ],
+      [
+        -1.457663,
+        53.527708
+      ],
+      [
+        -1.462212,
+        53.527938
+      ],
+      [
+        -1.463477,
+        53.52798
+      ],
+      [
+        -1.467534,
+        53.528116
+      ],
+      [
+        -1.468306,
+        53.527938
+      ],
+      [
+        -1.470449,
+        53.528096
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3182",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "mud",
+    "id": "way/-3182"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.576453,
+        53.528538
+      ],
+      [
+        -1.577011,
+        53.527926
+      ],
+      [
+        -1.577311,
+        53.527415
+      ],
+      [
+        -1.577697,
+        53.527084
+      ],
+      [
+        -1.577912,
+        53.526803
+      ],
+      [
+        -1.578298,
+        53.526523
+      ],
+      [
+        -1.578641,
+        53.526242
+      ],
+      [
+        -1.578813,
+        53.525987
+      ],
+      [
+        -1.579371,
+        53.525681
+      ],
+      [
+        -1.5801,
+        53.525477
+      ],
+      [
+        -1.580701,
+        53.525196
+      ],
+      [
+        -1.581345,
+        53.52489
+      ],
+      [
+        -1.581688,
+        53.52466
+      ],
+      [
+        -1.582032,
+        53.524278
+      ],
+      [
+        -1.582203,
+        53.523844
+      ],
+      [
+        -1.582632,
+        53.523538
+      ],
+      [
+        -1.583061,
+        53.523232
+      ],
+      [
+        -1.583748,
+        53.523002
+      ],
+      [
+        -1.583877,
+        53.522696
+      ],
+      [
+        -1.583791,
+        53.522262
+      ],
+      [
+        -1.583748,
+        53.521854
+      ],
+      [
+        -1.583877,
+        53.521497
+      ],
+      [
+        -1.583836,
+        53.520952
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3180",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3180"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.609515,
+        53.519941
+      ],
+      [
+        -1.61106,
+        53.520334
+      ],
+      [
+        -1.61239,
+        53.520681
+      ],
+      [
+        -1.612974,
+        53.520706
+      ],
+      [
+        -1.613978,
+        53.520977
+      ],
+      [
+        -1.615068,
+        53.521303
+      ],
+      [
+        -1.615926,
+        53.521559
+      ],
+      [
+        -1.617282,
+        53.522048
+      ],
+      [
+        -1.617672,
+        53.522243
+      ],
+      [
+        -1.617879,
+        53.522346
+      ],
+      [
+        -1.618141,
+        53.522477
+      ],
+      [
+        -1.619171,
+        53.523089
+      ],
+      [
+        -1.619943,
+        53.523641
+      ],
+      [
+        -1.620673,
+        53.523987
+      ],
+      [
+        -1.621505,
+        53.524365
+      ],
+      [
+        -1.622072,
+        53.524635
+      ],
+      [
+        -1.62269,
+        53.524957
+      ],
+      [
+        -1.623119,
+        53.525263
+      ],
+      [
+        -1.623909,
+        53.525569
+      ],
+      [
+        -1.624872,
+        53.5259
+      ],
+      [
+        -1.624904,
+        53.525911
+      ],
+      [
+        -1.625298,
+        53.52609
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3178",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "dirt",
+    "id": "way/-3178"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.370545,
+        53.51564
+      ],
+      [
+        -1.373334,
+        53.515563
+      ],
+      [
+        -1.374879,
+        53.51564
+      ],
+      [
+        -1.376253,
+        53.515538
+      ],
+      [
+        -1.378184,
+        53.515028
+      ],
+      [
+        -1.378441,
+        53.514925
+      ],
+      [
+        -1.381102,
+        53.513871
+      ],
+      [
+        -1.381402,
+        53.513752
+      ],
+      [
+        -1.383805,
+        53.512527
+      ],
+      [
+        -1.389122,
+        53.509759
+      ],
+      [
+        -1.38921,
+        53.509697
+      ],
+      [
+        -1.389285,
+        53.50961
+      ],
+      [
+        -1.389402,
+        53.509389
+      ],
+      [
+        -1.389488,
+        53.509354
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3176",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "mud",
+    "id": "way/-3176"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.3897,
+        53.509268
+      ],
+      [
+        -1.389756,
+        53.509245
+      ],
+      [
+        -1.389903,
+        53.509223
+      ],
+      [
+        -1.390155,
+        53.509142
+      ],
+      [
+        -1.390454,
+        53.509052
+      ],
+      [
+        -1.390627,
+        53.509012
+      ],
+      [
+        -1.390809,
+        53.509
+      ],
+      [
+        -1.391323,
+        53.509038
+      ],
+      [
+        -1.391495,
+        53.509039
+      ],
+      [
+        -1.391586,
+        53.509024
+      ],
+      [
+        -1.39169,
+        53.508983
+      ],
+      [
+        -1.391786,
+        53.508936
+      ],
+      [
+        -1.391985,
+        53.508917
+      ],
+      [
+        -1.392047,
+        53.508902
+      ],
+      [
+        -1.392866,
+        53.508424
+      ],
+      [
+        -1.392966,
+        53.508345
+      ],
+      [
+        -1.39309,
+        53.508101
+      ],
+      [
+        -1.393272,
+        53.507839
+      ],
+      [
+        -1.393341,
+        53.507757
+      ],
+      [
+        -1.393413,
+        53.507681
+      ],
+      [
+        -1.39352,
+        53.507632
+      ],
+      [
+        -1.393616,
+        53.507603
+      ],
+      [
+        -1.393706,
+        53.507593
+      ],
+      [
+        -1.394124,
+        53.507632
+      ],
+      [
+        -1.394294,
+        53.507627
+      ],
+      [
+        -1.394454,
+        53.507613
+      ],
+      [
+        -1.39463,
+        53.507578
+      ],
+      [
+        -1.394753,
+        53.507544
+      ],
+      [
+        -1.394884,
+        53.507492
+      ],
+      [
+        -1.395008,
+        53.507423
+      ],
+      [
+        -1.395291,
+        53.507262
+      ],
+      [
+        -1.395331,
+        53.507226
+      ],
+      [
+        -1.395343,
+        53.507176
+      ],
+      [
+        -1.395466,
+        53.507098
+      ],
+      [
+        -1.395534,
+        53.507086
+      ],
+      [
+        -1.395594,
+        53.507063
+      ],
+      [
+        -1.395753,
+        53.50697
+      ],
+      [
+        -1.396204,
+        53.506783
+      ],
+      [
+        -1.396395,
+        53.506654
+      ],
+      [
+        -1.396663,
+        53.506526
+      ],
+      [
+        -1.396914,
+        53.506455
+      ],
+      [
+        -1.397317,
+        53.506382
+      ],
+      [
+        -1.398002,
+        53.506282
+      ],
+      [
+        -1.398022,
+        53.506281
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3174",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "dirt",
+    "id": "way/-3174"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.398022,
+        53.506281
+      ],
+      [
+        -1.399498,
+        53.506175
+      ],
+      [
+        -1.401978,
+        53.505953
+      ],
+      [
+        -1.402205,
+        53.50595
+      ],
+      [
+        -1.402497,
+        53.50596
+      ],
+      [
+        -1.402867,
+        53.505905
+      ],
+      [
+        -1.403099,
+        53.505884
+      ],
+      [
+        -1.40333,
+        53.505836
+      ],
+      [
+        -1.40361,
+        53.505796
+      ],
+      [
+        -1.404594,
+        53.505616
+      ],
+      [
+        -1.405738,
+        53.505433
+      ],
+      [
+        -1.405791,
+        53.505406
+      ],
+      [
+        -1.405872,
+        53.505365
+      ],
+      [
+        -1.406776,
+        53.505211
+      ],
+      [
+        -1.406978,
+        53.505173
+      ],
+      [
+        -1.40714,
+        53.505122
+      ],
+      [
+        -1.407216,
+        53.505092
+      ],
+      [
+        -1.407783,
+        53.504821
+      ],
+      [
+        -1.409136,
+        53.504146
+      ],
+      [
+        -1.409824,
+        53.503837
+      ],
+      [
+        -1.410206,
+        53.50354
+      ],
+      [
+        -1.410243,
+        53.503508
+      ],
+      [
+        -1.410265,
+        53.503481
+      ],
+      [
+        -1.410273,
+        53.503452
+      ],
+      [
+        -1.410287,
+        53.50333
+      ],
+      [
+        -1.410317,
+        53.503257
+      ],
+      [
+        -1.41072,
+        53.502674
+      ],
+      [
+        -1.410947,
+        53.502323
+      ],
+      [
+        -1.410979,
+        53.50223
+      ],
+      [
+        -1.411027,
+        53.501903
+      ],
+      [
+        -1.411246,
+        53.501545
+      ],
+      [
+        -1.411458,
+        53.501118
+      ],
+      [
+        -1.411805,
+        53.500698
+      ],
+      [
+        -1.412108,
+        53.500302
+      ],
+      [
+        -1.412168,
+        53.50024
+      ],
+      [
+        -1.412327,
+        53.500122
+      ],
+      [
+        -1.412463,
+        53.500032
+      ],
+      [
+        -1.413017,
+        53.499761
+      ],
+      [
+        -1.414044,
+        53.499064
+      ],
+      [
+        -1.415039,
+        53.49839
+      ],
+      [
+        -1.41539,
+        53.498049
+      ],
+      [
+        -1.415561,
+        53.497937
+      ],
+      [
+        -1.415782,
+        53.497778
+      ],
+      [
+        -1.416084,
+        53.497502
+      ],
+      [
+        -1.416491,
+        53.497104
+      ],
+      [
+        -1.416528,
+        53.497042
+      ],
+      [
+        -1.416546,
+        53.496991
+      ],
+      [
+        -1.416559,
+        53.496875
+      ],
+      [
+        -1.416578,
+        53.49683
+      ],
+      [
+        -1.416633,
+        53.49674
+      ],
+      [
+        -1.416663,
+        53.496705
+      ],
+      [
+        -1.417478,
+        53.495977
+      ],
+      [
+        -1.418779,
+        53.494923
+      ],
+      [
+        -1.418881,
+        53.494825
+      ],
+      [
+        -1.418973,
+        53.494729
+      ],
+      [
+        -1.419015,
+        53.494668
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3172",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3172"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.624904,
+        53.525911
+      ],
+      [
+        -1.624955,
+        53.525819
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3170",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "concrete",
+    "id": "way/-3170"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.78903,
+        53.501368
+      ],
+      [
+        -1.789018,
+        53.501038
+      ],
+      [
+        -1.788949,
+        53.499806
+      ],
+      [
+        -1.788951,
+        53.498895
+      ],
+      [
+        -1.789106,
+        53.498307
+      ],
+      [
+        -1.78917,
+        53.498112
+      ],
+      [
+        -1.789293,
+        53.497731
+      ],
+      [
+        -1.789372,
+        53.497351
+      ],
+      [
+        -1.789478,
+        53.497274
+      ],
+      [
+        -1.790715,
+        53.496868
+      ],
+      [
+        -1.792115,
+        53.496452
+      ],
+      [
+        -1.792507,
+        53.496354
+      ],
+      [
+        -1.79272,
+        53.496326
+      ],
+      [
+        -1.793496,
+        53.496173
+      ],
+      [
+        -1.793784,
+        53.496136
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3168",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "concrete",
+    "id": "way/-3168"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.481246,
+        53.552771
+      ],
+      [
+        -1.481493,
+        53.552624
+      ],
+      [
+        -1.482281,
+        53.552508
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3166",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "concrete",
+    "id": "way/-3166"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.593194,
+        53.522967
+      ],
+      [
+        -1.594872,
+        53.522558
+      ],
+      [
+        -1.59483,
+        53.522354
+      ],
+      [
+        -1.595344,
+        53.522191
+      ],
+      [
+        -1.595319,
+        53.521614
+      ],
+      [
+        -1.597945,
+        53.519813
+      ],
+      [
+        -1.598606,
+        53.520068
+      ],
+      [
+        -1.59846,
+        53.519777
+      ],
+      [
+        -1.598632,
+        53.519496
+      ],
+      [
+        -1.598091,
+        53.518639
+      ],
+      [
+        -1.598048,
+        53.518057
+      ],
+      [
+        -1.598177,
+        53.517465
+      ],
+      [
+        -1.5985,
+        53.516886
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3164",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3164"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.55448,
+        53.532045
+      ],
+      [
+        -1.555591,
+        53.532041
+      ],
+      [
+        -1.556909,
+        53.532038
+      ],
+      [
+        -1.558428,
+        53.532247
+      ],
+      [
+        -1.560892,
+        53.532563
+      ],
+      [
+        -1.562703,
+        53.532629
+      ],
+      [
+        -1.563973,
+        53.532466
+      ],
+      [
+        -1.56429,
+        53.532395
+      ],
+      [
+        -1.565467,
+        53.53213
+      ],
+      [
+        -1.5666,
+        53.531711
+      ],
+      [
+        -1.567072,
+        53.531227
+      ],
+      [
+        -1.568093,
+        53.53066
+      ],
+      [
+        -1.568899,
+        53.530196
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3162",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3162"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.470449,
+        53.528096
+      ],
+      [
+        -1.471139,
+        53.527963
+      ],
+      [
+        -1.47337,
+        53.528014
+      ],
+      [
+        -1.475473,
+        53.527759
+      ],
+      [
+        -1.479678,
+        53.528167
+      ],
+      [
+        -1.48211,
+        53.528696
+      ],
+      [
+        -1.483669,
+        53.529035
+      ],
+      [
+        -1.487618,
+        53.529927
+      ],
+      [
+        -1.491094,
+        53.530693
+      ],
+      [
+        -1.49433,
+        53.531571
+      ],
+      [
+        -1.49457,
+        53.531636
+      ],
+      [
+        -1.49663,
+        53.532657
+      ],
+      [
+        -1.498862,
+        53.534136
+      ],
+      [
+        -1.49982,
+        53.534553
+      ],
+      [
+        -1.501608,
+        53.535182
+      ],
+      [
+        -1.503699,
+        53.535571
+      ],
+      [
+        -1.504101,
+        53.535611
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3160",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3160"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.306819,
+        53.487786
+      ],
+      [
+        -1.307775,
+        53.487723
+      ],
+      [
+        -1.30784,
+        53.487963
+      ],
+      [
+        -1.306868,
+        53.488811
+      ],
+      [
+        -1.306766,
+        53.488945
+      ],
+      [
+        -1.306708,
+        53.489121
+      ],
+      [
+        -1.306642,
+        53.489404
+      ],
+      [
+        -1.306633,
+        53.489444
+      ],
+      [
+        -1.306499,
+        53.489444
+      ],
+      [
+        -1.306515,
+        53.489696
+      ],
+      [
+        -1.306642,
+        53.489953
+      ],
+      [
+        -1.306692,
+        53.49013
+      ],
+      [
+        -1.306687,
+        53.490203
+      ],
+      [
+        -1.306729,
+        53.491084
+      ],
+      [
+        -1.306788,
+        53.49146
+      ],
+      [
+        -1.306959,
+        53.491938
+      ],
+      [
+        -1.307121,
+        53.492188
+      ],
+      [
+        -1.30757,
+        53.492909
+      ],
+      [
+        -1.307989,
+        53.493499
+      ],
+      [
+        -1.308283,
+        53.493755
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3158",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3158"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.678181,
+        53.520511
+      ],
+      [
+        -1.678769,
+        53.520505
+      ],
+      [
+        -1.680422,
+        53.520306
+      ],
+      [
+        -1.682794,
+        53.519821
+      ],
+      [
+        -1.685316,
+        53.519374
+      ],
+      [
+        -1.686651,
+        53.519159
+      ],
+      [
+        -1.688151,
+        53.51913
+      ],
+      [
+        -1.689524,
+        53.519167
+      ],
+      [
+        -1.690666,
+        53.519271
+      ],
+      [
+        -1.690797,
+        53.519283
+      ],
+      [
+        -1.692307,
+        53.519567
+      ],
+      [
+        -1.693139,
+        53.519769
+      ],
+      [
+        -1.694733,
+        53.520343
+      ],
+      [
+        -1.696093,
+        53.520985
+      ],
+      [
+        -1.6981,
+        53.521833
+      ],
+      [
+        -1.699362,
+        53.522221
+      ],
+      [
+        -1.70054,
+        53.522495
+      ],
+      [
+        -1.702535,
+        53.522787
+      ],
+      [
+        -1.704539,
+        53.522806
+      ],
+      [
+        -1.706237,
+        53.522679
+      ],
+      [
+        -1.707535,
+        53.522492
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3156",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3156"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.617879,
+        53.522346
+      ],
+      [
+        -1.617952,
+        53.522277
+      ],
+      [
+        -1.618048,
+        53.522175
+      ],
+      [
+        -1.618113,
+        53.522092
+      ],
+      [
+        -1.618102,
+        53.521996
+      ],
+      [
+        -1.618016,
+        53.521818
+      ],
+      [
+        -1.617906,
+        53.521629
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3154",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3154"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.370545,
+        53.51564
+      ],
+      [
+        -1.370806,
+        53.515722
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3152",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3152"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.370806,
+        53.515722
+      ],
+      [
+        -1.371078,
+        53.515799
+      ],
+      [
+        -1.371369,
+        53.51588
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3150",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3150"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.412161,
+        53.513397
+      ],
+      [
+        -1.412263,
+        53.513572
+      ],
+      [
+        -1.412376,
+        53.513786
+      ],
+      [
+        -1.412451,
+        53.513922
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3148",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3148"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.322613,
+        53.504185
+      ],
+      [
+        -1.322968,
+        53.504469
+      ],
+      [
+        -1.324065,
+        53.504895
+      ],
+      [
+        -1.326023,
+        53.505565
+      ],
+      [
+        -1.326838,
+        53.505817
+      ],
+      [
+        -1.327278,
+        53.505838
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3146",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3146"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.322385,
+        53.504097
+      ],
+      [
+        -1.321999,
+        53.504051
+      ],
+      [
+        -1.321227,
+        53.503727
+      ],
+      [
+        -1.320141,
+        53.503253
+      ],
+      [
+        -1.319749,
+        53.503076
+      ],
+      [
+        -1.31856,
+        53.502489
+      ],
+      [
+        -1.317906,
+        53.502164
+      ],
+      [
+        -1.317777,
+        53.502058
+      ],
+      [
+        -1.317711,
+        53.501971
+      ],
+      [
+        -1.317657,
+        53.501776
+      ],
+      [
+        -1.317673,
+        53.501607
+      ],
+      [
+        -1.317767,
+        53.501522
+      ],
+      [
+        -1.317957,
+        53.50146
+      ],
+      [
+        -1.31822,
+        53.501442
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3144",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "dirt",
+    "id": "way/-3144"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.310453,
+        53.495188
+      ],
+      [
+        -1.310002,
+        53.49531
+      ],
+      [
+        -1.309927,
+        53.49538
+      ],
+      [
+        -1.30997,
+        53.495469
+      ],
+      [
+        -1.310238,
+        53.495699
+      ],
+      [
+        -1.31041,
+        53.495724
+      ],
+      [
+        -1.310667,
+        53.49575
+      ],
+      [
+        -1.310785,
+        53.495769
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3142",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bridge": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_layer": "1",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3142"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.625298,
+        53.52609
+      ],
+      [
+        -1.625607,
+        53.526184
+      ],
+      [
+        -1.625916,
+        53.526279
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3140",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bridge": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_layer": "1",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3140"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.67752,
+        53.520516
+      ],
+      [
+        -1.677834,
+        53.520513
+      ],
+      [
+        -1.678181,
+        53.520511
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3138",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bridge": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_layer": "1",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3138"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.631503,
+        53.526987
+      ],
+      [
+        -1.6318,
+        53.526987
+      ],
+      [
+        -1.632355,
+        53.526987
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3136",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bridge": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_layer": "1",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3136"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.438698,
+        53.54582
+      ],
+      [
+        -1.438916,
+        53.54592
+      ],
+      [
+        -1.438973,
+        53.545945
+      ],
+      [
+        -1.439131,
+        53.546017
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3134",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bridge": "yes",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_layer": "1",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3134"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.43753,
+        53.545207
+      ],
+      [
+        -1.437656,
+        53.545278
+      ],
+      [
+        -1.43778,
+        53.545348
+      ],
+      [
+        -1.437852,
+        53.545388
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3132",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120125",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3132"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.536852,
+        53.586388
+      ],
+      [
+        -1.537579,
+        53.586425
+      ],
+      [
+        -1.538299,
+        53.586482
+      ],
+      [
+        -1.53869,
+        53.586551
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3130",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120125",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-3130"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.533129,
+        53.584846
+      ],
+      [
+        -1.533753,
+        53.585168
+      ],
+      [
+        -1.534288,
+        53.585481
+      ],
+      [
+        -1.535138,
+        53.585945
+      ],
+      [
+        -1.535762,
+        53.586197
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3128",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120125",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3128"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.539897,
+        53.586832
+      ],
+      [
+        -1.540789,
+        53.587288
+      ],
+      [
+        -1.542243,
+        53.587956
+      ],
+      [
+        -1.543525,
+        53.588343
+      ],
+      [
+        -1.544945,
+        53.588526
+      ],
+      [
+        -1.545411,
+        53.588518
+      ],
+      [
+        -1.546558,
+        53.58854
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3126",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "dirt",
+    "id": "way/-3126"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.310453,
+        53.495188
+      ],
+      [
+        -1.310548,
+        53.495165
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3124",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "dirt",
+    "id": "way/-3124"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.310785,
+        53.495769
+      ],
+      [
+        -1.310914,
+        53.496018
+      ],
+      [
+        -1.311279,
+        53.496503
+      ],
+      [
+        -1.311397,
+        53.496509
+      ],
+      [
+        -1.311786,
+        53.496461
+      ],
+      [
+        -1.31232,
+        53.496522
+      ],
+      [
+        -1.313175,
+        53.496691
+      ],
+      [
+        -1.313811,
+        53.49688
+      ],
+      [
+        -1.314251,
+        53.497033
+      ],
+      [
+        -1.314637,
+        53.497224
+      ],
+      [
+        -1.315066,
+        53.497556
+      ],
+      [
+        -1.314884,
+        53.497958
+      ],
+      [
+        -1.315013,
+        53.498299
+      ],
+      [
+        -1.315109,
+        53.498552
+      ],
+      [
+        -1.315302,
+        53.498865
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3122",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "dirt",
+    "id": "way/-3122"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.504101,
+        53.535611
+      ],
+      [
+        -1.504427,
+        53.535628
+      ],
+      [
+        -1.504823,
+        53.535648
+      ],
+      [
+        -1.505217,
+        53.535669
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3120",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "no",
+    "ccg_surface": "ground",
+    "id": "way/-3120"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.41327,
+        53.565931
+      ],
+      [
+        -1.413384,
+        53.565817
+      ],
+      [
+        -1.413454,
+        53.565672
+      ],
+      [
+        -1.413831,
+        53.565465
+      ],
+      [
+        -1.414443,
+        53.565132
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3118",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Bower Hill",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3118"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.589415,
+        53.516614
+      ],
+      [
+        -1.589651,
+        53.516295
+      ],
+      [
+        -1.590337,
+        53.5153
+      ],
+      [
+        -1.59058,
+        53.514946
+      ],
+      [
+        -1.59076,
+        53.514686
+      ],
+      [
+        -1.591367,
+        53.514228
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3116",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "secondary",
+    "ccg_lit": "yes",
+    "ccg_name": "Coates Lane",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_ref": "B6449",
+    "ccg_surface": "asphalt",
+    "id": "way/-3116"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.583836,
+        53.520952
+      ],
+      [
+        -1.585145,
+        53.520332
+      ],
+      [
+        -1.585552,
+        53.519905
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3114",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Roughbirchworth Lane",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3114"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.591367,
+        53.514228
+      ],
+      [
+        -1.591539,
+        53.514394
+      ],
+      [
+        -1.594049,
+        53.514611
+      ],
+      [
+        -1.594522,
+        53.514649
+      ],
+      [
+        -1.594951,
+        53.514662
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3112",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3112"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.345976,
+        53.502352
+      ],
+      [
+        -1.346201,
+        53.501484
+      ],
+      [
+        -1.346599,
+        53.499995
+      ],
+      [
+        -1.346692,
+        53.497731
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3110",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3110"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.345976,
+        53.502352
+      ],
+      [
+        -1.34618,
+        53.502391
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3108",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-3108"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.380326,
+        53.51314
+      ],
+      [
+        -1.381102,
+        53.513871
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3106",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-3106"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.379593,
+        53.512405
+      ],
+      [
+        -1.380326,
+        53.51314
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3104",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Fish Dam Lane",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3104"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.442166,
+        53.573037
+      ],
+      [
+        -1.442258,
+        53.571541
+      ],
+      [
+        -1.442523,
+        53.570922
+      ],
+      [
+        -1.442665,
+        53.570713
+      ],
+      [
+        -1.442795,
+        53.570522
+      ],
+      [
+        -1.443851,
+        53.569783
+      ],
+      [
+        -1.445304,
+        53.568765
+      ],
+      [
+        -1.445733,
+        53.568574
+      ],
+      [
+        -1.446111,
+        53.568438
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3102",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3102"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.303429,
+        53.517153
+      ],
+      [
+        -1.307034,
+        53.517586
+      ],
+      [
+        -1.307226,
+        53.517609
+      ],
+      [
+        -1.309759,
+        53.517919
+      ],
+      [
+        -1.310856,
+        53.5181
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3100",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "trunk",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Pontefract Road",
+    "ccg_ref": "A628",
+    "ccg_surface": "asphalt",
+    "id": "way/-3100"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.469187,
+        53.549835
+      ],
+      [
+        -1.470089,
+        53.549933
+      ],
+      [
+        -1.47098,
+        53.550057
+      ],
+      [
+        -1.472405,
+        53.550256
+      ],
+      [
+        -1.473112,
+        53.550355
+      ],
+      [
+        -1.473307,
+        53.55041
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3098",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "primary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Pontefract Road",
+    "ccg_ref": "A628",
+    "ccg_surface": "asphalt",
+    "id": "way/-3098"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.473307,
+        53.55041
+      ],
+      [
+        -1.474014,
+        53.55061
+      ],
+      [
+        -1.474294,
+        53.550897
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3096",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "trunk",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Pontefract Road",
+    "ccg_ref": "A628",
+    "ccg_surface": "asphalt",
+    "id": "way/-3096"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.474294,
+        53.550897
+      ],
+      [
+        -1.474455,
+        53.551318
+      ],
+      [
+        -1.474464,
+        53.551443
+      ],
+      [
+        -1.47448,
+        53.551659
+      ],
+      [
+        -1.474508,
+        53.552051
+      ],
+      [
+        -1.474862,
+        53.552478
+      ],
+      [
+        -1.47512,
+        53.552593
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3094",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Windle Edge",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3094"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.78903,
+        53.501368
+      ],
+      [
+        -1.789081,
+        53.501882
+      ],
+      [
+        -1.789096,
+        53.502215
+      ],
+      [
+        -1.789095,
+        53.502435
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3092",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Windle Edge",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3092"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.770286,
+        53.513524
+      ],
+      [
+        -1.773438,
+        53.512059
+      ],
+      [
+        -1.774986,
+        53.51138
+      ],
+      [
+        -1.775394,
+        53.511188
+      ],
+      [
+        -1.776231,
+        53.510737
+      ],
+      [
+        -1.777645,
+        53.509836
+      ],
+      [
+        -1.777921,
+        53.509693
+      ],
+      [
+        -1.778972,
+        53.509149
+      ],
+      [
+        -1.781611,
+        53.507819
+      ],
+      [
+        -1.781853,
+        53.507669
+      ],
+      [
+        -1.784197,
+        53.506264
+      ],
+      [
+        -1.785865,
+        53.505379
+      ],
+      [
+        -1.78749,
+        53.5046
+      ],
+      [
+        -1.787952,
+        53.504339
+      ],
+      [
+        -1.78823,
+        53.50407
+      ],
+      [
+        -1.788898,
+        53.503081
+      ],
+      [
+        -1.789098,
+        53.502741
+      ],
+      [
+        -1.789095,
+        53.502435
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3090",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Pogmoor Road",
+    "ccg_surface": "asphalt",
+    "id": "way/-3090"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.509021,
+        53.551835
+      ],
+      [
+        -1.509076,
+        53.551893
+      ],
+      [
+        -1.509471,
+        53.552362
+      ],
+      [
+        -1.509849,
+        53.553005
+      ],
+      [
+        -1.509955,
+        53.553547
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3088",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Shaw Lane",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3088"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.434348,
+        53.586881
+      ],
+      [
+        -1.435807,
+        53.586805
+      ],
+      [
+        -1.439587,
+        53.586201
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3086",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Burton Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3086"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.435343,
+        53.57153
+      ],
+      [
+        -1.436765,
+        53.571032
+      ],
+      [
+        -1.437645,
+        53.570637
+      ],
+      [
+        -1.439166,
+        53.57015
+      ],
+      [
+        -1.439981,
+        53.57001
+      ],
+      [
+        -1.440507,
+        53.569832
+      ],
+      [
+        -1.441701,
+        53.569429
+      ],
+      [
+        -1.442752,
+        53.569074
+      ],
+      [
+        -1.443147,
+        53.568953
+      ],
+      [
+        -1.445391,
+        53.568267
+      ],
+      [
+        -1.446,
+        53.568198
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3084",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Windle Edge",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3084"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.769021,
+        53.514144
+      ],
+      [
+        -1.769462,
+        53.513972
+      ],
+      [
+        -1.770286,
+        53.513524
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3082",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Linshaws Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "68",
+    "ccg_surface": "asphalt",
+    "id": "way/-3082"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.784951,
+        53.534782
+      ],
+      [
+        -1.785315,
+        53.534762
+      ],
+      [
+        -1.785648,
+        53.534784
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3080",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Bare Bones Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "68",
+    "ccg_surface": "asphalt",
+    "id": "way/-3080"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.775989,
+        53.535285
+      ],
+      [
+        -1.776654,
+        53.535437
+      ],
+      [
+        -1.776962,
+        53.53547
+      ],
+      [
+        -1.777238,
+        53.535469
+      ],
+      [
+        -1.782955,
+        53.53496
+      ],
+      [
+        -1.784951,
+        53.534782
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3078",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lit": "yes",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3078"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.599738,
+        53.517841
+      ],
+      [
+        -1.600187,
+        53.517606
+      ],
+      [
+        -1.600386,
+        53.517512
+      ],
+      [
+        -1.600651,
+        53.517386
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3076",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "primary",
+    "ccg_lit": "yes",
+    "ccg_name": "Jockey Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_ref": "A629",
+    "ccg_surface": "asphalt",
+    "id": "way/-3076"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.585552,
+        53.519905
+      ],
+      [
+        -1.588358,
+        53.521196
+      ],
+      [
+        -1.590379,
+        53.522044
+      ],
+      [
+        -1.591587,
+        53.522508
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3074",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "secondary",
+    "ccg_lit": "yes",
+    "ccg_name": "Sheffield Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_ref": "B6462",
+    "ccg_surface": "asphalt",
+    "id": "way/-3074"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.5985,
+        53.516886
+      ],
+      [
+        -1.598666,
+        53.517064
+      ],
+      [
+        -1.599738,
+        53.517841
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3072",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "secondary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Hill Street",
+    "ccg_ref": "B6097",
+    "ccg_surface": "asphalt",
+    "id": "way/-3072"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.424909,
+        53.497571
+      ],
+      [
+        -1.425033,
+        53.497856
+      ],
+      [
+        -1.425406,
+        53.498347
+      ],
+      [
+        -1.425527,
+        53.498507
+      ],
+      [
+        -1.426582,
+        53.499019
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3070",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "secondary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Fitzwilliam Street",
+    "ccg_ref": "B6097",
+    "ccg_surface": "asphalt",
+    "id": "way/-3070"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.424393,
+        53.495739
+      ],
+      [
+        -1.424589,
+        53.496099
+      ],
+      [
+        -1.424672,
+        53.496413
+      ],
+      [
+        -1.424678,
+        53.497031
+      ],
+      [
+        -1.424721,
+        53.497213
+      ],
+      [
+        -1.424799,
+        53.497442
+      ],
+      [
+        -1.424909,
+        53.497571
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3068",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Wath Road",
+    "ccg_surface": "asphalt",
+    "id": "way/-3068"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.318814,
+        53.517588
+      ],
+      [
+        -1.319161,
+        53.517566
+      ],
+      [
+        -1.32053,
+        53.51729
+      ],
+      [
+        -1.32171,
+        53.517175
+      ],
+      [
+        -1.322869,
+        53.517201
+      ],
+      [
+        -1.322983,
+        53.517208
+      ],
+      [
+        -1.324071,
+        53.517274
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3066",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "secondary",
+    "ccg_lit": "yes",
+    "ccg_name": "Sheffield Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_ref": "B6462",
+    "ccg_surface": "asphalt",
+    "id": "way/-3066"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.594951,
+        53.514662
+      ],
+      [
+        -1.595782,
+        53.515002
+      ],
+      [
+        -1.59603,
+        53.515068
+      ],
+      [
+        -1.59688,
+        53.515354
+      ],
+      [
+        -1.597438,
+        53.515609
+      ],
+      [
+        -1.597653,
+        53.515747
+      ],
+      [
+        -1.597842,
+        53.515931
+      ],
+      [
+        -1.598142,
+        53.516344
+      ],
+      [
+        -1.598399,
+        53.516778
+      ],
+      [
+        -1.5985,
+        53.516886
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3064",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-3064"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.379036,
+        53.511826
+      ],
+      [
+        -1.379422,
+        53.512235
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3062",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "secondary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Angel Street",
+    "ccg_ref": "B6098",
+    "ccg_surface": "asphalt",
+    "id": "way/-3062"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.313298,
+        53.518389
+      ],
+      [
+        -1.31336,
+        53.517674
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3060",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "trunk",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Pontefract Road",
+    "ccg_ref": "A628",
+    "ccg_surface": "asphalt",
+    "id": "way/-3060"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.47512,
+        53.552593
+      ],
+      [
+        -1.475362,
+        53.552757
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3058",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Kendray Street",
+    "ccg_surface": "asphalt",
+    "id": "way/-3058"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.475362,
+        53.552757
+      ],
+      [
+        -1.475491,
+        53.552845
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3056",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Kendray Street",
+    "ccg_surface": "asphalt",
+    "id": "way/-3056"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.475491,
+        53.552845
+      ],
+      [
+        -1.475785,
+        53.553045
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3054",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "trunk",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Pontefract Road",
+    "ccg_ref": "A628",
+    "ccg_surface": "asphalt",
+    "id": "way/-3054"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.47512,
+        53.552593
+      ],
+      [
+        -1.475362,
+        53.552757
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3052",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Kendray Street",
+    "ccg_surface": "asphalt",
+    "id": "way/-3052"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.475785,
+        53.553045
+      ],
+      [
+        -1.475955,
+        53.553136
+      ],
+      [
+        -1.476588,
+        53.553168
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3050",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3050"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.504477,
+        53.547906
+      ],
+      [
+        -1.504938,
+        53.547658
+      ],
+      [
+        -1.505925,
+        53.547428
+      ],
+      [
+        -1.50644,
+        53.547492
+      ],
+      [
+        -1.50723,
+        53.547976
+      ],
+      [
+        -1.507996,
+        53.548445
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3048",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lit": "yes",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3048"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.424942,
+        53.560263
+      ],
+      [
+        -1.425435,
+        53.560314
+      ],
+      [
+        -1.426272,
+        53.560263
+      ],
+      [
+        -1.426938,
+        53.560161
+      ],
+      [
+        -1.427495,
+        53.560085
+      ],
+      [
+        -1.428998,
+        53.559856
+      ],
+      [
+        -1.431637,
+        53.559282
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3046",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "unclassified",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "62",
+    "ccg_surface": "asphalt",
+    "id": "way/-3046"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.308708,
+        53.512266
+      ],
+      [
+        -1.309504,
+        53.512349
+      ],
+      [
+        -1.310815,
+        53.512188
+      ],
+      [
+        -1.311089,
+        53.51211
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3044",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Dearne Road",
+    "ccg_surface": "asphalt",
+    "id": "way/-3044"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.324065,
+        53.516654
+      ],
+      [
+        -1.324071,
+        53.517274
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3042",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Dearne Road",
+    "ccg_surface": "asphalt",
+    "ccg_traffic_calming": "cushion",
+    "id": "way/-3042"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.324071,
+        53.515134
+      ],
+      [
+        -1.324038,
+        53.515659
+      ],
+      [
+        -1.324059,
+        53.516129
+      ],
+      [
+        -1.324065,
+        53.516654
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3040",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "High Street",
+    "ccg_surface": "asphalt",
+    "id": "way/-3040"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.31336,
+        53.517674
+      ],
+      [
+        -1.314951,
+        53.517698
+      ],
+      [
+        -1.315637,
+        53.517663
+      ],
+      [
+        -1.315938,
+        53.517647
+      ],
+      [
+        -1.317804,
+        53.517611
+      ],
+      [
+        -1.318814,
+        53.517588
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3038",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3038"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.310856,
+        53.5181
+      ],
+      [
+        -1.311452,
+        53.518199
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3036",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3036"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.311452,
+        53.518199
+      ],
+      [
+        -1.312139,
+        53.518313
+      ],
+      [
+        -1.312654,
+        53.518402
+      ],
+      [
+        -1.313127,
+        53.518438
+      ],
+      [
+        -1.313298,
+        53.518389
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3034",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "trunk",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Broadway",
+    "ccg_ref": "A6133",
+    "ccg_surface": "asphalt",
+    "id": "way/-3034"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.501325,
+        53.546102
+      ],
+      [
+        -1.504477,
+        53.547906
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3032",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3032"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.508686,
+        53.548093
+      ],
+      [
+        -1.509799,
+        53.548789
+      ],
+      [
+        -1.511011,
+        53.549803
+      ],
+      [
+        -1.511183,
+        53.550077
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3030",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3030"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.511183,
+        53.550077
+      ],
+      [
+        -1.511387,
+        53.5503
+      ],
+      [
+        -1.511742,
+        53.550549
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3028",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3028"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.507996,
+        53.548445
+      ],
+      [
+        -1.508686,
+        53.548093
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3026",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-3026"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.509021,
+        53.551835
+      ],
+      [
+        -1.509648,
+        53.551664
+      ],
+      [
+        -1.510033,
+        53.551459
+      ],
+      [
+        -1.510633,
+        53.551139
+      ],
+      [
+        -1.511742,
+        53.550549
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3024",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Burton Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3024"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.446111,
+        53.568438
+      ],
+      [
+        -1.446028,
+        53.568376
+      ],
+      [
+        -1.445986,
+        53.5683
+      ],
+      [
+        -1.446,
+        53.568198
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3022",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "residential",
+    "ccg_lit": "yes",
+    "ccg_ncn": "yes",
+    "ccg_ncn_name": "Trans Pennine Trail",
+    "ccg_ncn_ref": "67",
+    "ccg_surface": "asphalt",
+    "id": "way/-3022"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.443147,
+        53.568953
+      ],
+      [
+        -1.443585,
+        53.569469
+      ],
+      [
+        -1.443851,
+        53.569783
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3020",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Bare Bones Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "68",
+    "ccg_surface": "asphalt",
+    "id": "way/-3020"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.775868,
+        53.535215
+      ],
+      [
+        -1.775989,
+        53.535285
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3018",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Dunford Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "68",
+    "ccg_surface": "asphalt",
+    "id": "way/-3018"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.766663,
+        53.526294
+      ],
+      [
+        -1.766889,
+        53.526621
+      ],
+      [
+        -1.767361,
+        53.52719
+      ],
+      [
+        -1.768053,
+        53.527743
+      ],
+      [
+        -1.768694,
+        53.528169
+      ],
+      [
+        -1.769006,
+        53.528459
+      ],
+      [
+        -1.769131,
+        53.528604
+      ],
+      [
+        -1.769394,
+        53.52907
+      ],
+      [
+        -1.769511,
+        53.52922
+      ],
+      [
+        -1.769563,
+        53.529277
+      ],
+      [
+        -1.769646,
+        53.52937
+      ],
+      [
+        -1.770193,
+        53.52982
+      ],
+      [
+        -1.77087,
+        53.530281
+      ],
+      [
+        -1.771223,
+        53.530473
+      ],
+      [
+        -1.771852,
+        53.530797
+      ],
+      [
+        -1.772711,
+        53.531172
+      ],
+      [
+        -1.773145,
+        53.531396
+      ],
+      [
+        -1.773415,
+        53.531558
+      ],
+      [
+        -1.773719,
+        53.531784
+      ],
+      [
+        -1.77408,
+        53.532111
+      ],
+      [
+        -1.774309,
+        53.532361
+      ],
+      [
+        -1.7745,
+        53.532636
+      ],
+      [
+        -1.775023,
+        53.533888
+      ],
+      [
+        -1.775237,
+        53.534346
+      ],
+      [
+        -1.775355,
+        53.534543
+      ],
+      [
+        -1.77578,
+        53.53513
+      ],
+      [
+        -1.775868,
+        53.535215
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-3016",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_date": "20120124",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "yes",
+    "ccg_name": "Linshaws Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "68",
+    "ccg_surface": "asphalt",
+    "id": "way/-3016"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -1.785648,
+        53.534784
+      ],
+      [
+        -1.786747,
+        53.534981
+      ],
+      [
+        -1.787262,
+        53.535091
+      ],
+      [
+        -1.788092,
+        53.535354
+      ],
+      [
+        -1.788556,
+        53.535478
+      ],
+      [
+        -1.788949,
+        53.535497
+      ],
+      [
+        -1.789942,
+        53.535475
+      ],
+      [
+        -1.790988,
+        53.535354
+      ],
+      [
+        -1.791512,
+        53.535334
+      ],
+      [
+        -1.791731,
+        53.535291
+      ],
+      [
+        -1.791957,
+        53.535195
+      ],
+      [
+        -1.792372,
+        53.534947
+      ],
+      [
+        -1.793742,
+        53.534395
+      ],
+      [
+        -1.794216,
+        53.534243
+      ],
+      [
+        -1.794391,
+        53.534203
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-2968",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-2968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.446197,
+      53.527324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-2744",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_crossing": "pelican",
+    "ccg_highway": "crossing",
+    "id": "node/-2744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.511183,
+      53.550077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-2504",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-2504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.576453,
+      53.528538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1968",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.389402,
+      53.509389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1900",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1900"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.417478,
+      53.495977
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1864",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1864"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.389903,
+      53.509223
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1830",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.414572,
+      53.56502
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1544",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1544"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.327072,
+      53.512359
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1332",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.501608,
+      53.535182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1306",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.442665,
+      53.590712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1146",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-1146"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2864,
+      53.514819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-826",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.367984,
+      53.522989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-824",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-824"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.43973,
+      53.586231
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-602",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_crossing": "zebra",
+    "ccg_highway": "crossing",
+    "id": "node/-602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.301963,
+      53.446118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-548",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-548"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.368143,
+      53.523066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-290",
+  "properties": {
+    "timestamp": "2012-01-26T13:16:00Z",
+    "version": "1",
+    "ccg_barrier": "gate",
+    "id": "node/-290"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.378795,
+      53.52722
+    ]
+  }
+}
+]
+}

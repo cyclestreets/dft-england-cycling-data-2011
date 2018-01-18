@@ -1,0 +1,9763 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/-2840",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2840"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.630494,
+        53.568602
+      ],
+      [
+        -0.630366,
+        53.568433
+      ],
+      [
+        -0.630297,
+        53.568307
+      ],
+      [
+        -0.630352,
+        53.568163
+      ],
+      [
+        -0.630345,
+        53.568034
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2838",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2838"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.625475,
+        53.559346
+      ],
+      [
+        -0.625839,
+        53.559283
+      ],
+      [
+        -0.626332,
+        53.559181
+      ],
+      [
+        -0.626689,
+        53.559038
+      ],
+      [
+        -0.627029,
+        53.558756
+      ],
+      [
+        -0.627142,
+        53.558533
+      ],
+      [
+        -0.627464,
+        53.558164
+      ],
+      [
+        -0.627488,
+        53.558038
+      ],
+      [
+        -0.627556,
+        53.557979
+      ],
+      [
+        -0.627628,
+        53.557938
+      ],
+      [
+        -0.627724,
+        53.557926
+      ],
+      [
+        -0.628053,
+        53.557763
+      ],
+      [
+        -0.628557,
+        53.557541
+      ],
+      [
+        -0.629023,
+        53.557455
+      ],
+      [
+        -0.629393,
+        53.557435
+      ],
+      [
+        -0.629678,
+        53.557471
+      ],
+      [
+        -0.630014,
+        53.557522
+      ],
+      [
+        -0.630418,
+        53.557612
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2836",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2836"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.617008,
+        53.560241
+      ],
+      [
+        -0.617011,
+        53.560339
+      ],
+      [
+        -0.617169,
+        53.560443
+      ],
+      [
+        -0.617265,
+        53.560447
+      ],
+      [
+        -0.617385,
+        53.560457
+      ],
+      [
+        -0.617543,
+        53.560439
+      ],
+      [
+        -0.617666,
+        53.560373
+      ],
+      [
+        -0.617673,
+        53.560257
+      ],
+      [
+        -0.617632,
+        53.560147
+      ],
+      [
+        -0.617531,
+        53.56007
+      ],
+      [
+        -0.617464,
+        53.560048
+      ],
+      [
+        -0.61732,
+        53.560046
+      ],
+      [
+        -0.617148,
+        53.560046
+      ],
+      [
+        -0.617069,
+        53.560105
+      ],
+      [
+        -0.617025,
+        53.560176
+      ],
+      [
+        -0.617008,
+        53.560241
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2834",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2834"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.616493,
+        53.561972
+      ],
+      [
+        -0.616699,
+        53.561274
+      ],
+      [
+        -0.616867,
+        53.560944
+      ],
+      [
+        -0.617093,
+        53.560622
+      ],
+      [
+        -0.617265,
+        53.560447
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2832",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2832"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.617531,
+        53.56007
+      ],
+      [
+        -0.617682,
+        53.559923
+      ],
+      [
+        -0.618025,
+        53.559785
+      ],
+      [
+        -0.619016,
+        53.559653
+      ],
+      [
+        -0.620822,
+        53.559677
+      ],
+      [
+        -0.620912,
+        53.559743
+      ],
+      [
+        -0.621021,
+        53.559804
+      ],
+      [
+        -0.621241,
+        53.55981
+      ],
+      [
+        -0.621388,
+        53.559783
+      ],
+      [
+        -0.621577,
+        53.559688
+      ],
+      [
+        -0.621872,
+        53.559639
+      ],
+      [
+        -0.623445,
+        53.559635
+      ],
+      [
+        -0.624553,
+        53.559559
+      ],
+      [
+        -0.625503,
+        53.559413
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2830",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2830"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.632281,
+        53.587076
+      ],
+      [
+        -0.632982,
+        53.587108
+      ],
+      [
+        -0.634131,
+        53.587355
+      ],
+      [
+        -0.635116,
+        53.587562
+      ],
+      [
+        -0.635778,
+        53.587831
+      ],
+      [
+        -0.635881,
+        53.58788
+      ],
+      [
+        -0.636674,
+        53.588236
+      ],
+      [
+        -0.63773,
+        53.58868
+      ],
+      [
+        -0.638711,
+        53.589087
+      ],
+      [
+        -0.638921,
+        53.589214
+      ],
+      [
+        -0.639243,
+        53.589437
+      ],
+      [
+        -0.639658,
+        53.589782
+      ],
+      [
+        -0.639816,
+        53.589961
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2828",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2828"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.629839,
+        53.58505
+      ],
+      [
+        -0.62997,
+        53.585021
+      ],
+      [
+        -0.630103,
+        53.585027
+      ],
+      [
+        -0.630158,
+        53.585131
+      ],
+      [
+        -0.63008,
+        53.585139
+      ],
+      [
+        -0.630683,
+        53.585813
+      ],
+      [
+        -0.631592,
+        53.586548
+      ],
+      [
+        -0.631956,
+        53.586758
+      ],
+      [
+        -0.632375,
+        53.586914
+      ],
+      [
+        -0.632889,
+        53.586996
+      ],
+      [
+        -0.634351,
+        53.587288
+      ],
+      [
+        -0.635185,
+        53.587483
+      ],
+      [
+        -0.635651,
+        53.587656
+      ],
+      [
+        -0.636801,
+        53.588171
+      ],
+      [
+        -0.637998,
+        53.58868
+      ],
+      [
+        -0.638739,
+        53.589028
+      ],
+      [
+        -0.63924,
+        53.589319
+      ],
+      [
+        -0.639449,
+        53.589466
+      ],
+      [
+        -0.639857,
+        53.589857
+      ],
+      [
+        -0.639898,
+        53.589928
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2826",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2826"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653755,
+        53.584293
+      ],
+      [
+        -0.653893,
+        53.584334
+      ],
+      [
+        -0.654061,
+        53.584454
+      ],
+      [
+        -0.654157,
+        53.584572
+      ],
+      [
+        -0.654153,
+        53.584606
+      ],
+      [
+        -0.654026,
+        53.584716
+      ],
+      [
+        -0.653839,
+        53.584864
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2824",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2824"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653495,
+        53.584289
+      ],
+      [
+        -0.653385,
+        53.584364
+      ],
+      [
+        -0.653292,
+        53.584474
+      ],
+      [
+        -0.653244,
+        53.584574
+      ],
+      [
+        -0.653296,
+        53.584688
+      ],
+      [
+        -0.653433,
+        53.58481
+      ],
+      [
+        -0.65356,
+        53.584885
+      ],
+      [
+        -0.65361,
+        53.584879
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2822",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2822"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.624599,
+        53.578292
+      ],
+      [
+        -0.624797,
+        53.578478
+      ],
+      [
+        -0.624887,
+        53.578628
+      ],
+      [
+        -0.625763,
+        53.57943
+      ],
+      [
+        -0.626759,
+        53.580444
+      ],
+      [
+        -0.627404,
+        53.581206
+      ],
+      [
+        -0.62787,
+        53.581972
+      ],
+      [
+        -0.628563,
+        53.583019
+      ],
+      [
+        -0.629095,
+        53.583845
+      ],
+      [
+        -0.629359,
+        53.584268
+      ],
+      [
+        -0.629771,
+        53.584793
+      ],
+      [
+        -0.62997,
+        53.585021
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2820",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2820"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.648676,
+        53.594688
+      ],
+      [
+        -0.648803,
+        53.59458
+      ],
+      [
+        -0.648683,
+        53.594404
+      ],
+      [
+        -0.648566,
+        53.594355
+      ],
+      [
+        -0.648533,
+        53.594383
+      ],
+      [
+        -0.648404,
+        53.594616
+      ],
+      [
+        -0.648456,
+        53.594716
+      ],
+      [
+        -0.648601,
+        53.594751
+      ],
+      [
+        -0.648789,
+        53.594838
+      ],
+      [
+        -0.649002,
+        53.59494
+      ],
+      [
+        -0.649142,
+        53.594957
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2818",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2818"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.663056,
+        53.568826
+      ],
+      [
+        -0.663023,
+        53.568795
+      ],
+      [
+        -0.663028,
+        53.568777
+      ],
+      [
+        -0.663135,
+        53.568729
+      ],
+      [
+        -0.663776,
+        53.56844
+      ],
+      [
+        -0.664305,
+        53.56821
+      ],
+      [
+        -0.664375,
+        53.568153
+      ],
+      [
+        -0.664435,
+        53.568123
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2816",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2816"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.638434,
+        53.605412
+      ],
+      [
+        -0.638976,
+        53.605193
+      ],
+      [
+        -0.640734,
+        53.604495
+      ],
+      [
+        -0.641565,
+        53.604259
+      ],
+      [
+        -0.642244,
+        53.604104
+      ],
+      [
+        -0.643398,
+        53.603937
+      ],
+      [
+        -0.64438,
+        53.603819
+      ],
+      [
+        -0.645087,
+        53.603795
+      ],
+      [
+        -0.645183,
+        53.603664
+      ],
+      [
+        -0.645506,
+        53.603599
+      ],
+      [
+        -0.645636,
+        53.603599
+      ],
+      [
+        -0.64567,
+        53.603599
+      ],
+      [
+        -0.64602,
+        53.603848
+      ],
+      [
+        -0.646858,
+        53.604023
+      ],
+      [
+        -0.646888,
+        53.604102
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2814",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2814"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.63761,
+        53.606001
+      ],
+      [
+        -0.637562,
+        53.605985
+      ],
+      [
+        -0.637507,
+        53.605968
+      ],
+      [
+        -0.637555,
+        53.605838
+      ],
+      [
+        -0.637576,
+        53.605728
+      ],
+      [
+        -0.637617,
+        53.605599
+      ],
+      [
+        -0.637541,
+        53.605377
+      ],
+      [
+        -0.637616,
+        53.605347
+      ],
+      [
+        -0.637665,
+        53.605335
+      ],
+      [
+        -0.637878,
+        53.605453
+      ],
+      [
+        -0.637967,
+        53.605473
+      ],
+      [
+        -0.638125,
+        53.605478
+      ],
+      [
+        -0.638434,
+        53.605412
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2812",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2812"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.63761,
+        53.606001
+      ],
+      [
+        -0.637816,
+        53.60596
+      ],
+      [
+        -0.637988,
+        53.605956
+      ],
+      [
+        -0.638122,
+        53.605958
+      ],
+      [
+        -0.638232,
+        53.605926
+      ],
+      [
+        -0.638344,
+        53.605877
+      ],
+      [
+        -0.638379,
+        53.605822
+      ],
+      [
+        -0.638386,
+        53.605718
+      ],
+      [
+        -0.638516,
+        53.605557
+      ],
+      [
+        -0.638459,
+        53.605515
+      ],
+      [
+        -0.638434,
+        53.605412
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2810",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2810"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.629776,
+        53.613062
+      ],
+      [
+        -0.630843,
+        53.612376
+      ],
+      [
+        -0.631962,
+        53.61159
+      ],
+      [
+        -0.632803,
+        53.611154
+      ],
+      [
+        -0.633475,
+        53.610808
+      ],
+      [
+        -0.633773,
+        53.610657
+      ],
+      [
+        -0.634326,
+        53.610358
+      ],
+      [
+        -0.634841,
+        53.60986
+      ],
+      [
+        -0.634941,
+        53.609728
+      ],
+      [
+        -0.635466,
+        53.609005
+      ],
+      [
+        -0.635901,
+        53.608371
+      ],
+      [
+        -0.636056,
+        53.60749
+      ],
+      [
+        -0.636148,
+        53.607262
+      ],
+      [
+        -0.636704,
+        53.606734
+      ],
+      [
+        -0.637184,
+        53.606247
+      ],
+      [
+        -0.637424,
+        53.606099
+      ],
+      [
+        -0.63761,
+        53.606001
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2808",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2808"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.651829,
+        53.602558
+      ],
+      [
+        -0.651843,
+        53.602633
+      ],
+      [
+        -0.652035,
+        53.603277
+      ],
+      [
+        -0.652277,
+        53.603969
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2806",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2806"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.652557,
+        53.602538
+      ],
+      [
+        -0.652488,
+        53.60256
+      ],
+      [
+        -0.652038,
+        53.60269
+      ],
+      [
+        -0.652172,
+        53.603252
+      ],
+      [
+        -0.652435,
+        53.60393
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2804",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2804"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.650847,
+        53.598406
+      ],
+      [
+        -0.651005,
+        53.598445
+      ],
+      [
+        -0.651221,
+        53.598679
+      ],
+      [
+        -0.651605,
+        53.598685
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2802",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2802"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.650462,
+        53.598777
+      ],
+      [
+        -0.651042,
+        53.598737
+      ],
+      [
+        -0.650809,
+        53.598416
+      ],
+      [
+        -0.650847,
+        53.598406
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2800",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2800"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.651605,
+        53.598685
+      ],
+      [
+        -0.651321,
+        53.598829
+      ],
+      [
+        -0.651493,
+        53.598995
+      ],
+      [
+        -0.651949,
+        53.599645
+      ],
+      [
+        -0.652179,
+        53.600393
+      ],
+      [
+        -0.652176,
+        53.600863
+      ],
+      [
+        -0.6521,
+        53.601219
+      ],
+      [
+        -0.651994,
+        53.601735
+      ],
+      [
+        -0.652025,
+        53.602499
+      ],
+      [
+        -0.652086,
+        53.602503
+      ],
+      [
+        -0.652557,
+        53.602538
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2798",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_railway": "0",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "ccg_tunnel": "0",
+    "id": "way/-2798"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.64902,
+        53.604261
+      ],
+      [
+        -0.64961,
+        53.604267
+      ],
+      [
+        -0.650266,
+        53.604287
+      ],
+      [
+        -0.651787,
+        53.604318
+      ],
+      [
+        -0.652233,
+        53.604193
+      ],
+      [
+        -0.652267,
+        53.604051
+      ],
+      [
+        -0.652277,
+        53.603969
+      ],
+      [
+        -0.652348,
+        53.603949
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2796",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2796"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.652348,
+        53.603949
+      ],
+      [
+        -0.652435,
+        53.60393
+      ],
+      [
+        -0.652697,
+        53.604102
+      ],
+      [
+        -0.652824,
+        53.60413
+      ],
+      [
+        -0.653177,
+        53.604179
+      ],
+      [
+        -0.65322,
+        53.604241
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2794",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2794"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.666393,
+        53.590393
+      ],
+      [
+        -0.667131,
+        53.590369
+      ],
+      [
+        -0.667138,
+        53.590254
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2792",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2792"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.661285,
+        53.591359
+      ],
+      [
+        -0.661151,
+        53.590826
+      ],
+      [
+        -0.661056,
+        53.590705
+      ],
+      [
+        -0.660987,
+        53.590732
+      ],
+      [
+        -0.661045,
+        53.591182
+      ],
+      [
+        -0.6611,
+        53.591379
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2790",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2790"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.661056,
+        53.590705
+      ],
+      [
+        -0.661162,
+        53.590638
+      ],
+      [
+        -0.662453,
+        53.590597
+      ],
+      [
+        -0.664011,
+        53.590526
+      ],
+      [
+        -0.665714,
+        53.590414
+      ],
+      [
+        -0.666393,
+        53.590393
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2788",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2788"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.64619,
+        53.576501
+      ],
+      [
+        -0.646753,
+        53.576742
+      ],
+      [
+        -0.646804,
+        53.576761
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2786",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2786"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.64619,
+        53.576501
+      ],
+      [
+        -0.646323,
+        53.576425
+      ],
+      [
+        -0.646464,
+        53.576335
+      ],
+      [
+        -0.646483,
+        53.576241
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2784",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2784"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.64619,
+        53.576501
+      ],
+      [
+        -0.646122,
+        53.576521
+      ],
+      [
+        -0.64565,
+        53.576601
+      ],
+      [
+        -0.645573,
+        53.576534
+      ],
+      [
+        -0.645628,
+        53.576477
+      ],
+      [
+        -0.645857,
+        53.576429
+      ],
+      [
+        -0.645932,
+        53.57649
+      ],
+      [
+        -0.64619,
+        53.576501
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2782",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2782"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.663223,
+        53.567972
+      ],
+      [
+        -0.663407,
+        53.568089
+      ],
+      [
+        -0.663498,
+        53.568151
+      ],
+      [
+        -0.66354,
+        53.568197
+      ],
+      [
+        -0.663581,
+        53.568264
+      ],
+      [
+        -0.66364,
+        53.568328
+      ],
+      [
+        -0.663776,
+        53.56844
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2780",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2780"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.646483,
+        53.576241
+      ],
+      [
+        -0.646958,
+        53.576458
+      ],
+      [
+        -0.647364,
+        53.576514
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2778",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2778"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.664318,
+        53.573892
+      ],
+      [
+        -0.664336,
+        53.573845
+      ],
+      [
+        -0.664665,
+        53.573796
+      ],
+      [
+        -0.664981,
+        53.573776
+      ],
+      [
+        -0.665835,
+        53.573768
+      ],
+      [
+        -0.66659,
+        53.573827
+      ],
+      [
+        -0.666704,
+        53.573909
+      ],
+      [
+        -0.666593,
+        53.573927
+      ],
+      [
+        -0.665852,
+        53.573886
+      ],
+      [
+        -0.665413,
+        53.573861
+      ],
+      [
+        -0.665018,
+        53.573863
+      ],
+      [
+        -0.664699,
+        53.573878
+      ],
+      [
+        -0.664349,
+        53.573918
+      ],
+      [
+        -0.664318,
+        53.573892
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2776",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_foot": "yes",
+    "ccg_highway": "footway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2776"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.682217,
+        53.565411
+      ],
+      [
+        -0.682219,
+        53.565115
+      ],
+      [
+        -0.682192,
+        53.564964
+      ],
+      [
+        -0.682096,
+        53.564885
+      ],
+      [
+        -0.681767,
+        53.564733
+      ],
+      [
+        -0.681781,
+        53.564697
+      ],
+      [
+        -0.682052,
+        53.564561
+      ],
+      [
+        -0.682326,
+        53.564483
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2774",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2774"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.682216,
+        53.565888
+      ],
+      [
+        -0.682346,
+        53.565877
+      ],
+      [
+        -0.682672,
+        53.566008
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2772",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2772"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.682326,
+        53.564483
+      ],
+      [
+        -0.682566,
+        53.564573
+      ],
+      [
+        -0.6827,
+        53.564551
+      ],
+      [
+        -0.683369,
+        53.564646
+      ],
+      [
+        -0.683365,
+        53.564737
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2770",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2770"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.681918,
+        53.565385
+      ],
+      [
+        -0.682013,
+        53.565366
+      ],
+      [
+        -0.682217,
+        53.565411
+      ],
+      [
+        -0.682216,
+        53.565888
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2768",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2768"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.682049,
+        53.567629
+      ],
+      [
+        -0.682102,
+        53.567353
+      ],
+      [
+        -0.68217,
+        53.56674
+      ],
+      [
+        -0.682216,
+        53.565888
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2766",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2766"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.682049,
+        53.567629
+      ],
+      [
+        -0.682171,
+        53.568357
+      ],
+      [
+        -0.682239,
+        53.568726
+      ],
+      [
+        -0.682363,
+        53.56957
+      ],
+      [
+        -0.682472,
+        53.570352
+      ],
+      [
+        -0.682517,
+        53.570851
+      ],
+      [
+        -0.682517,
+        53.571175
+      ],
+      [
+        -0.682497,
+        53.57127
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2764",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2764"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.680318,
+        53.574159
+      ],
+      [
+        -0.680484,
+        53.574166
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2762",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2762"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.67775,
+        53.574097
+      ],
+      [
+        -0.678146,
+        53.574077
+      ],
+      [
+        -0.67871,
+        53.574084
+      ],
+      [
+        -0.679757,
+        53.574131
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2760",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2760"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.679757,
+        53.574131
+      ],
+      [
+        -0.680318,
+        53.574159
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2758",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2758"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.681616,
+        53.574239
+      ],
+      [
+        -0.681972,
+        53.57425
+      ],
+      [
+        -0.68259,
+        53.574282
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2756",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2756"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.670053,
+        53.566678
+      ],
+      [
+        -0.670107,
+        53.566625
+      ],
+      [
+        -0.670144,
+        53.566562
+      ],
+      [
+        -0.670211,
+        53.566437
+      ],
+      [
+        -0.670284,
+        53.566343
+      ],
+      [
+        -0.670394,
+        53.566259
+      ],
+      [
+        -0.670453,
+        53.566187
+      ],
+      [
+        -0.67063,
+        53.565963
+      ],
+      [
+        -0.67071,
+        53.565888
+      ],
+      [
+        -0.670818,
+        53.565848
+      ],
+      [
+        -0.671027,
+        53.565799
+      ],
+      [
+        -0.671402,
+        53.565701
+      ],
+      [
+        -0.671818,
+        53.565595
+      ],
+      [
+        -0.672186,
+        53.565491
+      ],
+      [
+        -0.672325,
+        53.565442
+      ],
+      [
+        -0.6724,
+        53.565399
+      ],
+      [
+        -0.672427,
+        53.56533
+      ],
+      [
+        -0.672401,
+        53.565259
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2754",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2754"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.680484,
+        53.574166
+      ],
+      [
+        -0.680889,
+        53.574191
+      ],
+      [
+        -0.680936,
+        53.574198
+      ],
+      [
+        -0.681286,
+        53.574222
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2752",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2752"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.681286,
+        53.574222
+      ],
+      [
+        -0.681616,
+        53.574239
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2750",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2750"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.676311,
+        53.574315
+      ],
+      [
+        -0.676804,
+        53.574355
+      ],
+      [
+        -0.67703,
+        53.574305
+      ],
+      [
+        -0.67775,
+        53.574097
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2748",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2748"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.675095,
+        53.574346
+      ],
+      [
+        -0.676311,
+        53.574315
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2746",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2746"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.68193,
+        53.57124
+      ],
+      [
+        -0.682065,
+        53.57124
+      ],
+      [
+        -0.682336,
+        53.571246
+      ],
+      [
+        -0.682497,
+        53.57127
+      ],
+      [
+        -0.682564,
+        53.571304
+      ],
+      [
+        -0.682623,
+        53.571351
+      ],
+      [
+        -0.682665,
+        53.57149
+      ],
+      [
+        -0.682665,
+        53.571614
+      ],
+      [
+        -0.682665,
+        53.571722
+      ],
+      [
+        -0.682687,
+        53.571775
+      ],
+      [
+        -0.682709,
+        53.571867
+      ],
+      [
+        -0.6827,
+        53.572001
+      ],
+      [
+        -0.682743,
+        53.572113
+      ],
+      [
+        -0.682759,
+        53.572242
+      ],
+      [
+        -0.682794,
+        53.572517
+      ],
+      [
+        -0.682811,
+        53.572721
+      ],
+      [
+        -0.682845,
+        53.572898
+      ],
+      [
+        -0.682852,
+        53.573132
+      ],
+      [
+        -0.682855,
+        53.573276
+      ],
+      [
+        -0.682871,
+        53.573429
+      ],
+      [
+        -0.682901,
+        53.573609
+      ],
+      [
+        -0.682928,
+        53.573812
+      ],
+      [
+        -0.682905,
+        53.573972
+      ],
+      [
+        -0.682883,
+        53.574092
+      ],
+      [
+        -0.68282,
+        53.57415
+      ],
+      [
+        -0.682754,
+        53.574181
+      ],
+      [
+        -0.682668,
+        53.574225
+      ],
+      [
+        -0.68259,
+        53.574282
+      ],
+      [
+        -0.682548,
+        53.574351
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2744",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2744"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683774,
+        53.580663
+      ],
+      [
+        -0.683815,
+        53.580938
+      ],
+      [
+        -0.684082,
+        53.582792
+      ],
+      [
+        -0.684261,
+        53.584075
+      ],
+      [
+        -0.684372,
+        53.58421
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2742",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2742"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.684278,
+        53.584999
+      ],
+      [
+        -0.684403,
+        53.584999
+      ],
+      [
+        -0.684454,
+        53.584338
+      ],
+      [
+        -0.684372,
+        53.58421
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2740",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2740"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.692742,
+        53.589724
+      ],
+      [
+        -0.692681,
+        53.589572
+      ],
+      [
+        -0.692687,
+        53.589428
+      ],
+      [
+        -0.693124,
+        53.589371
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2738",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2738"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.693124,
+        53.589371
+      ],
+      [
+        -0.692949,
+        53.589268
+      ],
+      [
+        -0.692949,
+        53.589223
+      ],
+      [
+        -0.692949,
+        53.589194
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2736",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2736"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.693124,
+        53.589371
+      ],
+      [
+        -0.694052,
+        53.589482
+      ],
+      [
+        -0.694204,
+        53.589709
+      ],
+      [
+        -0.694346,
+        53.589691
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2734",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2734"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.692637,
+        53.589164
+      ],
+      [
+        -0.692666,
+        53.589171
+      ],
+      [
+        -0.692949,
+        53.589194
+      ],
+      [
+        -0.693276,
+        53.589202
+      ],
+      [
+        -0.69363,
+        53.589189
+      ],
+      [
+        -0.693959,
+        53.589148
+      ],
+      [
+        -0.694121,
+        53.589142
+      ],
+      [
+        -0.694153,
+        53.589117
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2732",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2732"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.684783,
+        53.590132
+      ],
+      [
+        -0.685088,
+        53.590086
+      ],
+      [
+        -0.686474,
+        53.589933
+      ],
+      [
+        -0.687283,
+        53.589766
+      ],
+      [
+        -0.688072,
+        53.589619
+      ],
+      [
+        -0.688999,
+        53.589458
+      ],
+      [
+        -0.689716,
+        53.589356
+      ],
+      [
+        -0.690897,
+        53.589212
+      ],
+      [
+        -0.691772,
+        53.589177
+      ],
+      [
+        -0.692637,
+        53.589164
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2730",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2730"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683076,
+        53.59029
+      ],
+      [
+        -0.68317,
+        53.590363
+      ],
+      [
+        -0.683296,
+        53.590445
+      ],
+      [
+        -0.683565,
+        53.59062
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2728",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2728"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.684278,
+        53.584999
+      ],
+      [
+        -0.684217,
+        53.584982
+      ],
+      [
+        -0.684179,
+        53.584956
+      ],
+      [
+        -0.684117,
+        53.584893
+      ],
+      [
+        -0.684127,
+        53.584789
+      ],
+      [
+        -0.684203,
+        53.584347
+      ],
+      [
+        -0.684372,
+        53.58421
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2726",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2726"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.684258,
+        53.590071
+      ],
+      [
+        -0.68458,
+        53.59009
+      ],
+      [
+        -0.684783,
+        53.590132
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2724",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2724"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683565,
+        53.59062
+      ],
+      [
+        -0.684046,
+        53.590307
+      ],
+      [
+        -0.684205,
+        53.590292
+      ],
+      [
+        -0.684213,
+        53.590196
+      ],
+      [
+        -0.684237,
+        53.590112
+      ],
+      [
+        -0.684258,
+        53.590071
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2722",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2722"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.684258,
+        53.590071
+      ],
+      [
+        -0.684261,
+        53.590065
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2720",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2720"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683283,
+        53.589929
+      ],
+      [
+        -0.683539,
+        53.589868
+      ],
+      [
+        -0.683572,
+        53.589684
+      ],
+      [
+        -0.683715,
+        53.589682
+      ],
+      [
+        -0.683812,
+        53.58969
+      ],
+      [
+        -0.68377,
+        53.589875
+      ],
+      [
+        -0.68391,
+        53.589929
+      ],
+      [
+        -0.684033,
+        53.590016
+      ],
+      [
+        -0.684068,
+        53.590059
+      ],
+      [
+        -0.684258,
+        53.590071
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2718",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_foot": "yes",
+    "ccg_highway": "footway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2718"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683001,
+        53.590163
+      ],
+      [
+        -0.68302,
+        53.590035
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2716",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2716"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.682904,
+        53.590042
+      ],
+      [
+        -0.68302,
+        53.590035
+      ],
+      [
+        -0.683071,
+        53.590027
+      ],
+      [
+        -0.683108,
+        53.590003
+      ],
+      [
+        -0.683108,
+        53.589977
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2714",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2714"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.679873,
+        53.590058
+      ],
+      [
+        -0.680018,
+        53.590059
+      ],
+      [
+        -0.681665,
+        53.590068
+      ],
+      [
+        -0.682904,
+        53.590042
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2712",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2712"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683108,
+        53.589977
+      ],
+      [
+        -0.683178,
+        53.589973
+      ],
+      [
+        -0.683283,
+        53.589929
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2710",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2710"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.664775,
+        53.579
+      ],
+      [
+        -0.665899,
+        53.579388
+      ],
+      [
+        -0.666921,
+        53.57976
+      ],
+      [
+        -0.667957,
+        53.580212
+      ],
+      [
+        -0.669086,
+        53.58095
+      ],
+      [
+        -0.669607,
+        53.581375
+      ],
+      [
+        -0.670242,
+        53.582031
+      ],
+      [
+        -0.67053,
+        53.582336
+      ],
+      [
+        -0.670746,
+        53.582546
+      ],
+      [
+        -0.671467,
+        53.583245
+      ],
+      [
+        -0.671731,
+        53.583504
+      ],
+      [
+        -0.671916,
+        53.583728
+      ],
+      [
+        -0.672297,
+        53.584202
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2708",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2708"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.670399,
+        53.582534
+      ],
+      [
+        -0.670507,
+        53.582628
+      ],
+      [
+        -0.671374,
+        53.58353
+      ],
+      [
+        -0.672118,
+        53.584276
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2706",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_railway": "0",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "ccg_tunnel": "0",
+    "id": "way/-2706"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.672118,
+        53.584276
+      ],
+      [
+        -0.67219,
+        53.584341
+      ],
+      [
+        -0.672516,
+        53.58462
+      ],
+      [
+        -0.673,
+        53.585141
+      ],
+      [
+        -0.673271,
+        53.585481
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2704",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_railway": "0",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "ccg_tunnel": "0",
+    "id": "way/-2704"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.672297,
+        53.584202
+      ],
+      [
+        -0.672688,
+        53.584573
+      ],
+      [
+        -0.672787,
+        53.584677
+      ],
+      [
+        -0.673446,
+        53.585353
+      ],
+      [
+        -0.673623,
+        53.585519
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2702",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2702"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.673357,
+        53.585594
+      ],
+      [
+        -0.673623,
+        53.585519
+      ],
+      [
+        -0.673799,
+        53.585739
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2700",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2700"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.673271,
+        53.585481
+      ],
+      [
+        -0.673357,
+        53.585594
+      ],
+      [
+        -0.673589,
+        53.585827
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2698",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "footway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2698"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.671418,
+        53.594957
+      ],
+      [
+        -0.671926,
+        53.59499
+      ],
+      [
+        -0.672191,
+        53.595086
+      ],
+      [
+        -0.672701,
+        53.595093
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2696",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2696"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.674413,
+        53.586633
+      ],
+      [
+        -0.674153,
+        53.586407
+      ],
+      [
+        -0.673589,
+        53.585827
+      ],
+      [
+        -0.673718,
+        53.585768
+      ],
+      [
+        -0.673799,
+        53.585739
+      ],
+      [
+        -0.675032,
+        53.586927
+      ],
+      [
+        -0.675818,
+        53.587809
+      ],
+      [
+        -0.676371,
+        53.588248
+      ],
+      [
+        -0.677506,
+        53.588843
+      ],
+      [
+        -0.678082,
+        53.589042
+      ],
+      [
+        -0.678839,
+        53.589124
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2694",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2694"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.672798,
+        53.5652
+      ],
+      [
+        -0.672843,
+        53.565364
+      ],
+      [
+        -0.67288,
+        53.565477
+      ],
+      [
+        -0.672934,
+        53.565826
+      ],
+      [
+        -0.672942,
+        53.565964
+      ],
+      [
+        -0.672961,
+        53.566488
+      ],
+      [
+        -0.672969,
+        53.566678
+      ],
+      [
+        -0.672931,
+        53.566756
+      ],
+      [
+        -0.672663,
+        53.567267
+      ],
+      [
+        -0.672491,
+        53.567576
+      ],
+      [
+        -0.672325,
+        53.567944
+      ],
+      [
+        -0.672183,
+        53.568272
+      ],
+      [
+        -0.672054,
+        53.56843
+      ],
+      [
+        -0.671949,
+        53.568557
+      ],
+      [
+        -0.671869,
+        53.568749
+      ],
+      [
+        -0.67172,
+        53.569096
+      ],
+      [
+        -0.671745,
+        53.569343
+      ],
+      [
+        -0.671763,
+        53.569631
+      ],
+      [
+        -0.671805,
+        53.570111
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2692",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2692"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.670198,
+        53.565743
+      ],
+      [
+        -0.670312,
+        53.565902
+      ],
+      [
+        -0.670363,
+        53.565967
+      ],
+      [
+        -0.67071,
+        53.565888
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2690",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2690"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.666493,
+        53.567459
+      ],
+      [
+        -0.666647,
+        53.567388
+      ],
+      [
+        -0.666883,
+        53.567267
+      ],
+      [
+        -0.667081,
+        53.567122
+      ],
+      [
+        -0.667222,
+        53.567004
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2688",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_railway": "0",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "ccg_tunnel": "0",
+    "id": "way/-2688"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.663056,
+        53.568826
+      ],
+      [
+        -0.663105,
+        53.568873
+      ],
+      [
+        -0.663482,
+        53.569183
+      ],
+      [
+        -0.66345,
+        53.569248
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2686",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2686"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.660872,
+        53.578783
+      ],
+      [
+        -0.660894,
+        53.578729
+      ],
+      [
+        -0.661299,
+        53.578724
+      ],
+      [
+        -0.661386,
+        53.578642
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2684",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2684"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.655194,
+        53.57893
+      ],
+      [
+        -0.655543,
+        53.578869
+      ],
+      [
+        -0.655743,
+        53.578853
+      ],
+      [
+        -0.655789,
+        53.578743
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2682",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2682"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654539,
+        53.579225
+      ],
+      [
+        -0.654717,
+        53.579239
+      ],
+      [
+        -0.655009,
+        53.579184
+      ],
+      [
+        -0.655302,
+        53.579067
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2680",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2680"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654102,
+        53.578866
+      ],
+      [
+        -0.654179,
+        53.578792
+      ],
+      [
+        -0.654477,
+        53.578661
+      ],
+      [
+        -0.654728,
+        53.578639
+      ],
+      [
+        -0.655019,
+        53.578735
+      ],
+      [
+        -0.655197,
+        53.578867
+      ],
+      [
+        -0.655194,
+        53.57893
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2678",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2678"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654539,
+        53.579225
+      ],
+      [
+        -0.65423,
+        53.579146
+      ],
+      [
+        -0.654097,
+        53.578999
+      ],
+      [
+        -0.654102,
+        53.578866
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2676",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2676"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654548,
+        53.580792
+      ],
+      [
+        -0.654584,
+        53.580772
+      ],
+      [
+        -0.654667,
+        53.580724
+      ],
+      [
+        -0.654773,
+        53.580646
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2674",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2674"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.67859,
+        53.598921
+      ],
+      [
+        -0.67858,
+        53.598898
+      ],
+      [
+        -0.678521,
+        53.598816
+      ],
+      [
+        -0.678451,
+        53.598746
+      ],
+      [
+        -0.678427,
+        53.598675
+      ],
+      [
+        -0.678427,
+        53.598627
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2672",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "bridleway",
+    "ccg_horse": "yes",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "ccg_surface": "ground",
+    "id": "way/-2672"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.332514,
+        53.545162
+      ],
+      [
+        -0.333136,
+        53.545558
+      ],
+      [
+        -0.337168,
+        53.547778
+      ],
+      [
+        -0.338327,
+        53.547265
+      ],
+      [
+        -0.338639,
+        53.547218
+      ],
+      [
+        -0.338997,
+        53.547326
+      ],
+      [
+        -0.34069,
+        53.548959
+      ],
+      [
+        -0.342158,
+        53.550425
+      ],
+      [
+        -0.343659,
+        53.551369
+      ],
+      [
+        -0.345168,
+        53.552041
+      ],
+      [
+        -0.345751,
+        53.552127
+      ],
+      [
+        -0.350439,
+        53.553755
+      ],
+      [
+        -0.352885,
+        53.554
+      ],
+      [
+        -0.354057,
+        53.554795
+      ],
+      [
+        -0.355514,
+        53.555697
+      ],
+      [
+        -0.356522,
+        53.556136
+      ],
+      [
+        -0.359953,
+        53.557842
+      ],
+      [
+        -0.363219,
+        53.558604
+      ],
+      [
+        -0.365404,
+        53.558758
+      ],
+      [
+        -0.365945,
+        53.558822
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2670",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2670"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654057,
+        53.568931
+      ],
+      [
+        -0.654228,
+        53.568995
+      ],
+      [
+        -0.654255,
+        53.569058
+      ],
+      [
+        -0.654098,
+        53.569076
+      ],
+      [
+        -0.653966,
+        53.569125
+      ],
+      [
+        -0.654044,
+        53.569284
+      ],
+      [
+        -0.654186,
+        53.56932
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2668",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2668"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653982,
+        53.586069
+      ],
+      [
+        -0.65386,
+        53.586067
+      ],
+      [
+        -0.653702,
+        53.586168
+      ],
+      [
+        -0.653617,
+        53.58621
+      ],
+      [
+        -0.653648,
+        53.58629
+      ],
+      [
+        -0.653729,
+        53.586392
+      ],
+      [
+        -0.653876,
+        53.586459
+      ],
+      [
+        -0.654067,
+        53.586519
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2666",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2666"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.646916,
+        53.590005
+      ],
+      [
+        -0.647303,
+        53.590419
+      ],
+      [
+        -0.647445,
+        53.590481
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2664",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2664"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.638798,
+        53.560826
+      ],
+      [
+        -0.638585,
+        53.560908
+      ],
+      [
+        -0.638297,
+        53.560977
+      ],
+      [
+        -0.638159,
+        53.561012
+      ],
+      [
+        -0.637625,
+        53.561153
+      ],
+      [
+        -0.636544,
+        53.561412
+      ],
+      [
+        -0.635291,
+        53.561612
+      ],
+      [
+        -0.633686,
+        53.561689
+      ],
+      [
+        -0.632541,
+        53.561767
+      ],
+      [
+        -0.632218,
+        53.561865
+      ],
+      [
+        -0.632084,
+        53.561988
+      ],
+      [
+        -0.632165,
+        53.562775
+      ],
+      [
+        -0.632311,
+        53.564061
+      ],
+      [
+        -0.632341,
+        53.564304
+      ],
+      [
+        -0.632466,
+        53.565173
+      ],
+      [
+        -0.632513,
+        53.565819
+      ],
+      [
+        -0.632513,
+        53.566376
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2662",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "yes",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2662"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.632513,
+        53.566376
+      ],
+      [
+        -0.632604,
+        53.566384
+      ],
+      [
+        -0.632706,
+        53.566486
+      ],
+      [
+        -0.633008,
+        53.566519
+      ],
+      [
+        -0.633064,
+        53.566603
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2660",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2660"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.385458,
+        53.581991
+      ],
+      [
+        -0.385585,
+        53.581946
+      ],
+      [
+        -0.386856,
+        53.582037
+      ],
+      [
+        -0.386873,
+        53.581995
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2658",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2658"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.670443,
+        53.582358
+      ],
+      [
+        -0.670724,
+        53.582284
+      ],
+      [
+        -0.670827,
+        53.582256
+      ],
+      [
+        -0.670881,
+        53.582198
+      ],
+      [
+        -0.670905,
+        53.58213
+      ],
+      [
+        -0.670897,
+        53.581987
+      ],
+      [
+        -0.670968,
+        53.581688
+      ],
+      [
+        -0.67105,
+        53.581238
+      ],
+      [
+        -0.671251,
+        53.580115
+      ],
+      [
+        -0.671328,
+        53.579652
+      ],
+      [
+        -0.671355,
+        53.579256
+      ],
+      [
+        -0.671379,
+        53.579188
+      ],
+      [
+        -0.671468,
+        53.579135
+      ],
+      [
+        -0.671619,
+        53.579052
+      ],
+      [
+        -0.671691,
+        53.57899
+      ],
+      [
+        -0.671692,
+        53.57889
+      ],
+      [
+        -0.671633,
+        53.578752
+      ],
+      [
+        -0.671626,
+        53.578638
+      ],
+      [
+        -0.671729,
+        53.578438
+      ],
+      [
+        -0.671691,
+        53.578177
+      ],
+      [
+        -0.671583,
+        53.577917
+      ],
+      [
+        -0.671384,
+        53.577605
+      ],
+      [
+        -0.671459,
+        53.577107
+      ],
+      [
+        -0.671443,
+        53.576766
+      ],
+      [
+        -0.671442,
+        53.576372
+      ],
+      [
+        -0.67146,
+        53.575969
+      ],
+      [
+        -0.671477,
+        53.575489
+      ],
+      [
+        -0.671583,
+        53.575264
+      ],
+      [
+        -0.671565,
+        53.574882
+      ],
+      [
+        -0.671547,
+        53.574817
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2656",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2656"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.663776,
+        53.56844
+      ],
+      [
+        -0.664305,
+        53.56821
+      ],
+      [
+        -0.664375,
+        53.568153
+      ],
+      [
+        -0.664435,
+        53.568123
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2654",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "id": "way/-2654"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.664435,
+        53.568123
+      ],
+      [
+        -0.664517,
+        53.568084
+      ],
+      [
+        -0.664632,
+        53.568062
+      ],
+      [
+        -0.664766,
+        53.568008
+      ],
+      [
+        -0.664919,
+        53.567933
+      ],
+      [
+        -0.66501,
+        53.567863
+      ],
+      [
+        -0.665075,
+        53.56777
+      ],
+      [
+        -0.665119,
+        53.567621
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2652",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2652"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.678059,
+        53.598479
+      ],
+      [
+        -0.678097,
+        53.598543
+      ],
+      [
+        -0.678427,
+        53.598627
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2650",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "id": "way/-2650"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.664435,
+        53.568123
+      ],
+      [
+        -0.66452,
+        53.568146
+      ],
+      [
+        -0.664543,
+        53.568171
+      ],
+      [
+        -0.664565,
+        53.56819
+      ],
+      [
+        -0.664636,
+        53.568245
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2648",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "id": "way/-2648"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.664636,
+        53.568245
+      ],
+      [
+        -0.664654,
+        53.568236
+      ],
+      [
+        -0.664758,
+        53.568159
+      ],
+      [
+        -0.664834,
+        53.568121
+      ],
+      [
+        -0.664938,
+        53.568079
+      ],
+      [
+        -0.665099,
+        53.568051
+      ],
+      [
+        -0.665493,
+        53.568011
+      ],
+      [
+        -0.665553,
+        53.567993
+      ],
+      [
+        -0.665598,
+        53.567973
+      ],
+      [
+        -0.665635,
+        53.567936
+      ],
+      [
+        -0.665732,
+        53.567833
+      ],
+      [
+        -0.665871,
+        53.567684
+      ],
+      [
+        -0.665963,
+        53.567611
+      ],
+      [
+        -0.666073,
+        53.567575
+      ],
+      [
+        -0.666156,
+        53.567552
+      ],
+      [
+        -0.666258,
+        53.567541
+      ],
+      [
+        -0.66637,
+        53.5675
+      ],
+      [
+        -0.666493,
+        53.567459
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2646",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_segregated": "yes",
+    "id": "way/-2646"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683001,
+        53.590163
+      ],
+      [
+        -0.683038,
+        53.590237
+      ],
+      [
+        -0.683076,
+        53.59029
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2644",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "bridleway",
+    "ccg_horse": "yes",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2644"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.365945,
+        53.558822
+      ],
+      [
+        -0.366273,
+        53.55905
+      ],
+      [
+        -0.369429,
+        53.562118
+      ],
+      [
+        -0.37272,
+        53.565228
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2642",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2642"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.646948,
+        53.56841
+      ],
+      [
+        -0.647098,
+        53.568422
+      ],
+      [
+        -0.647714,
+        53.568407
+      ],
+      [
+        -0.648329,
+        53.568398
+      ],
+      [
+        -0.648674,
+        53.568395
+      ],
+      [
+        -0.648737,
+        53.568407
+      ],
+      [
+        -0.648793,
+        53.568431
+      ],
+      [
+        -0.648837,
+        53.568462
+      ],
+      [
+        -0.648868,
+        53.568506
+      ],
+      [
+        -0.648883,
+        53.568538
+      ],
+      [
+        -0.649434,
+        53.569681
+      ],
+      [
+        -0.649983,
+        53.570277
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2640",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2640"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.663099,
+        53.567999
+      ],
+      [
+        -0.663169,
+        53.568003
+      ],
+      [
+        -0.663223,
+        53.567972
+      ],
+      [
+        -0.663243,
+        53.56796
+      ],
+      [
+        -0.663291,
+        53.567896
+      ],
+      [
+        -0.663375,
+        53.56788
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2638",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "id": "way/-2638"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654853,
+        53.595024
+      ],
+      [
+        -0.655142,
+        53.594991
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2636",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2636"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.670443,
+        53.582358
+      ],
+      [
+        -0.670724,
+        53.582284
+      ],
+      [
+        -0.670827,
+        53.582256
+      ],
+      [
+        -0.670881,
+        53.582198
+      ],
+      [
+        -0.670905,
+        53.58213
+      ],
+      [
+        -0.670897,
+        53.581987
+      ],
+      [
+        -0.670968,
+        53.581688
+      ],
+      [
+        -0.67105,
+        53.581238
+      ],
+      [
+        -0.671251,
+        53.580115
+      ],
+      [
+        -0.671328,
+        53.579652
+      ],
+      [
+        -0.671355,
+        53.579256
+      ],
+      [
+        -0.671379,
+        53.579188
+      ],
+      [
+        -0.671468,
+        53.579135
+      ],
+      [
+        -0.671619,
+        53.579052
+      ],
+      [
+        -0.671691,
+        53.57899
+      ],
+      [
+        -0.671692,
+        53.57889
+      ],
+      [
+        -0.671633,
+        53.578752
+      ],
+      [
+        -0.671626,
+        53.578638
+      ],
+      [
+        -0.671729,
+        53.578438
+      ],
+      [
+        -0.671691,
+        53.578177
+      ],
+      [
+        -0.671583,
+        53.577917
+      ],
+      [
+        -0.671384,
+        53.577605
+      ],
+      [
+        -0.671459,
+        53.577107
+      ],
+      [
+        -0.671443,
+        53.576766
+      ],
+      [
+        -0.671442,
+        53.576372
+      ],
+      [
+        -0.67146,
+        53.575969
+      ],
+      [
+        -0.671477,
+        53.575489
+      ],
+      [
+        -0.671583,
+        53.575264
+      ],
+      [
+        -0.671565,
+        53.574882
+      ],
+      [
+        -0.671547,
+        53.574817
+      ],
+      [
+        -0.67155,
+        53.574429
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2634",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "no",
+    "ccg_surface": "mud",
+    "id": "way/-2634"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.658201,
+        53.547676
+      ],
+      [
+        -0.658873,
+        53.548057
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2632",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2632"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.660831,
+        53.578892
+      ],
+      [
+        -0.66086,
+        53.578804
+      ],
+      [
+        -0.660872,
+        53.578783
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2630",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2630"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.674413,
+        53.586633
+      ],
+      [
+        -0.674535,
+        53.586767
+      ],
+      [
+        -0.674517,
+        53.586907
+      ],
+      [
+        -0.674501,
+        53.586974
+      ],
+      [
+        -0.674458,
+        53.587021
+      ],
+      [
+        -0.674434,
+        53.587043
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2628",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2628"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654773,
+        53.580646
+      ],
+      [
+        -0.654809,
+        53.580541
+      ],
+      [
+        -0.654847,
+        53.580449
+      ],
+      [
+        -0.654826,
+        53.580312
+      ],
+      [
+        -0.654794,
+        53.580197
+      ],
+      [
+        -0.654992,
+        53.580133
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2626",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2626"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654298,
+        53.581595
+      ],
+      [
+        -0.654422,
+        53.581694
+      ],
+      [
+        -0.654508,
+        53.581768
+      ],
+      [
+        -0.65463,
+        53.581879
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2624",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2624"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654298,
+        53.581595
+      ],
+      [
+        -0.654486,
+        53.581502
+      ],
+      [
+        -0.654643,
+        53.581353
+      ],
+      [
+        -0.65469,
+        53.581226
+      ],
+      [
+        -0.654652,
+        53.581105
+      ],
+      [
+        -0.654556,
+        53.580997
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2622",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2622"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654992,
+        53.580133
+      ],
+      [
+        -0.655094,
+        53.580044
+      ],
+      [
+        -0.65512,
+        53.579907
+      ],
+      [
+        -0.655073,
+        53.579786
+      ],
+      [
+        -0.655019,
+        53.579643
+      ],
+      [
+        -0.654992,
+        53.579534
+      ],
+      [
+        -0.655062,
+        53.579378
+      ],
+      [
+        -0.65519,
+        53.579321
+      ],
+      [
+        -0.655461,
+        53.579242
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2620",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.25",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2620"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.655194,
+        53.57893
+      ],
+      [
+        -0.655266,
+        53.579034
+      ],
+      [
+        -0.655302,
+        53.579067
+      ],
+      [
+        -0.65541,
+        53.579162
+      ],
+      [
+        -0.655461,
+        53.579242
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2618",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "no",
+    "ccg_surface": "asphalt",
+    "id": "way/-2618"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654556,
+        53.580997
+      ],
+      [
+        -0.654525,
+        53.580878
+      ],
+      [
+        -0.654548,
+        53.580792
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2616",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2616"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.670422,
+        53.582536
+      ],
+      [
+        -0.670641,
+        53.582553
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2614",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2614"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.672025,
+        53.564434
+      ],
+      [
+        -0.67214,
+        53.564625
+      ],
+      [
+        -0.672296,
+        53.564781
+      ],
+      [
+        -0.672381,
+        53.564918
+      ],
+      [
+        -0.672473,
+        53.565087
+      ],
+      [
+        -0.672528,
+        53.565233
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2612",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "cycleway",
+    "ccg_lit": "yes",
+    "ccg_segregated": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2612"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.670521,
+        53.570702
+      ],
+      [
+        -0.670643,
+        53.570759
+      ],
+      [
+        -0.670707,
+        53.570792
+      ],
+      [
+        -0.670761,
+        53.570805
+      ],
+      [
+        -0.670807,
+        53.570805
+      ],
+      [
+        -0.67109,
+        53.570783
+      ],
+      [
+        -0.671768,
+        53.570719
+      ],
+      [
+        -0.671819,
+        53.570696
+      ],
+      [
+        -0.671841,
+        53.570655
+      ],
+      [
+        -0.671832,
+        53.570563
+      ],
+      [
+        -0.671805,
+        53.570111
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2610",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "2.5",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2610"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.673731,
+        53.589873
+      ],
+      [
+        -0.674052,
+        53.589886
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2608",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bicycle": "no",
+    "ccg_date": "20120316",
+    "ccg_est_width": "1.75",
+    "ccg_highway": "footway",
+    "ccg_lit": "yes",
+    "ccg_surface": "dirt",
+    "id": "way/-2608"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.65806,
+        53.554876
+      ],
+      [
+        -0.658382,
+        53.554822
+      ],
+      [
+        -0.658727,
+        53.554768
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2606",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_bridge": "yes",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "ccg_surface": "asphalt",
+    "id": "way/-2606"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.38547,
+        53.590984
+      ],
+      [
+        -0.385507,
+        53.591194
+      ],
+      [
+        -0.385526,
+        53.591299
+      ],
+      [
+        -0.385558,
+        53.591478
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2604",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway": "lane",
+    "ccg_cycleway:oneside": "lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_surface": "asphalt",
+    "id": "way/-2604"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654016,
+        53.586248
+      ],
+      [
+        -0.654067,
+        53.586519
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2602",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "pedestrian",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2602"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.64615,
+        53.590451
+      ],
+      [
+        -0.646367,
+        53.591038
+      ],
+      [
+        -0.64657,
+        53.591484
+      ],
+      [
+        -0.646725,
+        53.591887
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2600",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Burnham Road",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "ccg_surface": "asphalt",
+    "id": "way/-2600"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.411737,
+        53.653905
+      ],
+      [
+        -0.414626,
+        53.656847
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2598",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2598"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.376331,
+        53.568983
+      ],
+      [
+        -0.39572,
+        53.567622
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2596",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "secondary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Ashby High Street",
+    "ccg_ref": "B1450",
+    "ccg_surface": "asphalt",
+    "ccg_traffic_calming": "chicane",
+    "id": "way/-2596"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.637376,
+        53.566695
+      ],
+      [
+        -0.637894,
+        53.566737
+      ],
+      [
+        -0.637983,
+        53.566745
+      ],
+      [
+        -0.63819,
+        53.566756
+      ],
+      [
+        -0.638361,
+        53.566765
+      ],
+      [
+        -0.638457,
+        53.566771
+      ],
+      [
+        -0.63895,
+        53.566798
+      ],
+      [
+        -0.639288,
+        53.566819
+      ],
+      [
+        -0.639558,
+        53.566821
+      ],
+      [
+        -0.639672,
+        53.566804
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2594",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "secondary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Ashby High Street",
+    "ccg_ref": "B1450",
+    "ccg_surface": "asphalt",
+    "id": "way/-2594"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.633064,
+        53.566603
+      ],
+      [
+        -0.633947,
+        53.566607
+      ],
+      [
+        -0.63397,
+        53.566607
+      ],
+      [
+        -0.634541,
+        53.566603
+      ],
+      [
+        -0.634764,
+        53.566601
+      ],
+      [
+        -0.636063,
+        53.566622
+      ],
+      [
+        -0.636442,
+        53.566623
+      ],
+      [
+        -0.636883,
+        53.566653
+      ],
+      [
+        -0.636953,
+        53.566657
+      ],
+      [
+        -0.63706,
+        53.566664
+      ],
+      [
+        -0.637376,
+        53.566695
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2592",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2592"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.646518,
+        53.561587
+      ],
+      [
+        -0.646622,
+        53.562503
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2590",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2590"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.646622,
+        53.562503
+      ],
+      [
+        -0.646696,
+        53.56321
+      ],
+      [
+        -0.646702,
+        53.563265
+      ],
+      [
+        -0.646713,
+        53.563418
+      ],
+      [
+        -0.646722,
+        53.563535
+      ],
+      [
+        -0.64675,
+        53.563917
+      ],
+      [
+        -0.646828,
+        53.564729
+      ],
+      [
+        -0.646852,
+        53.564917
+      ],
+      [
+        -0.646874,
+        53.565158
+      ],
+      [
+        -0.646923,
+        53.565513
+      ],
+      [
+        -0.646948,
+        53.565587
+      ],
+      [
+        -0.647023,
+        53.56576
+      ],
+      [
+        -0.647136,
+        53.565965
+      ],
+      [
+        -0.647209,
+        53.566152
+      ],
+      [
+        -0.647214,
+        53.566228
+      ],
+      [
+        -0.647173,
+        53.566575
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2588",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2588"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.645563,
+        53.560089
+      ],
+      [
+        -0.646048,
+        53.560073
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2586",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2586"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654156,
+        53.5806
+      ],
+      [
+        -0.654281,
+        53.580233
+      ],
+      [
+        -0.654365,
+        53.579961
+      ],
+      [
+        -0.654565,
+        53.579142
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2584",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2584"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653687,
+        53.581928
+      ],
+      [
+        -0.653722,
+        53.581807
+      ],
+      [
+        -0.653794,
+        53.581611
+      ],
+      [
+        -0.654092,
+        53.580758
+      ],
+      [
+        -0.654156,
+        53.5806
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2582",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2582"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653511,
+        53.584398
+      ],
+      [
+        -0.653462,
+        53.58402
+      ],
+      [
+        -0.653424,
+        53.583811
+      ],
+      [
+        -0.653397,
+        53.583372
+      ],
+      [
+        -0.653373,
+        53.583249
+      ],
+      [
+        -0.65339,
+        53.582882
+      ],
+      [
+        -0.653445,
+        53.58262
+      ],
+      [
+        -0.653622,
+        53.582107
+      ],
+      [
+        -0.653687,
+        53.581928
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2580",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2580"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.646123,
+        53.590365
+      ],
+      [
+        -0.64615,
+        53.590451
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2578",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2578"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.648043,
+        53.593909
+      ],
+      [
+        -0.648566,
+        53.594355
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2576",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2576"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.656545,
+        53.559145
+      ],
+      [
+        -0.656561,
+        53.560113
+      ],
+      [
+        -0.656571,
+        53.560673
+      ],
+      [
+        -0.656592,
+        53.562271
+      ],
+      [
+        -0.656605,
+        53.56319
+      ],
+      [
+        -0.656633,
+        53.563805
+      ],
+      [
+        -0.65664,
+        53.563998
+      ],
+      [
+        -0.656677,
+        53.566667
+      ],
+      [
+        -0.656647,
+        53.566791
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2574",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2574"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654841,
+        53.577936
+      ],
+      [
+        -0.654852,
+        53.577213
+      ],
+      [
+        -0.654909,
+        53.576951
+      ],
+      [
+        -0.654962,
+        53.576883
+      ],
+      [
+        -0.655134,
+        53.576662
+      ],
+      [
+        -0.655563,
+        53.576265
+      ],
+      [
+        -0.655771,
+        53.576055
+      ],
+      [
+        -0.656035,
+        53.575776
+      ],
+      [
+        -0.656077,
+        53.57554
+      ],
+      [
+        -0.656083,
+        53.575228
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2572",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "ccg_date": "20120316",
+    "ccg_highway": "trunk",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Ashby Road",
+    "ccg_ref": "A159",
+    "ccg_surface": "asphalt",
+    "id": "way/-2572"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.655974,
+        53.574711
+      ],
+      [
+        -0.656083,
+        53.575228
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2570",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2570"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653719,
+        53.582092
+      ],
+      [
+        -0.653786,
+        53.581936
+      ],
+      [
+        -0.653826,
+        53.581821
+      ],
+      [
+        -0.653885,
+        53.581645
+      ],
+      [
+        -0.654016,
+        53.58129
+      ],
+      [
+        -0.654193,
+        53.580804
+      ],
+      [
+        -0.654201,
+        53.580778
+      ],
+      [
+        -0.654269,
+        53.580616
+      ],
+      [
+        -0.65438,
+        53.580312
+      ],
+      [
+        -0.654435,
+        53.580155
+      ],
+      [
+        -0.654481,
+        53.57998
+      ],
+      [
+        -0.654565,
+        53.579682
+      ],
+      [
+        -0.654652,
+        53.579305
+      ],
+      [
+        -0.654827,
+        53.579129
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2568",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2568"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653877,
+        53.58515
+      ],
+      [
+        -0.653822,
+        53.585003
+      ],
+      [
+        -0.653839,
+        53.584864
+      ],
+      [
+        -0.653896,
+        53.584728
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2566",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2566"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.62863,
+        53.571608
+      ],
+      [
+        -0.628912,
+        53.570943
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2564",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2564"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.624591,
+        53.578434
+      ],
+      [
+        -0.625681,
+        53.578013
+      ],
+      [
+        -0.626158,
+        53.577435
+      ],
+      [
+        -0.626221,
+        53.577304
+      ],
+      [
+        -0.626321,
+        53.577058
+      ],
+      [
+        -0.626722,
+        53.576042
+      ],
+      [
+        -0.62685,
+        53.575751
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2562",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2562"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.62685,
+        53.575751
+      ],
+      [
+        -0.627161,
+        53.575029
+      ],
+      [
+        -0.6275,
+        53.574236
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2560",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2560"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.6275,
+        53.574236
+      ],
+      [
+        -0.627747,
+        53.573661
+      ],
+      [
+        -0.627758,
+        53.573634
+      ],
+      [
+        -0.627828,
+        53.573464
+      ],
+      [
+        -0.628074,
+        53.572874
+      ],
+      [
+        -0.628147,
+        53.572679
+      ],
+      [
+        -0.628336,
+        53.57224
+      ],
+      [
+        -0.628475,
+        53.571928
+      ],
+      [
+        -0.62863,
+        53.571608
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2558",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2558"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.641886,
+        53.589504
+      ],
+      [
+        -0.64293,
+        53.589017
+      ],
+      [
+        -0.643733,
+        53.588643
+      ],
+      [
+        -0.644547,
+        53.588263
+      ],
+      [
+        -0.645513,
+        53.588015
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2556",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2556"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.638834,
+        53.56092
+      ],
+      [
+        -0.639604,
+        53.560728
+      ],
+      [
+        -0.639932,
+        53.560651
+      ],
+      [
+        -0.640356,
+        53.560559
+      ],
+      [
+        -0.640756,
+        53.560489
+      ],
+      [
+        -0.641388,
+        53.560412
+      ],
+      [
+        -0.642281,
+        53.560316
+      ],
+      [
+        -0.645563,
+        53.560089
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2554",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2554"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.63799,
+        53.561124
+      ],
+      [
+        -0.638205,
+        53.56107
+      ],
+      [
+        -0.638338,
+        53.561034
+      ],
+      [
+        -0.638622,
+        53.560969
+      ],
+      [
+        -0.638834,
+        53.56092
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2552",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.75",
+    "id": "way/-2552"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.623782,
+        53.56654
+      ],
+      [
+        -0.624139,
+        53.566529
+      ],
+      [
+        -0.624776,
+        53.56654
+      ],
+      [
+        -0.625774,
+        53.566547
+      ],
+      [
+        -0.62695,
+        53.566726
+      ],
+      [
+        -0.628344,
+        53.567116
+      ],
+      [
+        -0.628798,
+        53.567264
+      ],
+      [
+        -0.629859,
+        53.567782
+      ],
+      [
+        -0.630068,
+        53.567895
+      ],
+      [
+        -0.630345,
+        53.568034
+      ],
+      [
+        -0.630679,
+        53.568204
+      ],
+      [
+        -0.630923,
+        53.568331
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2550",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2550"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654057,
+        53.568931
+      ],
+      [
+        -0.654511,
+        53.5689
+      ],
+      [
+        -0.654832,
+        53.568878
+      ],
+      [
+        -0.655055,
+        53.568863
+      ],
+      [
+        -0.655538,
+        53.568831
+      ],
+      [
+        -0.655605,
+        53.568827
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2548",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2548"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.666704,
+        53.573909
+      ],
+      [
+        -0.667773,
+        53.574076
+      ],
+      [
+        -0.668437,
+        53.574159
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2546",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.75",
+    "id": "way/-2546"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.668437,
+        53.574159
+      ],
+      [
+        -0.66893,
+        53.574204
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2544",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2544"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.66893,
+        53.574204
+      ],
+      [
+        -0.669618,
+        53.574266
+      ],
+      [
+        -0.669702,
+        53.574273
+      ],
+      [
+        -0.67155,
+        53.574429
+      ],
+      [
+        -0.672171,
+        53.574474
+      ],
+      [
+        -0.672468,
+        53.574492
+      ],
+      [
+        -0.672837,
+        53.574502
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2542",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2542"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.672837,
+        53.574502
+      ],
+      [
+        -0.672889,
+        53.574503
+      ],
+      [
+        -0.673197,
+        53.574508
+      ],
+      [
+        -0.673503,
+        53.574508
+      ],
+      [
+        -0.673867,
+        53.574492
+      ],
+      [
+        -0.674308,
+        53.57447
+      ],
+      [
+        -0.674604,
+        53.574455
+      ],
+      [
+        -0.675096,
+        53.574419
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2540",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2540"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.675096,
+        53.574419
+      ],
+      [
+        -0.67533,
+        53.574414
+      ],
+      [
+        -0.676411,
+        53.574409
+      ],
+      [
+        -0.676454,
+        53.57441
+      ],
+      [
+        -0.676724,
+        53.574412
+      ],
+      [
+        -0.67701,
+        53.574379
+      ],
+      [
+        -0.677227,
+        53.574331
+      ],
+      [
+        -0.677411,
+        53.574266
+      ],
+      [
+        -0.677763,
+        53.574166
+      ],
+      [
+        -0.677927,
+        53.574149
+      ],
+      [
+        -0.678214,
+        53.574137
+      ],
+      [
+        -0.678494,
+        53.574146
+      ],
+      [
+        -0.678718,
+        53.57415
+      ],
+      [
+        -0.678892,
+        53.57416
+      ],
+      [
+        -0.679712,
+        53.574206
+      ],
+      [
+        -0.680384,
+        53.574242
+      ],
+      [
+        -0.681123,
+        53.574287
+      ],
+      [
+        -0.681633,
+        53.574316
+      ],
+      [
+        -0.681975,
+        53.574332
+      ],
+      [
+        -0.682548,
+        53.574351
+      ],
+      [
+        -0.682787,
+        53.574357
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2538",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "ccg_date": "20120316",
+    "ccg_highway": "trunk",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Ashby Road",
+    "ccg_ref": "A159",
+    "ccg_surface": "asphalt",
+    "id": "way/-2538"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654186,
+        53.56932
+      ],
+      [
+        -0.654288,
+        53.569546
+      ],
+      [
+        -0.654847,
+        53.570782
+      ],
+      [
+        -0.655039,
+        53.571355
+      ],
+      [
+        -0.65512,
+        53.5718
+      ],
+      [
+        -0.655219,
+        53.572385
+      ],
+      [
+        -0.655357,
+        53.57291
+      ],
+      [
+        -0.655393,
+        53.573033
+      ],
+      [
+        -0.655719,
+        53.574052
+      ],
+      [
+        -0.655974,
+        53.574711
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2536",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2536"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654714,
+        53.578728
+      ],
+      [
+        -0.654739,
+        53.578551
+      ],
+      [
+        -0.654841,
+        53.577936
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2534",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2534"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.682787,
+        53.574357
+      ],
+      [
+        -0.682812,
+        53.574581
+      ],
+      [
+        -0.682872,
+        53.575104
+      ],
+      [
+        -0.682951,
+        53.575837
+      ],
+      [
+        -0.683064,
+        53.576598
+      ],
+      [
+        -0.683167,
+        53.577336
+      ],
+      [
+        -0.683263,
+        53.578082
+      ],
+      [
+        -0.683417,
+        53.579583
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2532",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2532"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.683417,
+        53.579583
+      ],
+      [
+        -0.683442,
+        53.579968
+      ],
+      [
+        -0.683511,
+        53.580144
+      ],
+      [
+        -0.683543,
+        53.580283
+      ],
+      [
+        -0.683559,
+        53.58042
+      ],
+      [
+        -0.683572,
+        53.580533
+      ],
+      [
+        -0.683609,
+        53.580605
+      ],
+      [
+        -0.683715,
+        53.58065
+      ],
+      [
+        -0.683774,
+        53.580663
+      ],
+      [
+        -0.683832,
+        53.580662
+      ],
+      [
+        -0.683949,
+        53.580657
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2530",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2530"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.646896,
+        53.58781
+      ],
+      [
+        -0.647225,
+        53.589355
+      ],
+      [
+        -0.646709,
+        53.589459
+      ],
+      [
+        -0.646916,
+        53.590005
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2528",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2528"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.6475,
+        53.593048
+      ],
+      [
+        -0.647927,
+        53.593632
+      ],
+      [
+        -0.648043,
+        53.593909
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2526",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2526"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.649983,
+        53.570277
+      ],
+      [
+        -0.650109,
+        53.570227
+      ],
+      [
+        -0.650915,
+        53.570049
+      ],
+      [
+        -0.65196,
+        53.569778
+      ],
+      [
+        -0.652447,
+        53.569656
+      ],
+      [
+        -0.652479,
+        53.569648
+      ],
+      [
+        -0.652506,
+        53.569641
+      ],
+      [
+        -0.652953,
+        53.569528
+      ],
+      [
+        -0.653183,
+        53.56947
+      ],
+      [
+        -0.653441,
+        53.569425
+      ],
+      [
+        -0.653949,
+        53.569356
+      ],
+      [
+        -0.654186,
+        53.56932
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2524",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2524"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653796,
+        53.584374
+      ],
+      [
+        -0.653671,
+        53.584122
+      ],
+      [
+        -0.653601,
+        53.583922
+      ],
+      [
+        -0.653542,
+        53.583728
+      ],
+      [
+        -0.653493,
+        53.583426
+      ],
+      [
+        -0.653464,
+        53.583092
+      ],
+      [
+        -0.653483,
+        53.582887
+      ],
+      [
+        -0.653526,
+        53.582712
+      ],
+      [
+        -0.653602,
+        53.582453
+      ],
+      [
+        -0.65366,
+        53.582259
+      ],
+      [
+        -0.653719,
+        53.582092
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2522",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2522"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654201,
+        53.580778
+      ],
+      [
+        -0.654548,
+        53.580792
+      ],
+      [
+        -0.655052,
+        53.580833
+      ],
+      [
+        -0.655095,
+        53.580674
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2520",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2520"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.645907,
+        53.589722
+      ],
+      [
+        -0.646,
+        53.590042
+      ],
+      [
+        -0.646123,
+        53.590365
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2518",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "primary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "ccg_ref": "A18",
+    "id": "way/-2518"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.385471,
+        53.581888
+      ],
+      [
+        -0.386873,
+        53.581995
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2516",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2516"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.388252,
+        53.579166
+      ],
+      [
+        -0.388423,
+        53.578937
+      ],
+      [
+        -0.388823,
+        53.5784
+      ],
+      [
+        -0.389562,
+        53.577154
+      ],
+      [
+        -0.391545,
+        53.57416
+      ],
+      [
+        -0.391933,
+        53.573503
+      ],
+      [
+        -0.392946,
+        53.572008
+      ],
+      [
+        -0.39572,
+        53.567622
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2514",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2514"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.387975,
+        53.579536
+      ],
+      [
+        -0.388252,
+        53.579166
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2512",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "primary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "ccg_ref": "A18",
+    "id": "way/-2512"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.385458,
+        53.581991
+      ],
+      [
+        -0.385471,
+        53.581888
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2510",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2510"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.387308,
+        53.580388
+      ],
+      [
+        -0.387975,
+        53.579536
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2508",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2508"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.391238,
+        53.605534
+      ],
+      [
+        -0.391302,
+        53.605622
+      ],
+      [
+        -0.391585,
+        53.606096
+      ],
+      [
+        -0.391867,
+        53.606647
+      ],
+      [
+        -0.392679,
+        53.607938
+      ],
+      [
+        -0.392745,
+        53.608043
+      ],
+      [
+        -0.392791,
+        53.608117
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2506",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2506"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.385558,
+        53.591478
+      ],
+      [
+        -0.385615,
+        53.591677
+      ],
+      [
+        -0.38596,
+        53.59383
+      ],
+      [
+        -0.386049,
+        53.594671
+      ],
+      [
+        -0.386127,
+        53.595599
+      ],
+      [
+        -0.38622,
+        53.596249
+      ],
+      [
+        -0.38662,
+        53.597676
+      ],
+      [
+        -0.387044,
+        53.599037
+      ],
+      [
+        -0.387825,
+        53.600798
+      ],
+      [
+        -0.388596,
+        53.601979
+      ],
+      [
+        -0.389883,
+        53.60374
+      ],
+      [
+        -0.390253,
+        53.604268
+      ],
+      [
+        -0.391238,
+        53.605534
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2504",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Race Lane",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2504"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.398393,
+        53.639433
+      ],
+      [
+        -0.398422,
+        53.63932
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2502",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_name": "Race Lane",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2502"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.395333,
+        53.621413
+      ],
+      [
+        -0.395337,
+        53.621588
+      ],
+      [
+        -0.395562,
+        53.631366
+      ],
+      [
+        -0.395587,
+        53.632511
+      ],
+      [
+        -0.395609,
+        53.633099
+      ],
+      [
+        -0.395618,
+        53.633335
+      ],
+      [
+        -0.395818,
+        53.63382
+      ],
+      [
+        -0.396685,
+        53.635259
+      ],
+      [
+        -0.398072,
+        53.638496
+      ],
+      [
+        -0.398422,
+        53.63932
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2500",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2500"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.626847,
+        53.575748
+      ],
+      [
+        -0.62685,
+        53.575751
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2498",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2498"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653995,
+        53.585484
+      ],
+      [
+        -0.654062,
+        53.585783
+      ],
+      [
+        -0.654087,
+        53.586074
+      ],
+      [
+        -0.654023,
+        53.586193
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2496",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2496"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.628912,
+        53.570943
+      ],
+      [
+        -0.628982,
+        53.570736
+      ],
+      [
+        -0.629112,
+        53.57046
+      ],
+      [
+        -0.629384,
+        53.569687
+      ],
+      [
+        -0.629481,
+        53.569451
+      ],
+      [
+        -0.629753,
+        53.569097
+      ],
+      [
+        -0.629863,
+        53.56898
+      ],
+      [
+        -0.629995,
+        53.568862
+      ],
+      [
+        -0.630045,
+        53.568827
+      ],
+      [
+        -0.630417,
+        53.568656
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2494",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2494"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.630417,
+        53.568656
+      ],
+      [
+        -0.630494,
+        53.568602
+      ],
+      [
+        -0.630923,
+        53.568331
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2492",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.75",
+    "id": "way/-2492"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.630923,
+        53.568331
+      ],
+      [
+        -0.631461,
+        53.56861
+      ],
+      [
+        -0.632592,
+        53.569189
+      ],
+      [
+        -0.633786,
+        53.56984
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2490",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2490"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.641408,
+        53.584692
+      ],
+      [
+        -0.641975,
+        53.584656
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2488",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "residential",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_surface": "asphalt",
+    "id": "way/-2488"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.645513,
+        53.588015
+      ],
+      [
+        -0.645907,
+        53.589722
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2486",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2486"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653877,
+        53.58515
+      ],
+      [
+        -0.653995,
+        53.585484
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2484",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lcn": "yes",
+    "ccg_lit": "yes",
+    "ccg_name": "Station Road",
+    "ccg_surface": "asphalt",
+    "id": "way/-2484"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.645513,
+        53.588015
+      ],
+      [
+        -0.645612,
+        53.587979
+      ],
+      [
+        -0.645878,
+        53.587937
+      ],
+      [
+        -0.646896,
+        53.58781
+      ],
+      [
+        -0.64794,
+        53.587616
+      ],
+      [
+        -0.648692,
+        53.587483
+      ],
+      [
+        -0.649031,
+        53.587433
+      ],
+      [
+        -0.649983,
+        53.587173
+      ],
+      [
+        -0.650452,
+        53.587016
+      ],
+      [
+        -0.650938,
+        53.586805
+      ],
+      [
+        -0.651319,
+        53.586651
+      ],
+      [
+        -0.65168,
+        53.586521
+      ],
+      [
+        -0.651999,
+        53.586431
+      ],
+      [
+        -0.652298,
+        53.586366
+      ],
+      [
+        -0.65256,
+        53.586325
+      ],
+      [
+        -0.653003,
+        53.586302
+      ],
+      [
+        -0.653648,
+        53.58629
+      ],
+      [
+        -0.653962,
+        53.586224
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2482",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2482"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653962,
+        53.586224
+      ],
+      [
+        -0.654019,
+        53.586223
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2480",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2480"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654019,
+        53.586223
+      ],
+      [
+        -0.654023,
+        53.586193
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2478",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2478"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654019,
+        53.586223
+      ],
+      [
+        -0.654079,
+        53.586222
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2476",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2476"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.654016,
+        53.586248
+      ],
+      [
+        -0.654019,
+        53.586223
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2474",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:otherside": "Lane",
+    "ccg_cycleway:otherside:width": "1.25",
+    "id": "way/-2474"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.6787,
+        53.604119
+      ],
+      [
+        -0.678703,
+        53.604302
+      ],
+      [
+        -0.678736,
+        53.604469
+      ],
+      [
+        -0.678819,
+        53.604711
+      ],
+      [
+        -0.678929,
+        53.604906
+      ],
+      [
+        -0.679013,
+        53.605031
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2472",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2472"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.6787,
+        53.604119
+      ],
+      [
+        -0.678708,
+        53.603994
+      ],
+      [
+        -0.678761,
+        53.603858
+      ],
+      [
+        -0.678824,
+        53.60369
+      ],
+      [
+        -0.678986,
+        53.603455
+      ],
+      [
+        -0.679278,
+        53.603117
+      ],
+      [
+        -0.679554,
+        53.602764
+      ],
+      [
+        -0.679661,
+        53.602621
+      ],
+      [
+        -0.679806,
+        53.602358
+      ],
+      [
+        -0.679903,
+        53.602098
+      ],
+      [
+        -0.679952,
+        53.601844
+      ],
+      [
+        -0.679962,
+        53.601586
+      ],
+      [
+        -0.679925,
+        53.601321
+      ],
+      [
+        -0.679861,
+        53.60108
+      ],
+      [
+        -0.679755,
+        53.60083
+      ],
+      [
+        -0.67963,
+        53.600637
+      ],
+      [
+        -0.679538,
+        53.600486
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2470",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2470"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.67887,
+        53.598801
+      ],
+      [
+        -0.678869,
+        53.598809
+      ],
+      [
+        -0.678816,
+        53.598972
+      ],
+      [
+        -0.678797,
+        53.59913
+      ],
+      [
+        -0.678779,
+        53.599253
+      ],
+      [
+        -0.678787,
+        53.599405
+      ],
+      [
+        -0.678851,
+        53.59958
+      ],
+      [
+        -0.678929,
+        53.599736
+      ],
+      [
+        -0.679538,
+        53.600486
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2468",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2468"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653765,
+        53.585172
+      ],
+      [
+        -0.653899,
+        53.585495
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2466",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2466"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653496,
+        53.584727
+      ],
+      [
+        -0.65361,
+        53.584879
+      ],
+      [
+        -0.653689,
+        53.585015
+      ],
+      [
+        -0.653765,
+        53.585172
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2464",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:oneside": "Lane",
+    "ccg_cycleway:oneside:width": "1.25",
+    "id": "way/-2464"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.653899,
+        53.585495
+      ],
+      [
+        -0.65393,
+        53.585634
+      ],
+      [
+        -0.653958,
+        53.585777
+      ],
+      [
+        -0.653982,
+        53.586069
+      ],
+      [
+        -0.654023,
+        53.586193
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2462",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2462"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.398393,
+        53.639433
+      ],
+      [
+        -0.398596,
+        53.63995
+      ],
+      [
+        -0.398673,
+        53.640084
+      ],
+      [
+        -0.399295,
+        53.640351
+      ],
+      [
+        -0.399617,
+        53.640345
+      ],
+      [
+        -0.401612,
+        53.639976
+      ],
+      [
+        -0.401945,
+        53.640039
+      ],
+      [
+        -0.401988,
+        53.640167
+      ],
+      [
+        -0.402106,
+        53.64058
+      ],
+      [
+        -0.402492,
+        53.641496
+      ],
+      [
+        -0.403297,
+        53.643099
+      ],
+      [
+        -0.403608,
+        53.644072
+      ],
+      [
+        -0.404411,
+        53.645706
+      ],
+      [
+        -0.405067,
+        53.646768
+      ],
+      [
+        -0.406417,
+        53.648218
+      ],
+      [
+        -0.407694,
+        53.649725
+      ],
+      [
+        -0.411737,
+        53.653905
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2460",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.25",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.25",
+    "id": "way/-2460"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.648676,
+        53.594688
+      ],
+      [
+        -0.649142,
+        53.594957
+      ],
+      [
+        -0.649747,
+        53.595482
+      ],
+      [
+        -0.649902,
+        53.595709
+      ],
+      [
+        -0.650713,
+        53.597155
+      ],
+      [
+        -0.650679,
+        53.597829
+      ],
+      [
+        -0.650701,
+        53.598002
+      ],
+      [
+        -0.650741,
+        53.598132
+      ],
+      [
+        -0.650786,
+        53.598259
+      ],
+      [
+        -0.650847,
+        53.598406
+      ],
+      [
+        -0.650979,
+        53.598574
+      ],
+      [
+        -0.651169,
+        53.598781
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2458",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway": "lane",
+    "ccg_cycleway:left": "lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "lane",
+    "ccg_cycleway:right:width": "1.75",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_surface": "asphalt",
+    "id": "way/-2458"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.651169,
+        53.598781
+      ],
+      [
+        -0.651389,
+        53.599018
+      ],
+      [
+        -0.651617,
+        53.599285
+      ],
+      [
+        -0.651834,
+        53.599631
+      ],
+      [
+        -0.651985,
+        53.599984
+      ],
+      [
+        -0.652046,
+        53.600245
+      ],
+      [
+        -0.652076,
+        53.600458
+      ],
+      [
+        -0.652085,
+        53.600761
+      ],
+      [
+        -0.652055,
+        53.601078
+      ],
+      [
+        -0.651923,
+        53.601589
+      ],
+      [
+        -0.651904,
+        53.601818
+      ],
+      [
+        -0.651893,
+        53.602219
+      ],
+      [
+        -0.651936,
+        53.602616
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2456",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2456"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.656545,
+        53.559145
+      ],
+      [
+        -0.656561,
+        53.558946
+      ],
+      [
+        -0.656578,
+        53.558798
+      ],
+      [
+        -0.656622,
+        53.558571
+      ],
+      [
+        -0.656688,
+        53.558347
+      ],
+      [
+        -0.656781,
+        53.558128
+      ],
+      [
+        -0.656821,
+        53.558046
+      ],
+      [
+        -0.656922,
+        53.557887
+      ],
+      [
+        -0.657077,
+        53.557664
+      ],
+      [
+        -0.657222,
+        53.55749
+      ],
+      [
+        -0.657351,
+        53.557331
+      ],
+      [
+        -0.657459,
+        53.557161
+      ],
+      [
+        -0.657547,
+        53.556974
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2454",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_cycleway:left": "Lane",
+    "ccg_cycleway:left:width": "1.75",
+    "ccg_cycleway:right": "Lane",
+    "ccg_cycleway:right:width": "1.75",
+    "id": "way/-2454"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.657521,
+        53.552791
+      ],
+      [
+        -0.657562,
+        53.553066
+      ],
+      [
+        -0.657568,
+        53.553233
+      ],
+      [
+        -0.657566,
+        53.553379
+      ],
+      [
+        -0.657564,
+        53.55352
+      ],
+      [
+        -0.657563,
+        53.553606
+      ],
+      [
+        -0.657562,
+        53.553668
+      ],
+      [
+        -0.657562,
+        53.553689
+      ],
+      [
+        -0.657561,
+        53.553745
+      ],
+      [
+        -0.65756,
+        53.553797
+      ],
+      [
+        -0.657559,
+        53.55387
+      ],
+      [
+        -0.657558,
+        53.553918
+      ],
+      [
+        -0.657558,
+        53.553951
+      ],
+      [
+        -0.657557,
+        53.554027
+      ],
+      [
+        -0.657556,
+        53.554057
+      ],
+      [
+        -0.657555,
+        53.554107
+      ],
+      [
+        -0.657555,
+        53.554157
+      ],
+      [
+        -0.657554,
+        53.554182
+      ],
+      [
+        -0.657554,
+        53.554205
+      ],
+      [
+        -0.657554,
+        53.554261
+      ],
+      [
+        -0.657558,
+        53.554328
+      ],
+      [
+        -0.657561,
+        53.554414
+      ],
+      [
+        -0.657564,
+        53.554511
+      ],
+      [
+        -0.657565,
+        53.554545
+      ],
+      [
+        -0.657567,
+        53.554633
+      ],
+      [
+        -0.657568,
+        53.554686
+      ],
+      [
+        -0.657573,
+        53.554797
+      ],
+      [
+        -0.657576,
+        53.554821
+      ],
+      [
+        -0.657577,
+        53.554853
+      ],
+      [
+        -0.657577,
+        53.554952
+      ],
+      [
+        -0.65758,
+        53.555057
+      ],
+      [
+        -0.657578,
+        53.555192
+      ],
+      [
+        -0.657581,
+        53.555356
+      ],
+      [
+        -0.657582,
+        53.555461
+      ],
+      [
+        -0.657586,
+        53.555573
+      ],
+      [
+        -0.657589,
+        53.555635
+      ],
+      [
+        -0.65759,
+        53.555686
+      ],
+      [
+        -0.657592,
+        53.555776
+      ],
+      [
+        -0.657595,
+        53.555904
+      ],
+      [
+        -0.657598,
+        53.556032
+      ],
+      [
+        -0.657602,
+        53.556123
+      ],
+      [
+        -0.657603,
+        53.556197
+      ],
+      [
+        -0.657606,
+        53.556278
+      ],
+      [
+        -0.657609,
+        53.55635
+      ],
+      [
+        -0.657611,
+        53.556422
+      ],
+      [
+        -0.657613,
+        53.556489
+      ],
+      [
+        -0.657612,
+        53.556562
+      ],
+      [
+        -0.65761,
+        53.55662
+      ],
+      [
+        -0.657607,
+        53.556701
+      ],
+      [
+        -0.657596,
+        53.556783
+      ],
+      [
+        -0.657586,
+        53.556848
+      ],
+      [
+        -0.657579,
+        53.556873
+      ],
+      [
+        -0.657552,
+        53.556957
+      ],
+      [
+        -0.657547,
+        53.556974
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2452",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2452"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.385276,
+        53.583502
+      ],
+      [
+        -0.385331,
+        53.582879
+      ],
+      [
+        -0.385369,
+        53.582616
+      ],
+      [
+        -0.385406,
+        53.582146
+      ],
+      [
+        -0.385458,
+        53.581991
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2450",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2450"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.386873,
+        53.581995
+      ],
+      [
+        -0.386913,
+        53.581719
+      ],
+      [
+        -0.387012,
+        53.581346
+      ],
+      [
+        -0.387049,
+        53.581028
+      ],
+      [
+        -0.387072,
+        53.580918
+      ],
+      [
+        -0.38711,
+        53.580662
+      ],
+      [
+        -0.387308,
+        53.580388
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2448",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2448"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.38547,
+        53.590984
+      ],
+      [
+        -0.385389,
+        53.590326
+      ],
+      [
+        -0.385283,
+        53.589413
+      ],
+      [
+        -0.385214,
+        53.588388
+      ],
+      [
+        -0.385214,
+        53.587998
+      ],
+      [
+        -0.385237,
+        53.58704
+      ],
+      [
+        -0.385234,
+        53.586023
+      ],
+      [
+        -0.385243,
+        53.584037
+      ],
+      [
+        -0.385276,
+        53.583502
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/-2446",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_date": "20120316",
+    "ccg_highway": "tertiary",
+    "ccg_lit": "no",
+    "ccg_ncn": "yes",
+    "ccg_ncn_ref": "1",
+    "id": "way/-2446"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -0.392791,
+        53.608117
+      ],
+      [
+        -0.39291,
+        53.608266
+      ],
+      [
+        -0.393008,
+        53.608423
+      ],
+      [
+        -0.393156,
+        53.608625
+      ],
+      [
+        -0.39325,
+        53.608864
+      ],
+      [
+        -0.393436,
+        53.609429
+      ],
+      [
+        -0.393552,
+        53.609766
+      ],
+      [
+        -0.394062,
+        53.611453
+      ],
+      [
+        -0.394663,
+        53.613336
+      ],
+      [
+        -0.394989,
+        53.614392
+      ],
+      [
+        -0.395116,
+        53.614833
+      ],
+      [
+        -0.395143,
+        53.614973
+      ],
+      [
+        -0.395165,
+        53.615068
+      ],
+      [
+        -0.395186,
+        53.615412
+      ],
+      [
+        -0.395206,
+        53.61649
+      ],
+      [
+        -0.395243,
+        53.617912
+      ],
+      [
+        -0.395263,
+        53.618807
+      ],
+      [
+        -0.395308,
+        53.620394
+      ],
+      [
+        -0.39532,
+        53.621203
+      ],
+      [
+        -0.395333,
+        53.621413
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-2304",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_barrier": "cycle_barrier",
+    "id": "node/-2304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.671926,
+      53.59499
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-2156",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "pelican",
+    "ccg_highway": "crossing",
+    "id": "node/-2156"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.645932,
+      53.57649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-2084",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_barrier": "cycle_barrier",
+    "id": "node/-2084"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.67214,
+      53.564625
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-2058",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "toucan",
+    "ccg_highway": "crossing",
+    "id": "node/-2058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.630159,
+      53.585108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1914",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "toucan",
+    "ccg_highway": "crossing",
+    "id": "node/-1914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.673538,
+      53.585577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1858",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "toucan",
+    "ccg_highway": "crossing",
+    "id": "node/-1858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.684237,
+      53.590112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1788",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "toucan",
+    "ccg_highway": "crossing",
+    "id": "node/-1788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.660872,
+      53.578783
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1734",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "toucan",
+    "ccg_highway": "crossing",
+    "id": "node/-1734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.670641,
+      53.582553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1410",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_barrier": "cycle_barrier",
+    "id": "node/-1410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.65806,
+      53.554876
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-1104",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_barrier": "cycle_barrier",
+    "id": "node/-1104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.658727,
+      53.554768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-866",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_barrier": "cycle_barrier",
+    "id": "node/-866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.671418,
+      53.594957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-504",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "toucan",
+    "ccg_highway": "crossing",
+    "id": "node/-504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.672528,
+      53.565233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/-216",
+  "properties": {
+    "timestamp": "2012-03-27T13:29:00Z",
+    "version": "1",
+    "ccg_crossing": "toucan",
+    "ccg_highway": "crossing",
+    "id": "node/-216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.632604,
+      53.566384
+    ]
+  }
+}
+]
+}
